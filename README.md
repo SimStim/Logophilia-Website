@@ -1,1 +1,1 @@
-# Logophilia-Website
+# Logophilia.EU Website
