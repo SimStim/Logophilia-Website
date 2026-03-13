@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://logophilia.eu/</loc>
+    <lastmod>2026-03-13T03:42:33-03:00</lastmod>
+  </url><url>
+    <loc>https://logophilia.eu/posts/my-first-post/</loc>
+    <lastmod>2026-03-13T03:42:33-03:00</lastmod>
+  </url><url>
+    <loc>https://logophilia.eu/posts/</loc>
+    <lastmod>2026-03-13T03:42:33-03:00</lastmod>
+  </url><url>
+    <loc>https://logophilia.eu/categories/</loc>
+  </url><url>
+    <loc>https://logophilia.eu/tags/</loc>
+  </url>
+</urlset>

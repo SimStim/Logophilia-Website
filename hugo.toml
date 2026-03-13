@@ -1,0 +1,4 @@
+baseURL = 'https://logophilia.eu/'
+languageCode = 'en-us'
+title = 'Logophilia'
+theme = 'ananke'
