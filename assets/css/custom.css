@@ -1,0 +1,42 @@
+@font-face {
+    font-family: "EBGaramond";
+    src: url(fonts/EBGaramond-VariableFont_wght.ttf)
+}
+
+@font-face {
+    font-family: "EBGaramond";
+    font-weight: bold;
+    src: url(fonts/EBGaramond-VariableFont_wght.ttf)
+}
+
+@font-face {
+    font-family: "EBGaramond";
+    font-style: italic;
+    src: url(fonts/EBGaramond-Italic-VariableFont_wght.ttf)
+}
+
+@font-face {
+    font-family: "EBGaramond";
+    font-weight: bold;
+    font-style: italic;
+    src: url(/fonts/EBGaramond-Italic-VariableFont_wght.ttf)
+}
+
+@font-face {
+    font-family: "Comfortaa";
+    font-weight: bold;
+    src: url(/fonts/Comfortaa-Bold.ttf)
+}
+
+html {
+    font-family: EBGaramond;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: Comfortaa, sans-serif;
+}
+
+.image-float-left {
+    float: left;
+    margin: 0.25em 0.75em 0 0;
+}

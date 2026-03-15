@@ -1,0 +1,95 @@
+# -- Main Menu --
+# The main menu is displayed in the header at the top of the page.
+# Acceptable parameters are name, pageRef, page, url, title, weight.
+# 
+# The simplest menu configuration is to provide:
+#   name = The name to be displayed for this menu link
+#   pageRef = The identifier of the page or section to link to
+#
+# By default the menu is ordered alphabetically. This can be
+# overridden by providing a weight value. The menu will then be
+# ordered by weight from lowest to highest.
+
+[[main]]
+name = "Info"
+pageRef =  "about"
+weight = 10
+
+[[main]]
+name = "Contact"
+pageRef = "contact"
+weight = 20
+
+[[main]]
+name = "Terms"
+pageRef = "terms"
+weight = 30
+
+[[main]]
+name = "Our goals"
+parent = "Info"
+pageRef = "our-goals"
+weight = 20
+
+[[main]]
+name = "Logophilia Essentials"
+parent = "Info"
+pageRef = "logophilia-essentials"
+weight = 30
+
+[[main]]
+name = "Authors"
+parent = "Info"
+pageRef = "authors"
+weight = 40
+
+[[main]]
+name = "Logophilia Essentials"
+parent = "Info"
+pageRef = "logophilia-essentials"
+weight = 30
+
+[[main]]
+name = "Calling All Authors"
+parent = "Info"
+pageRef = "calling-all-authors"
+weight = 40
+
+[[main]]
+name = "Standard Terms for Publication"
+parent = "Info"
+pageRef = "standard-terms-for-publication"
+weight = 50
+
+[[main]]
+name = "The Logophilia Edge"
+parent = "Info"
+pageRef = "the-logophilia-edge"
+weight = 60
+
+[[main]]
+name = "Cookie Policy"
+parent = "Terms"
+pageRef = "cookie-policy-eu"
+weight = 30
+
+[[subnavigation]]
+name = "Lea EPUB Anvil"
+pre = "github"
+url = "https://github.com/SimStim/Lea.git"
+weight = 10
+
+# -- Footer Menu --
+# The footer menu is displayed at the bottom of the page, just before
+# the copyright notice. Configure as per the main menu above.
+
+
+# [[footer]]
+#   name = "Tags"
+#   pageRef = "tags"
+#   weight = 10
+
+# [[footer]]
+#   name = "Categories"
+#   pageRef = "categories"
+#   weight = 20

@@ -1,0 +1,19 @@
+{{ $src := .Get "src" }}
+{{ $alt := .Get "alt" | default "Copyright by Logophilia" }}
+{{ $width := .Get "width" | default 320 }}
+{{ $height := .Get "height" | default 320 }}
+{{ $class := .Get "class" | default "image-float-left" }}
+{{ $res := resources.Get $src }}
+{{ with $res }}
+    <div class="{{ $class }}">
+        <img
+            src="{{ .RelPermalink }}"
+            alt="{{ $alt }}"
+            width="{{ $width }}"
+            height="{{ $height }}"
+            class="{{ $class }}"
+        />
+    </div>
+{{ else }}
+    {{ errorf "Image not found at %s" $src }}
+{{ end }}

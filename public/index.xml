@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Welcome on Welcome to Logophilia!</title>
+    <link>//localhost:1313/</link>
+    <description>Recent content in Welcome on Welcome to Logophilia!</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2026 </copyright>
+    <lastBuildDate>Sat, 14 Mar 2026 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Website Terms of Use</title>
+      <link>//localhost:1313/terms/</link>
+      <pubDate>Sat, 14 Mar 2026 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/terms/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>The Logophilia Edge</title>
+      <link>//localhost:1313/the-logophilia-edge/</link>
+      <pubDate>Sat, 14 Mar 2026 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/the-logophilia-edge/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Standard Terms for Publication</title>
+      <link>//localhost:1313/standard-terms-for-publication/</link>
+      <pubDate>Sat, 14 Mar 2026 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/standard-terms-for-publication/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Calling All Authors</title>
+      <link>//localhost:1313/calling-all-authors/</link>
+      <pubDate>Sat, 14 Mar 2026 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/calling-all-authors/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Logophilia Essentials</title>
+      <link>//localhost:1313/logophilia-essentials/</link>
+      <pubDate>Sat, 14 Mar 2026 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/logophilia-essentials/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Our goals</title>
+      <link>//localhost:1313/our-goals/</link>
+      <pubDate>Sat, 14 Mar 2026 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/our-goals/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>A bit about us</title>
+      <link>//localhost:1313/about/</link>
+      <pubDate>Sat, 14 Mar 2026 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/about/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Arthur Ignatius Conan Doyle</title>
+      <link>//localhost:1313/authors/arthur-conan-doyle/</link>
+      <pubDate>Sat, 14 Mar 2026 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/authors/arthur-conan-doyle/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Cookie Policy (EU)</title>
+      <link>//localhost:1313/cookie-policy-eu/</link>
+      <pubDate>Sat, 14 Mar 2026 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/cookie-policy-eu/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Isaac Asimov</title>
+      <link>//localhost:1313/authors/isaac-asimov/</link>
+      <pubDate>Sat, 14 Mar 2026 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/authors/isaac-asimov/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>
