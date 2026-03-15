@@ -29,6 +29,8 @@ enableEmoji = true
   category = "categories"
   author = "authors"
   series = "series"
+  story = "stories"
+  publication = "publications"
 
 [sitemap]
   changefreq = 'daily'

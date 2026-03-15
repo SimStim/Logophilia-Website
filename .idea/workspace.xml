@@ -4,7 +4,46 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5472684e-ca05-4289-9d23-bfd482c66916" name="Changes" comment="increased font sizes and adjusted line heights." />
+    <list default="true" id="5472684e-ca05-4289-9d23-bfd482c66916" name="Changes" comment="Merge remote-tracking branch 'origin/main'">
+      <change afterPath="$PROJECT_DIR$/content/contact/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/contact/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/publications/the-pitch-science-fiction-2q2024/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/stories/youth/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layouts/authors/list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layouts/stories/list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/archetypes/default.md" beforeDir="false" afterPath="$PROJECT_DIR$/archetypes/default.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/_default/hugo.toml" beforeDir="false" afterPath="$PROJECT_DIR$/config/_default/hugo.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/_default/menus.en.toml" beforeDir="false" afterPath="$PROJECT_DIR$/config/_default/menus.en.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/_default/params.toml" beforeDir="false" afterPath="$PROJECT_DIR$/config/_default/params.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/about/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/about/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/authors/_index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/authors/arthur-conan-doyle/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/authors/arthur-conan-doyle/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/authors/isaac-asimov/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/authors/isaac-asimov/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/404.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/about/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/about/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/authors/arthur-conan-doyle/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/authors/arthur-conan-doyle/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/authors/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/authors/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/authors/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/authors/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/authors/isaac-asimov/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/authors/isaac-asimov/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/authors/isaac-asimov/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/authors/isaac-asimov/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/authors/isaac-asimov/isaac-asimov/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/authors/isaac-asimov/isaac-asimov/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/calling-all-authors/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/calling-all-authors/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/categories/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/categories/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/cookie-policy-eu/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/cookie-policy-eu/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/logophilia-essentials/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/logophilia-essentials/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/our-goals/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/our-goals/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/our-goals/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/our-goals/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/series/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/series/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/sitemap.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/sitemap.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/standard-terms-for-publication/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/standard-terms-for-publication/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/terms/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/terms/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/the-logophilia-edge/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/the-logophilia-edge/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,13 +53,14 @@
     <execution />
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="2427" />
+    <option name="cachedIndexableFilesCount" value="2429" />
     <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -54,36 +94,37 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
-    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/Ed/Nextcloud-Logophilia/Logophilia.eu/website&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
-    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "DefaultHtmlFileTemplate": "HTML File",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kronk.content.tree.expanded.paths": "",
+    "last_opened_file_path": "/home/Ed/Nextcloud-Logophilia/Logophilia.eu/website",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/assets/img" />
-      <recent name="$PROJECT_DIR$/content/authors/arthur-conan-doyle" />
-      <recent name="$PROJECT_DIR$/content/our-goals" />
-      <recent name="$PROJECT_DIR$/content" />
-      <recent name="$PROJECT_DIR$/content/authors/about-us" />
+      <recent name="$PROJECT_DIR$/content/contact" />
+      <recent name="$PROJECT_DIR$/assets" />
+      <recent name="$PROJECT_DIR$/layouts/publications" />
+      <recent name="$PROJECT_DIR$/content/publications/the-pitch-science-fiction-2q2024" />
+      <recent name="$PROJECT_DIR$/content/publications" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -112,6 +153,7 @@
       <workItem from="1773550273199" duration="259000" />
       <workItem from="1773583513599" duration="670000" />
       <workItem from="1773584330950" duration="243000" />
+      <workItem from="1773584576448" duration="14461000" />
     </task>
     <task id="LOCAL-00001" summary="switched to blowfish theme; initial menu setup">
       <option name="closed" value="true" />
@@ -169,7 +211,23 @@
       <option name="project" value="LOCAL" />
       <updated>1773584558138</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Merge remote-tracking branch 'origin/main'">
+      <option name="closed" value="true" />
+      <created>1773584666774</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1773584666775</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Merge remote-tracking branch 'origin/main'">
+      <option name="closed" value="true" />
+      <created>1773584758762</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1773584758762</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -192,6 +250,7 @@
     </ignored-roots>
     <MESSAGE value="switched to blowfish theme; initial menu setup" />
     <MESSAGE value="increased font sizes and adjusted line heights." />
-    <option name="LAST_COMMIT_MESSAGE" value="increased font sizes and adjusted line heights." />
+    <MESSAGE value="Merge remote-tracking branch 'origin/main'" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/main'" />
   </component>
 </project>
