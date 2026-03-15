@@ -7,12 +7,12 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2026 </copyright>
-    <lastBuildDate>Sat, 14 Mar 2026 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Website Terms of Use</title>
       <link>//localhost:1313/terms/</link>
-      <pubDate>Sat, 14 Mar 2026 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>//localhost:1313/terms/</guid>
       <description></description>
@@ -22,7 +22,7 @@
     <item>
       <title>The Logophilia Edge</title>
       <link>//localhost:1313/the-logophilia-edge/</link>
-      <pubDate>Sat, 14 Mar 2026 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>//localhost:1313/the-logophilia-edge/</guid>
       <description></description>
@@ -32,7 +32,7 @@
     <item>
       <title>Standard Terms for Publication</title>
       <link>//localhost:1313/standard-terms-for-publication/</link>
-      <pubDate>Sat, 14 Mar 2026 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>//localhost:1313/standard-terms-for-publication/</guid>
       <description></description>
@@ -42,7 +42,7 @@
     <item>
       <title>Calling All Authors</title>
       <link>//localhost:1313/calling-all-authors/</link>
-      <pubDate>Sat, 14 Mar 2026 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>//localhost:1313/calling-all-authors/</guid>
       <description></description>
@@ -52,7 +52,7 @@
     <item>
       <title>Logophilia Essentials</title>
       <link>//localhost:1313/logophilia-essentials/</link>
-      <pubDate>Sat, 14 Mar 2026 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>//localhost:1313/logophilia-essentials/</guid>
       <description></description>
@@ -62,7 +62,7 @@
     <item>
       <title>Our goals</title>
       <link>//localhost:1313/our-goals/</link>
-      <pubDate>Sat, 14 Mar 2026 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>//localhost:1313/our-goals/</guid>
       <description></description>
@@ -70,9 +70,9 @@
     </item>
     
     <item>
-      <title>A bit about us</title>
+      <title>A Bit About Us</title>
       <link>//localhost:1313/about/</link>
-      <pubDate>Sat, 14 Mar 2026 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>//localhost:1313/about/</guid>
       <description></description>
@@ -82,7 +82,7 @@
     <item>
       <title>Arthur Ignatius Conan Doyle</title>
       <link>//localhost:1313/authors/arthur-conan-doyle/</link>
-      <pubDate>Sat, 14 Mar 2026 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>//localhost:1313/authors/arthur-conan-doyle/</guid>
       <description></description>
@@ -90,9 +90,19 @@
     </item>
     
     <item>
+      <title>Contact Us</title>
+      <link>//localhost:1313/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/contact/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
       <title>Cookie Policy (EU)</title>
       <link>//localhost:1313/cookie-policy-eu/</link>
-      <pubDate>Sat, 14 Mar 2026 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>//localhost:1313/cookie-policy-eu/</guid>
       <description></description>
@@ -100,11 +110,231 @@
     </item>
     
     <item>
+      <title>Cordwainer Smith</title>
+      <link>//localhost:1313/authors/cordwainer-smith/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/authors/cordwainer-smith/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Edward Elmer Smith</title>
+      <link>//localhost:1313/authors/e-e-smith/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/authors/e-e-smith/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
       <title>Isaac Asimov</title>
       <link>//localhost:1313/authors/isaac-asimov/</link>
-      <pubDate>Sat, 14 Mar 2026 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>//localhost:1313/authors/isaac-asimov/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Jack Vance</title>
+      <link>//localhost:1313/authors/jack-vance/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/authors/jack-vance/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Last Call From Sector 9G</title>
+      <link>//localhost:1313/stories/last-call-from-sector-9g/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/stories/last-call-from-sector-9g/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Leigh Brackett</title>
+      <link>//localhost:1313/authors/leigh-brackett/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/authors/leigh-brackett/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Murray Leinster</title>
+      <link>//localhost:1313/authors/murray-leinster/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/authors/murray-leinster/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Out of the Iron Womb!</title>
+      <link>//localhost:1313/stories/out-of-the-iron-womb/out-of-the-iron-womb/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/stories/out-of-the-iron-womb/out-of-the-iron-womb/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Philip José Farmer</title>
+      <link>//localhost:1313/authors/philip-jose-farmer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/authors/philip-jose-farmer/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Philip K. Dick</title>
+      <link>//localhost:1313/authors/philip-k-dick/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/authors/philip-k-dick/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Poul Anderson</title>
+      <link>//localhost:1313/authors/poul-anderson/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/authors/poul-anderson/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Ray Bradbury</title>
+      <link>//localhost:1313/authors/ray-bradbury/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/authors/ray-bradbury/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Sjambak</title>
+      <link>//localhost:1313/stories/sjambak/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/stories/sjambak/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>The Fifth-Dimension Tube</title>
+      <link>//localhost:1313/stories/the-fifth-dimension-tube/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/stories/the-fifth-dimension-tube/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>The Game of Rat and Dragon</title>
+      <link>//localhost:1313/stories/the-game-of-rat-and-dragon/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/stories/the-game-of-rat-and-dragon/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>The Hanging Stranger</title>
+      <link>//localhost:1313/stories/the-hanging-stranger/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/stories/the-hanging-stranger/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>The Monster Maker</title>
+      <link>//localhost:1313/stories/the-monster-maker/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/stories/the-monster-maker/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>The Pitch Science Fiction 2024</title>
+      <link>//localhost:1313/series/the-pitch-science-fiction/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/series/the-pitch-science-fiction/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>The Pitch Science Fiction 2Q2024</title>
+      <link>//localhost:1313/publications/the-pitch-science-fiction-2q2024/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/publications/the-pitch-science-fiction-2q2024/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>The Pitch Science Fiction 3Q2024</title>
+      <link>//localhost:1313/publications/the-pitch-science-fiction-3q2024/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/publications/the-pitch-science-fiction-3q2024/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>The Vortex Blaster</title>
+      <link>//localhost:1313/stories/the-vortex-blaster/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/stories/the-vortex-blaster/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Tongues of the Moon</title>
+      <link>//localhost:1313/stories/tongues-of-the-moon/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/stories/tongues-of-the-moon/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Youth</title>
+      <link>//localhost:1313/stories/youth/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/stories/youth/</guid>
       <description></description>
       
     </item>

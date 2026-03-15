@@ -11,67 +11,75 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-name = "Info"
-pageRef =  "about"
+name = "Contact"
+pageRef = "contact"
 weight = 10
 
 [[main]]
-name = "Contact"
-pageRef = "contact"
+name = "Publications"
+pageRef = "publications"
 weight = 20
+
+[[main]]
+name = "Stories"
+pageRef = "stories"
+weight = 30
+
+[[main]]
+name = "Authors"
+pageRef = "authors"
+weight = 30
+
+[[main]]
+name = "Series"
+pageRef = "series"
+weight = 35
+
+[[main]]
+name = "Info"
+pageRef =  "about"
+weight = 40
 
 [[main]]
 name = "Terms"
 pageRef = "terms"
-weight = 30
+weight = 50
 
 [[main]]
 name = "Our goals"
 parent = "Info"
 pageRef = "our-goals"
+weight = 10
+
+[[main]]
+name = "Logophilia Essentials"
+parent = "Info"
+pageRef = "logophilia-essentials"
 weight = 20
-
-[[main]]
-name = "Logophilia Essentials"
-parent = "Info"
-pageRef = "logophilia-essentials"
-weight = 30
-
-[[main]]
-name = "Authors"
-parent = "Info"
-pageRef = "authors"
-weight = 40
-
-[[main]]
-name = "Logophilia Essentials"
-parent = "Info"
-pageRef = "logophilia-essentials"
-weight = 30
 
 [[main]]
 name = "Calling All Authors"
 parent = "Info"
 pageRef = "calling-all-authors"
-weight = 40
+weight = 30
 
 [[main]]
 name = "Standard Terms for Publication"
 parent = "Info"
 pageRef = "standard-terms-for-publication"
-weight = 50
+weight = 40
 
 [[main]]
 name = "The Logophilia Edge"
 parent = "Info"
 pageRef = "the-logophilia-edge"
-weight = 60
+weight = 50
 
 [[main]]
 name = "Cookie Policy"
 parent = "Terms"
 pageRef = "cookie-policy-eu"
-weight = 30
+weight = 10
 
 [[subnavigation]]
 name = "Lea EPUB Anvil"

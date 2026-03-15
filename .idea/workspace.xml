@@ -4,7 +4,119 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5472684e-ca05-4289-9d23-bfd482c66916" name="Changes" comment="increased font sizes and adjusted line heights." />
+    <list default="true" id="5472684e-ca05-4289-9d23-bfd482c66916" name="Changes" comment="Merge remote-tracking branch 'origin/main'">
+      <change afterPath="$PROJECT_DIR$/content/authors/cordwainer-smith/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/authors/e-e-smith/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/authors/jack-vance/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/authors/leigh-brackett/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/authors/murray-leinster/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/authors/philip-jose-farmer/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/authors/philip-k-dick/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/authors/poul-anderson/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/authors/ray-bradbury/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/publications/the-pitch-science-fiction-3q2024/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/series/the-pitch-science-fiction/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/stories/last-call-from-sector-9g/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/stories/out-of-the-iron-womb/_index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/stories/out-of-the-iron-womb/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/stories/sjambak/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/stories/the-fifth-dimension-tube/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/stories/the-game-of-rat-and-dragon/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/stories/the-hanging-stranger/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/stories/the-monster-maker/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/stories/the-vortex-blaster/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/stories/tongues-of-the-moon/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layouts/_default/single.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layouts/series/list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/_default/menus.en.toml" beforeDir="false" afterPath="$PROJECT_DIR$/config/_default/menus.en.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/_index.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/_index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/about/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/about/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/authors/arthur-conan-doyle/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/authors/arthur-conan-doyle/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/authors/isaac-asimov/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/authors/isaac-asimov/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/calling-all-authors/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/calling-all-authors/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/contact/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/contact/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/cookie-policy-eu/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/cookie-policy-eu/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/logophilia-essentials/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/logophilia-essentials/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/our-goals/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/our-goals/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/publications/the-pitch-science-fiction-2q2024/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/publications/the-pitch-science-fiction-2q2024/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/standard-terms-for-publication/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/standard-terms-for-publication/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/terms/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/terms/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/the-logophilia-edge/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/the-logophilia-edge/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/404.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/about-us/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/about/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/about/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/about/index.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/about/page/1/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/authors/about-us/about-us/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/authors/about-us/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/authors/arthur-conan-doyle/arthur-conan-doyle/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/authors/arthur-conan-doyle/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/authors/arthur-conan-doyle/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/authors/arthur-conan-doyle/index.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/authors/arthur-conan-doyle/page/1/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/authors/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/authors/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/authors/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/authors/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/authors/isaac-asimov/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/authors/isaac-asimov/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/authors/isaac-asimov/index.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/authors/isaac-asimov/isaac-asimov/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/authors/isaac-asimov/page/1/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/calling-all-authors/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/calling-all-authors/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/categories/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/categories/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/cookie-policy-eu/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/cookie-policy-eu/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/css/logophilia.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/css/main.bundle.min.0157009cad1f11d1bf1a7fdefaf9de61af839eb4ce75b3b6947f32f3a079c9713f41408e2fa5b7374c82299d1ef5cb099b4a9ed92dadd23ac3b92ef34423c251.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/css/main.bundle.min.0885af2b47c8476ccdf031df189d8106d82051750c372394485e9c8db163394394375b1ebf02b5b526fce6247db51ce4af7783d1d49a7e95e1a01bdd237be0c7.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/css/main.bundle.min.0fcff6ec151972f0d14e379deeeeaecda67fccf86ff5cd3452c98765e3536d5ae233a7015617be5df317e3ef03e599604e0a2a3e3b2ce04057a237f63ea212d6.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/css/main.bundle.min.3a1404b0691fdcde61b6e18debd6479791734826781d043f2e2ac8b1ad2fe3ef5013e50423ed1c78fbfa6b9d65c6c26ad8e9e30b542dc0f639b630c6fcbe91a6.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/css/main.bundle.min.3d033d2d264c4a63c40d6087bd2c09fef25806be66e66f6a092b2e35a007043f93b876aaaa9b5bedc2af826102d457467a606df509a024b3ce6940d2054ae206.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/css/main.bundle.min.43dcb12f7547c4b36082f71462b4462d4bb26efc0335920feedc66747da35f7044baf1f009bf58f639631ba2c1b12cd57b544f3845d7781ff31f5caf51dd839e.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/css/main.bundle.min.44e13beb98f3f41eec7e065baeb062153ea50bc3cdcefc53e0dbab93ffb8eacbadaeab5f052fea1da2d3f817aa20eaef8885b5e00e726f4b9433dfb239f1a9fb.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/css/main.bundle.min.46009ec55b9098d2c815c17696d1f45574c2a2fda6712625da11ca2413d73663c5314316a31197d6bff42465708cd91c8a633d7665270dc5bea76f0fecd8cde1.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/css/main.bundle.min.46aa3f9f273b7a6b6ac219d90778bc1d2d3c46c2ddf661b412d08d7cc80ef64b04d48f6f499a67d74f341416d61e2ea8d9e89ee32f1833a4b3ab06aa6cf472a1.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/css/main.bundle.min.4ed7f5d19b500e510cfc85bee725ecd55a47d35afdac2ed21d412312835e3d2c6d8666b02942f49953eb07d271aa9259485caaea590ebf31bb5aa7d1a7fa52af.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/css/main.bundle.min.53896ca86ae061a75af09e1efb36027913a5b6021ad8d7554c12d424122bfd09725f776b57fe9f593e9290218b14867c29280b30059d883ceb7848d2d4431ea2.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/css/main.bundle.min.573bc6a43f9459a573796edff1f2bb9c5cc9fb39fd5ae5256eb9d456c454daf0dc98541cc6ab96218558acb9f6c948594b542a9e513f69d801a37c9c5e1c7db7.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/css/main.bundle.min.6c2ae3f26168dde7653a3955ef3ee8cff2b30e52aad8628ed6349522d0b02d837f3879a322bd735671df01476b123bd04f0af2087e13a2c9a6ae14daa814775d.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/css/main.bundle.min.78e59f45f1f0cb349578aedbaa34c176856f0ce560b5529093d6130bc7262a530a26a3e7fd071f4a7a9af1cdbab55b6fcff9460466d6a6d6f368aba84c96d634.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/css/main.bundle.min.82b2e85ae000c768037819812deac71962207d6384fc24ae0c87f6e90e4fc171032be56f66a088e59b11e0114e45620fe8e944aabe458b3ea238bc734eb33525.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/css/main.bundle.min.94c42bc2e739400e4f38ab50f2add23237cea5f75b97d18c0a64af31fa5ce735542a6ac3356911c7c6d210b0a7e49ca7531c42e4ea5f64b2fe38b2c5301a2190.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/css/main.bundle.min.9d9d71d26c2e825121c641318431e491a670625d5755fa4f65897b2482e0a438e9210017afe3c2fb25e0104a6dc06a8113c029fd632bafd806cc528fcdf9a6bd.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/css/main.bundle.min.acfb5a7ffe6f7e2f06ddbaf091607d4e4285d727cff098a879ada082ad4b99d76f98454585ea275e25c87af2be243cec600a9eb9bf6bf5068cad8007c2bcebc1.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/css/main.bundle.min.b887f8272089d34d06a2f99e7b608f438334610ddbfbe604bf1b7dcedbc508308927cecf9cf7467901ce414ffb197b8884eb0baa029d02a55115c631d82c0ba9.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/css/main.bundle.min.beb96f843173b65e7dd5f86230948f5a21a2d7b6a8bf9d94712c03db23fca5252f3937f5c4dc6356d2650940bbdc0c2a89958596dc1448eac16d75b49d6d7548.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/css/main.bundle.min.e27fe3ec02407893da0be649150d655c6a94590316b64fd691beffa552bd1fbc01c02c4310b69dbb28677fd0bcf0b8b020a3892e4214aec53b4673914de199a9.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/css/main.bundle.min.ed03866f33e59efa1bf8f5731905fea8ab99a9e7adc68305b0e2914516b21c9cc9029d8c94eec7847944d51d648ec2b667aba93d9d8b25ffdfa79c96aa575790.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/css/main.bundle.min.ed8ee7b943723f6df4b20b680e11551e82fd4ad2aefaf1a6b4c266b42b9c5b99a2c7d2833805e30a4db2a5bdf2496e5ef65df4d14edee4786670dba614c7cd64.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/fonts/Comfortaa-Bold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/fonts/EBGaramond-Italic-VariableFont_wght.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/fonts/EBGaramond-VariableFont_wght.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/authors/Arthur-Conan-Doyle-FM-Logophilia-512.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/authors/Isaac-Asimov-FM-Logophilia-512.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/blowfish_logo_hu_35ed707d57d15f2c.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/blowfish_logo_hu_593c68df2d7666f2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/blowfish_logo_hu_8193da65780aedbd.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/eduard-pech-author_hu_585d7b7b5b27ab3b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/eduard-pech-author_hu_a66fe0c5a16aa6dd.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/eduard-pech-author_hu_c82a851d1750ea93.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/logophilia-essentials/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/logophilia-essentials/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/our-goals/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/our-goals/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/our-goals/index.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/our-goals/our-goals/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/our-goals/page/1/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/series/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/series/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/sitemap.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/sitemap.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/standard-terms-for-publication/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/standard-terms-for-publication/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/terms/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/terms/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/the-logophilia-edge/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/the-logophilia-edge/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/welcome/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/welcome/index.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/welcome/page/1/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/welcome/welcome/index.html" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,12 +126,13 @@
     <execution />
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="2427" />
+    <option name="cachedIndexableFilesCount" value="2487" />
     <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="JavaScript File" />
         <option value="HTML File" />
       </list>
     </option>
@@ -50,6 +163,9 @@
   &quot;associatedIndex&quot;: 4
 }</component>
   <component name="ProjectId" id="3AxQD2fP1IeHUoTQX82MPDFszf6" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -66,6 +182,7 @@
     &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;kronk.content.tree.expanded.paths&quot;: &quot;&quot;,
     &quot;last_opened_file_path&quot;: &quot;/home/Ed/Nextcloud-Logophilia/Logophilia.eu/website&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -79,11 +196,11 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/assets/img" />
-      <recent name="$PROJECT_DIR$/content/authors/arthur-conan-doyle" />
-      <recent name="$PROJECT_DIR$/content/our-goals" />
-      <recent name="$PROJECT_DIR$/content" />
-      <recent name="$PROJECT_DIR$/content/authors/about-us" />
+      <recent name="$PROJECT_DIR$/content/stories/out-of-the-iron-womb" />
+      <recent name="$PROJECT_DIR$/content/stories" />
+      <recent name="$PROJECT_DIR$/content/contact" />
+      <recent name="$PROJECT_DIR$/assets" />
+      <recent name="$PROJECT_DIR$/layouts/publications" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -112,6 +229,9 @@
       <workItem from="1773550273199" duration="259000" />
       <workItem from="1773583513599" duration="670000" />
       <workItem from="1773584330950" duration="243000" />
+      <workItem from="1773584576448" duration="14461000" />
+      <workItem from="1773608408336" duration="317000" />
+      <workItem from="1773609585513" duration="8991000" />
     </task>
     <task id="LOCAL-00001" summary="switched to blowfish theme; initial menu setup">
       <option name="closed" value="true" />
@@ -169,7 +289,23 @@
       <option name="project" value="LOCAL" />
       <updated>1773584558138</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Merge remote-tracking branch 'origin/main'">
+      <option name="closed" value="true" />
+      <created>1773584666774</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1773584666775</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Merge remote-tracking branch 'origin/main'">
+      <option name="closed" value="true" />
+      <created>1773584758762</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1773584758762</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -192,6 +328,7 @@
     </ignored-roots>
     <MESSAGE value="switched to blowfish theme; initial menu setup" />
     <MESSAGE value="increased font sizes and adjusted line heights." />
-    <option name="LAST_COMMIT_MESSAGE" value="increased font sizes and adjusted line heights." />
+    <MESSAGE value="Merge remote-tracking branch 'origin/main'" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/main'" />
   </component>
 </project>
