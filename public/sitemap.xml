@@ -93,7 +93,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/stories/out-of-the-iron-womb/out-of-the-iron-womb/</loc>
+    <loc>//localhost:1313/stories/out-of-the-iron-womb/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
