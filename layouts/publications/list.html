@@ -41,7 +41,7 @@
 </section>
 
 <section class="w-full grid gap-4 sm:grid-cols-2 md:grid-cols-3">
-    {{ range where site.RegularPages "Section" "publications" }}
+    {{ range where site.RegularPages.ByTitle "Section" "publications" }}
     {{ partial "article-link/card.html" . }}
     {{ end }}
 </section>

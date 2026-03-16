@@ -16,7 +16,7 @@ buildFuture = false
 
 enableEmoji = true
 
-# googleAnalytics = "G-XXXXXXXXX"
+# googleAnalytics = "G-XXXXXXXXX"
 
 [pagination]
   pagerSize = 100
@@ -27,10 +27,10 @@ enableEmoji = true
 [taxonomies]
   tag = "tags"
   category = "categories"
-  author = "authors"
-  series = "series"
-  story = "stories"
-  publication = "publications"
+  author = "cross-reference-authors"
+  series = "cross-reference-series"
+  story = "cross-reference-stories"
+  publication = "cross-reference-publications"
 
 [sitemap]
   changefreq = 'daily'

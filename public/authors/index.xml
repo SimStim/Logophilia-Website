@@ -10,31 +10,111 @@
     <atom:link href="//localhost:1313/authors/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>E. E. Smith</title>
-      <link>//localhost:1313/authors/e.-e.-smith/</link>
+      <title>Arthur Ignatius Conan Doyle</title>
+      <link>//localhost:1313/authors/arthur-conan-doyle/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/authors/e.-e.-smith/</guid>
+      <guid>//localhost:1313/authors/arthur-conan-doyle/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Edward Elmer Smith</title>
+      <link>//localhost:1313/authors/e-e-smith/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/authors/e-e-smith/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Isaac Asimov</title>
+      <link>//localhost:1313/authors/isaac-asimov/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/authors/isaac-asimov/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>John Holbrook Vance</title>
+      <link>//localhost:1313/authors/jack-vance/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/authors/jack-vance/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Leigh Douglass Brackett</title>
+      <link>//localhost:1313/authors/leigh-brackett/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/authors/leigh-brackett/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Paul Myron Anthony Linebarger</title>
+      <link>//localhost:1313/authors/cordwainer-smith/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/authors/cordwainer-smith/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Philip José Farmer</title>
-      <link>//localhost:1313/authors/philip-jos%C3%A9-farmer/</link>
+      <link>//localhost:1313/authors/philip-jose-farmer/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/authors/philip-jos%C3%A9-farmer/</guid>
+      <guid>//localhost:1313/authors/philip-jose-farmer/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>Philip K. Dick</title>
-      <link>//localhost:1313/authors/philip-k.-dick/</link>
+      <title>Philip Kindred Dick</title>
+      <link>//localhost:1313/authors/philip-k-dick/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/authors/philip-k.-dick/</guid>
+      <guid>//localhost:1313/authors/philip-k-dick/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Poul William Anderson</title>
+      <link>//localhost:1313/authors/poul-anderson/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/authors/poul-anderson/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Ray Douglas Bradbury</title>
+      <link>//localhost:1313/authors/ray-bradbury/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/authors/ray-bradbury/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>William Fitzgerald Jenkins</title>
+      <link>//localhost:1313/authors/murray-leinster/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/authors/murray-leinster/</guid>
       <description></description>
       
     </item>

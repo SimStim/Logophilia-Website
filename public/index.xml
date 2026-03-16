@@ -10,16 +10,6 @@
     <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Website Terms of Use</title>
-      <link>//localhost:1313/terms/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>//localhost:1313/terms/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>The Logophilia Edge</title>
       <link>//localhost:1313/the-logophilia-edge/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -110,16 +100,6 @@
     </item>
     
     <item>
-      <title>Cordwainer Smith</title>
-      <link>//localhost:1313/authors/cordwainer-smith/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>//localhost:1313/authors/cordwainer-smith/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>Edward Elmer Smith</title>
       <link>//localhost:1313/authors/e-e-smith/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -140,7 +120,7 @@
     </item>
     
     <item>
-      <title>Jack Vance</title>
+      <title>John Holbrook Vance</title>
       <link>//localhost:1313/authors/jack-vance/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -150,7 +130,7 @@
     </item>
     
     <item>
-      <title>Last Call From Sector 9G</title>
+      <title>Last Call from Sector 9G</title>
       <link>//localhost:1313/stories/last-call-from-sector-9g/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -160,21 +140,11 @@
     </item>
     
     <item>
-      <title>Leigh Brackett</title>
+      <title>Leigh Douglass Brackett</title>
       <link>//localhost:1313/authors/leigh-brackett/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>//localhost:1313/authors/leigh-brackett/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Murray Leinster</title>
-      <link>//localhost:1313/authors/murray-leinster/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>//localhost:1313/authors/murray-leinster/</guid>
       <description></description>
       
     </item>
@@ -190,6 +160,16 @@
     </item>
     
     <item>
+      <title>Paul Myron Anthony Linebarger</title>
+      <link>//localhost:1313/authors/cordwainer-smith/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/authors/cordwainer-smith/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
       <title>Philip José Farmer</title>
       <link>//localhost:1313/authors/philip-jose-farmer/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -200,7 +180,7 @@
     </item>
     
     <item>
-      <title>Philip K. Dick</title>
+      <title>Philip Kindred Dick</title>
       <link>//localhost:1313/authors/philip-k-dick/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -210,7 +190,7 @@
     </item>
     
     <item>
-      <title>Poul Anderson</title>
+      <title>Poul William Anderson</title>
       <link>//localhost:1313/authors/poul-anderson/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -220,7 +200,7 @@
     </item>
     
     <item>
-      <title>Ray Bradbury</title>
+      <title>Ray Douglas Bradbury</title>
       <link>//localhost:1313/authors/ray-bradbury/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -325,6 +305,26 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>//localhost:1313/stories/tongues-of-the-moon/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Website Terms of Use</title>
+      <link>//localhost:1313/terms/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/terms/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>William Fitzgerald Jenkins</title>
+      <link>//localhost:1313/authors/murray-leinster/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/authors/murray-leinster/</guid>
       <description></description>
       
     </item>

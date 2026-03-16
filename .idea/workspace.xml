@@ -4,11 +4,55 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5472684e-ca05-4289-9d23-bfd482c66916" name="Changes" comment="lists, taxonomies">
+    <list default="true" id="5472684e-ca05-4289-9d23-bfd482c66916" name="Changes" comment="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;config/_default/menus.en.toml&#10;#&#9;content/authors/arthur-conan-doyle/index.html&#10;#&#9;content/authors/isaac-asimov/index.html&#10;#&#9;content/contact/index.html&#10;#&#9;content/publications/the-pitch-science-fiction-2q2024/index.html&#10;#&#9;public/404.html&#10;#&#9;public/about/index.html&#10;#&#9;public/authors/arthur-conan-doyle/index.html&#10;#&#9;public/authors/index.html&#10;#&#9;public/authors/index.xml&#10;#&#9;public/authors/isaac-asimov/index.html&#10;#&#9;public/authors/isaac-asimov/index.xml&#10;#&#9;public/authors/isaac-asimov/isaac-asimov/index.html&#10;#&#9;public/calling-all-authors/index.html&#10;#&#9;public/categories/index.html&#10;#&#9;public/cookie-policy-eu/index.html&#10;#&#9;public/index.html&#10;#&#9;public/index.json&#10;#&#9;public/index.xml&#10;#&#9;public/logophilia-essentials/index.html&#10;#&#9;public/our-goals/index.html&#10;#&#9;public/our-goals/index.xml&#10;#&#9;public/series/index.html&#10;#&#9;public/sitemap.xml&#10;#&#9;public/standard-terms-for-publication/index.html&#10;#&#9;public/tags/index.html&#10;#&#9;public/terms/index.html&#10;#&#9;public/the-logophilia-edge/index.html">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/_default/hugo.toml" beforeDir="false" afterPath="$PROJECT_DIR$/config/_default/hugo.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/authors/arthur-conan-doyle/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/authors/arthur-conan-doyle/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/authors/cordwainer-smith/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/authors/cordwainer-smith/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/authors/e-e-smith/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/authors/e-e-smith/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/authors/isaac-asimov/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/authors/isaac-asimov/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/authors/jack-vance/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/authors/jack-vance/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/authors/leigh-brackett/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/authors/leigh-brackett/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/authors/murray-leinster/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/authors/murray-leinster/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/authors/philip-jose-farmer/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/authors/philip-jose-farmer/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/authors/philip-k-dick/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/authors/philip-k-dick/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/authors/poul-anderson/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/authors/poul-anderson/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/authors/ray-bradbury/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/authors/ray-bradbury/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/publications/the-pitch-science-fiction-2q2024/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/publications/the-pitch-science-fiction-2q2024/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/publications/the-pitch-science-fiction-3q2024/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/publications/the-pitch-science-fiction-3q2024/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/content/series/the-pitch-science-fiction/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/series/the-pitch-science-fiction/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/stories/last-call-from-sector-9g/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/stories/last-call-from-sector-9g/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/content/stories/out-of-the-iron-womb/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/stories/out-of-the-iron-womb/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/stories/sjambak/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/stories/sjambak/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/stories/the-fifth-dimension-tube/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/stories/the-fifth-dimension-tube/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/stories/the-game-of-rat-and-dragon/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/stories/the-game-of-rat-and-dragon/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/stories/the-hanging-stranger/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/stories/the-hanging-stranger/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/stories/the-monster-maker/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/stories/the-monster-maker/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/stories/the-vortex-blaster/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/stories/the-vortex-blaster/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/stories/tongues-of-the-moon/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/stories/tongues-of-the-moon/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/stories/youth/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/stories/youth/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/terms/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/terms/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/layouts/authors/list.html" beforeDir="false" afterPath="$PROJECT_DIR$/layouts/authors/list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/layouts/publications/list.html" beforeDir="false" afterPath="$PROJECT_DIR$/layouts/publications/list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/layouts/series/list.html" beforeDir="false" afterPath="$PROJECT_DIR$/layouts/series/list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/layouts/stories/list.html" beforeDir="false" afterPath="$PROJECT_DIR$/layouts/stories/list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/about/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/about/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/authors/arthur-conan-doyle/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/authors/arthur-conan-doyle/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/authors/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/authors/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/authors/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/authors/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/authors/isaac-asimov/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/authors/isaac-asimov/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/calling-all-authors/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/calling-all-authors/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/cookie-policy-eu/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/cookie-policy-eu/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/logophilia-essentials/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/logophilia-essentials/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/our-goals/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/our-goals/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/series/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/series/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/series/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/series/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/sitemap.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/sitemap.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/standard-terms-for-publication/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/standard-terms-for-publication/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/terms/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/terms/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/the-logophilia-edge/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/the-logophilia-edge/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,7 +63,7 @@
     <execution />
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="2440" />
+    <option name="cachedIndexableFilesCount" value="2439" />
     <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
@@ -126,7 +170,8 @@
       <workItem from="1773608408336" duration="317000" />
       <workItem from="1773609585513" duration="9265000" />
       <workItem from="1773623207085" duration="44000" />
-      <workItem from="1773635250774" duration="557000" />
+      <workItem from="1773635250774" duration="947000" />
+      <workItem from="1773681176469" duration="9709000" />
     </task>
     <task id="LOCAL-00001" summary="switched to blowfish theme; initial menu setup">
       <option name="closed" value="true" />
@@ -208,7 +253,15 @@
       <option name="project" value="LOCAL" />
       <updated>1773622846217</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;config/_default/menus.en.toml&#10;#&#9;content/authors/arthur-conan-doyle/index.html&#10;#&#9;content/authors/isaac-asimov/index.html&#10;#&#9;content/contact/index.html&#10;#&#9;content/publications/the-pitch-science-fiction-2q2024/index.html&#10;#&#9;public/404.html&#10;#&#9;public/about/index.html&#10;#&#9;public/authors/arthur-conan-doyle/index.html&#10;#&#9;public/authors/index.html&#10;#&#9;public/authors/index.xml&#10;#&#9;public/authors/isaac-asimov/index.html&#10;#&#9;public/authors/isaac-asimov/index.xml&#10;#&#9;public/authors/isaac-asimov/isaac-asimov/index.html&#10;#&#9;public/calling-all-authors/index.html&#10;#&#9;public/categories/index.html&#10;#&#9;public/cookie-policy-eu/index.html&#10;#&#9;public/index.html&#10;#&#9;public/index.json&#10;#&#9;public/index.xml&#10;#&#9;public/logophilia-essentials/index.html&#10;#&#9;public/our-goals/index.html&#10;#&#9;public/our-goals/index.xml&#10;#&#9;public/series/index.html&#10;#&#9;public/sitemap.xml&#10;#&#9;public/standard-terms-for-publication/index.html&#10;#&#9;public/tags/index.html&#10;#&#9;public/terms/index.html&#10;#&#9;public/the-logophilia-edge/index.html">
+      <option name="closed" value="true" />
+      <created>1773636102298</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1773636102298</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -233,6 +286,7 @@
     <MESSAGE value="increased font sizes and adjusted line heights." />
     <MESSAGE value="Merge remote-tracking branch 'origin/main'" />
     <MESSAGE value="lists, taxonomies" />
-    <option name="LAST_COMMIT_MESSAGE" value="lists, taxonomies" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;config/_default/menus.en.toml&#10;#&#9;content/authors/arthur-conan-doyle/index.html&#10;#&#9;content/authors/isaac-asimov/index.html&#10;#&#9;content/contact/index.html&#10;#&#9;content/publications/the-pitch-science-fiction-2q2024/index.html&#10;#&#9;public/404.html&#10;#&#9;public/about/index.html&#10;#&#9;public/authors/arthur-conan-doyle/index.html&#10;#&#9;public/authors/index.html&#10;#&#9;public/authors/index.xml&#10;#&#9;public/authors/isaac-asimov/index.html&#10;#&#9;public/authors/isaac-asimov/index.xml&#10;#&#9;public/authors/isaac-asimov/isaac-asimov/index.html&#10;#&#9;public/calling-all-authors/index.html&#10;#&#9;public/categories/index.html&#10;#&#9;public/cookie-policy-eu/index.html&#10;#&#9;public/index.html&#10;#&#9;public/index.json&#10;#&#9;public/index.xml&#10;#&#9;public/logophilia-essentials/index.html&#10;#&#9;public/our-goals/index.html&#10;#&#9;public/our-goals/index.xml&#10;#&#9;public/series/index.html&#10;#&#9;public/sitemap.xml&#10;#&#9;public/standard-terms-for-publication/index.html&#10;#&#9;public/tags/index.html&#10;#&#9;public/terms/index.html&#10;#&#9;public/the-logophilia-edge/index.html" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;config/_default/menus.en.toml&#10;#&#9;content/authors/arthur-conan-doyle/index.html&#10;#&#9;content/authors/isaac-asimov/index.html&#10;#&#9;content/contact/index.html&#10;#&#9;content/publications/the-pitch-science-fiction-2q2024/index.html&#10;#&#9;public/404.html&#10;#&#9;public/about/index.html&#10;#&#9;public/authors/arthur-conan-doyle/index.html&#10;#&#9;public/authors/index.html&#10;#&#9;public/authors/index.xml&#10;#&#9;public/authors/isaac-asimov/index.html&#10;#&#9;public/authors/isaac-asimov/index.xml&#10;#&#9;public/authors/isaac-asimov/isaac-asimov/index.html&#10;#&#9;public/calling-all-authors/index.html&#10;#&#9;public/categories/index.html&#10;#&#9;public/cookie-policy-eu/index.html&#10;#&#9;public/index.html&#10;#&#9;public/index.json&#10;#&#9;public/index.xml&#10;#&#9;public/logophilia-essentials/index.html&#10;#&#9;public/our-goals/index.html&#10;#&#9;public/our-goals/index.xml&#10;#&#9;public/series/index.html&#10;#&#9;public/sitemap.xml&#10;#&#9;public/standard-terms-for-publication/index.html&#10;#&#9;public/tags/index.html&#10;#&#9;public/terms/index.html&#10;#&#9;public/the-logophilia-edge/index.html" />
   </component>
 </project>
