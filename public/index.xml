@@ -70,11 +70,61 @@
     </item>
     
     <item>
+      <title>A Pail of Air</title>
+      <link>//localhost:1313/stories/a-pail-of-air/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/stories/a-pail-of-air/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Accept No Substitutes</title>
+      <link>//localhost:1313/stories/accept-no-substitutes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/stories/accept-no-substitutes/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Allen Kim Lang</title>
+      <link>//localhost:1313/authors/allen-kim-lang/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/authors/allen-kim-lang/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>And the Gods Laughed</title>
+      <link>//localhost:1313/stories/and-the-gods-laughed/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/stories/and-the-gods-laughed/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
       <title>Arthur Ignatius Conan Doyle</title>
       <link>//localhost:1313/authors/arthur-conan-doyle/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>//localhost:1313/authors/arthur-conan-doyle/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Clifford Donald Simak</title>
+      <link>//localhost:1313/authors/clifford-d--simak/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/authors/clifford-d--simak/</guid>
       <description></description>
       
     </item>
@@ -90,6 +140,16 @@
     </item>
     
     <item>
+      <title>Contagion</title>
+      <link>//localhost:1313/stories/contagion/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/stories/contagion/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
       <title>Cookie Policy (EU)</title>
       <link>//localhost:1313/cookie-policy-eu/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -100,11 +160,141 @@
     </item>
     
     <item>
-      <title>Edward Elmer Smith</title>
-      <link>//localhost:1313/authors/e-e-smith/</link>
+      <title>Cosmic Striptease</title>
+      <link>//localhost:1313/stories/cosmic-striptease/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/authors/e-e-smith/</guid>
+      <guid>//localhost:1313/stories/cosmic-striptease/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Edmond Moore Hamilton</title>
+      <link>//localhost:1313/authors/edmond-hamilton/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/authors/edmond-hamilton/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Eduard Pech</title>
+      <link>//localhost:1313/authors/eduard-pech/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/authors/eduard-pech/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Edward Elmer Smith</title>
+      <link>//localhost:1313/authors/e--e--smith/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/authors/e--e--smith/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Edward Everett Evans</title>
+      <link>//localhost:1313/authors/e--everett-evans/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/authors/e--everett-evans/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Franklin Patrick Herbert, Jr.</title>
+      <link>//localhost:1313/authors/frank-herbert/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/authors/frank-herbert/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Frederik George Pohl, Jr.</title>
+      <link>//localhost:1313/authors/frederik-pohl/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/authors/frederik-pohl/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Fredric Brown</title>
+      <link>//localhost:1313/authors/fredric-brown/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/authors/fredric-brown/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Fritz Reuter Leiber</title>
+      <link>//localhost:1313/authors/fritz-leiber/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/authors/fritz-leiber/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Harlan Jay Ellison</title>
+      <link>//localhost:1313/authors/harlan-ellison/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/authors/harlan-ellison/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Henry Kuttner</title>
+      <link>//localhost:1313/authors/henry-kuttner/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/authors/henry-kuttner/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Henry Maxwell Dempsey</title>
+      <link>//localhost:1313/authors/harry-harrison/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/authors/harry-harrison/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Howard Phillips Lovecraft</title>
+      <link>//localhost:1313/authors/h--p--lovecraft/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/authors/h--p--lovecraft/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>I, Gardener</title>
+      <link>//localhost:1313/stories/i--gardener/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/stories/i--gardener/</guid>
       <description></description>
       
     </item>
@@ -120,11 +310,61 @@
     </item>
     
     <item>
+      <title>John Griffith Chaney</title>
+      <link>//localhost:1313/authors/jack-london/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/authors/jack-london/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
       <title>John Holbrook Vance</title>
       <link>//localhost:1313/authors/jack-vance/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>//localhost:1313/authors/jack-vance/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>John Stewart Williamson</title>
+      <link>//localhost:1313/authors/jack-williamson/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/authors/jack-williamson/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>John Wood Campbell, Jr.</title>
+      <link>//localhost:1313/authors/john-w--campbell--jr-/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/authors/john-w--campbell--jr-/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Katherine Anne MacLean</title>
+      <link>//localhost:1313/authors/katherine-maclean/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/authors/katherine-maclean/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Kurt Vonnegut, Jr.</title>
+      <link>//localhost:1313/authors/kurt-vonnegut--jr-/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/authors/kurt-vonnegut--jr-/</guid>
       <description></description>
       
     </item>
@@ -150,11 +390,61 @@
     </item>
     
     <item>
-      <title>Out of the Iron Womb!</title>
-      <link>//localhost:1313/stories/out-of-the-iron-womb/</link>
+      <title>Let’s Get Together</title>
+      <link>//localhost:1313/stories/let-s-get-together/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/stories/out-of-the-iron-womb/</guid>
+      <guid>//localhost:1313/stories/let-s-get-together/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Lorelei of the Red Mist</title>
+      <link>//localhost:1313/stories/lorelei-of-the-red-mist/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/stories/lorelei-of-the-red-mist/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Masters of Space</title>
+      <link>//localhost:1313/stories/masters-of-space/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/stories/masters-of-space/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Murder in Black Letter</title>
+      <link>//localhost:1313/stories/murder-in-black-letter/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/stories/murder-in-black-letter/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Old Rambling House</title>
+      <link>//localhost:1313/stories/old-rambling-house/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/stories/old-rambling-house/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Out of the Iron Womb!</title>
+      <link>//localhost:1313/stories/out-of-the-iron-womb-/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/stories/out-of-the-iron-womb-/</guid>
       <description></description>
       
     </item>
@@ -181,10 +471,40 @@
     
     <item>
       <title>Philip Kindred Dick</title>
-      <link>//localhost:1313/authors/philip-k-dick/</link>
+      <link>//localhost:1313/authors/philip-k--dick/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/authors/philip-k-dick/</guid>
+      <guid>//localhost:1313/authors/philip-k--dick/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Piper in the Woods</title>
+      <link>//localhost:1313/stories/piper-in-the-woods/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/stories/piper-in-the-woods/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Poul Anderson Alter Ego</title>
+      <link>//localhost:1313/publications/poul-anderson-alter-ego/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/publications/poul-anderson-alter-ego/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Poul Anderson in Two Registers</title>
+      <link>//localhost:1313/stories/poul-anderson-in-two-registers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/stories/poul-anderson-in-two-registers/</guid>
       <description></description>
       
     </item>
@@ -200,6 +520,26 @@
     </item>
     
     <item>
+      <title>Preface by the Editor</title>
+      <link>//localhost:1313/stories/preface-by-the-editor/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/stories/preface-by-the-editor/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Pygmalion’s Spectacles</title>
+      <link>//localhost:1313/stories/pygmalion-s-spectacles/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/stories/pygmalion-s-spectacles/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
       <title>Ray Douglas Bradbury</title>
       <link>//localhost:1313/authors/ray-bradbury/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -210,11 +550,131 @@
     </item>
     
     <item>
+      <title>Requiem</title>
+      <link>//localhost:1313/stories/requiem/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/stories/requiem/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Robert Sheckley</title>
+      <link>//localhost:1313/authors/robert-sheckley/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/authors/robert-sheckley/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Scanners Live in Vain</title>
+      <link>//localhost:1313/stories/scanners-live-in-vain/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/stories/scanners-live-in-vain/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Second Variety</title>
+      <link>//localhost:1313/stories/second-variety/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/stories/second-variety/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
       <title>Sjambak</title>
       <link>//localhost:1313/stories/sjambak/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>//localhost:1313/stories/sjambak/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Stanley Grauman Weinbaum</title>
+      <link>//localhost:1313/authors/stanley-g--weinbaum/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/authors/stanley-g--weinbaum/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Star Ship</title>
+      <link>//localhost:1313/stories/star-ship/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/stories/star-ship/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>The Big Trip Up Yonder</title>
+      <link>//localhost:1313/stories/the-big-trip-up-yonder/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/stories/the-big-trip-up-yonder/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>The Call from Beyond</title>
+      <link>//localhost:1313/stories/the-call-from-beyond/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/stories/the-call-from-beyond/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>The Colour out of Space</title>
+      <link>//localhost:1313/stories/the-colour-out-of-space/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/stories/the-colour-out-of-space/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>The Creatures That Time Forgot</title>
+      <link>//localhost:1313/stories/the-creatures-that-time-forgot/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/stories/the-creatures-that-time-forgot/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>The Ego Machine</title>
+      <link>//localhost:1313/stories/the-ego-machine/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/stories/the-ego-machine/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>The Eyes Have It</title>
+      <link>//localhost:1313/stories/the-eyes-have-it/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/stories/the-eyes-have-it/</guid>
       <description></description>
       
     </item>
@@ -240,11 +700,51 @@
     </item>
     
     <item>
+      <title>The Golden Slave</title>
+      <link>//localhost:1313/stories/the-golden-slave/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/stories/the-golden-slave/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
       <title>The Hanging Stranger</title>
       <link>//localhost:1313/stories/the-hanging-stranger/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>//localhost:1313/stories/the-hanging-stranger/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>The Invisible Master</title>
+      <link>//localhost:1313/stories/the-invisible-master/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/stories/the-invisible-master/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>The Last Evolution</title>
+      <link>//localhost:1313/stories/the-last-evolution/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/stories/the-last-evolution/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>The Misplaced Battleship</title>
+      <link>//localhost:1313/stories/the-misplaced-battleship/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/stories/the-misplaced-battleship/</guid>
       <description></description>
       
     </item>
@@ -270,6 +770,26 @@
     </item>
     
     <item>
+      <title>The Pitch Science Fiction 1Q2026</title>
+      <link>//localhost:1313/publications/the-pitch-science-fiction-1q2026/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/publications/the-pitch-science-fiction-1q2026/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>The Pitch Science Fiction 1Q2026 (Logophilia Essentials)</title>
+      <link>//localhost:1313/publications/the-pitch-science-fiction-1q2026--logophilia-essentials-/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/publications/the-pitch-science-fiction-1q2026--logophilia-essentials-/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
       <title>The Pitch Science Fiction 2Q2024</title>
       <link>//localhost:1313/publications/the-pitch-science-fiction-2q2024/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -280,11 +800,91 @@
     </item>
     
     <item>
+      <title>The Pitch Science Fiction 2Q2024 (Logophilia Essentials)</title>
+      <link>//localhost:1313/publications/the-pitch-science-fiction-2q2024--logophilia-essentials-/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/publications/the-pitch-science-fiction-2q2024--logophilia-essentials-/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
       <title>The Pitch Science Fiction 3Q2024</title>
       <link>//localhost:1313/publications/the-pitch-science-fiction-3q2024/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>//localhost:1313/publications/the-pitch-science-fiction-3q2024/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>The Pitch Science Fiction 3Q2024 (Logophilia Essentials)</title>
+      <link>//localhost:1313/publications/the-pitch-science-fiction-3q2024--logophilia-essentials-/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/publications/the-pitch-science-fiction-3q2024--logophilia-essentials-/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>The Pitch Science Fiction 4Q2024</title>
+      <link>//localhost:1313/publications/the-pitch-science-fiction-4q2024/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/publications/the-pitch-science-fiction-4q2024/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>The Poison Belt</title>
+      <link>//localhost:1313/stories/the-poison-belt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/stories/the-poison-belt/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>The Scarlet Plague</title>
+      <link>//localhost:1313/stories/the-scarlet-plague/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/stories/the-scarlet-plague/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>The Second Shell</title>
+      <link>//localhost:1313/stories/the-second-shell/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/stories/the-second-shell/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>The Star-Stealers</title>
+      <link>//localhost:1313/stories/the-star-stealers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/stories/the-star-stealers/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>The Tunnel Under the World</title>
+      <link>//localhost:1313/stories/the-tunnel-under-the-world/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/stories/the-tunnel-under-the-world/</guid>
       <description></description>
       
     </item>
@@ -305,6 +905,16 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>//localhost:1313/stories/tongues-of-the-moon/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Try to Remember!</title>
+      <link>//localhost:1313/stories/try-to-remember-/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/stories/try-to-remember-/</guid>
       <description></description>
       
     </item>
