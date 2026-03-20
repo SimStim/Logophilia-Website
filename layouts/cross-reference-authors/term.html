@@ -1,4 +1,5 @@
 {{ define "main" }}
+{{ .Scratch.Set "scope" "list" }}
 {{ $term := .Data.Term }}
 {{ $authorPage := .Site.GetPage (printf "/authors/%s" $term) }}
 
@@ -38,17 +39,24 @@
             {{ $authorPage.Summary | plainify }}
           </div>
         {{ end }}
+        {{ with $authorPage.GetTerms "cross-reference-stories" }}
+          {{ range first 3 . }}
+            <a href="{{ .RelPermalink }}" class="inline-block mt-2 me-2 text-xs text-primary-600 hover:underline">
+              {{ .LinkTitle }}
+            </a>
+          {{ end }}
+        {{ end }}
       </div>
       <div class="px-6 pt-4 pb-2"></div>
     </article>
   {{ end }}
 
   {{ range $publications }}
-    {{ partial "article-link/card.html" (dict "Page" . "Scratch" $.Scratch) }}
+    {{ partial "article-link/card.html" . }}
   {{ end }}
 
   {{ range $stories }}
-    {{ partial "article-link/card.html" (dict "Page" . "Scratch" $.Scratch) }}
+    {{ partial "article-link/card.html" . }}
   {{ end }}
 
 </section>
