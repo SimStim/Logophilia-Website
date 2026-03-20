@@ -1,31 +1,36 @@
 @font-face {
     font-family: "EBGaramond";
-    src: url(fonts/EBGaramond-VariableFont_wght.ttf)
+    src: url(fonts/EBGaramond-VariableFont_wght.ttf);
+    font-display: swap;
 }
 
 @font-face {
     font-family: "EBGaramond";
     font-weight: bold;
-    src: url(fonts/EBGaramond-VariableFont_wght.ttf)
+    src: url(fonts/EBGaramond-VariableFont_wght.ttf);
+    font-display: swap;
 }
 
 @font-face {
     font-family: "EBGaramond";
     font-style: italic;
-    src: url(fonts/EBGaramond-Italic-VariableFont_wght.ttf)
+    src: url(fonts/EBGaramond-Italic-VariableFont_wght.ttf);
+    font-display: swap;
 }
 
 @font-face {
     font-family: "EBGaramond";
     font-weight: bold;
     font-style: italic;
-    src: url(/fonts/EBGaramond-Italic-VariableFont_wght.ttf)
+    src: url(/fonts/EBGaramond-Italic-VariableFont_wght.ttf);
+    font-display: swap;
 }
 
 @font-face {
     font-family: "Comfortaa";
     font-weight: bold;
-    src: url(/fonts/Comfortaa-Bold.ttf)
+    src: url(/fonts/Comfortaa-Bold.ttf);
+    font-display: swap;
 }
 
 html {
