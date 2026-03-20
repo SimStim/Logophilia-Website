@@ -7,17 +7,16 @@
     {{ partial "breadcrumbs.html" . }}
   {{ end }}
   <h1 class="mt-5 text-4xl font-extrabold text-neutral-900 dark:text-neutral">
-    {{ if $authorPage }}{{ $authorPage.Title }}{{ else }}{{ replace $term "-" " " | title }}{{ end }}
+    {{ replace $term "-" " " | title }}
   </h1>
-</header>
-
-{{ if $authorPage }}
-  {{ with $authorPage.Content }}
-    <section class="prose dark:prose-invert max-w-prose mt-6 mb-8">
-      {{ . }}
-    </section>
+  {{ if $authorPage }}
+    <p class="mt-2 text-base">
+      <a href="{{ $authorPage.RelPermalink }}" class="text-primary-600 hover:underline">
+        → About the author
+      </a>
+    </p>
   {{ end }}
-{{ end }}
+</header>
 
 {{ $stories := slice }}
 {{ $publications := slice }}
