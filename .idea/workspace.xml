@@ -4,7 +4,31 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5472684e-ca05-4289-9d23-bfd482c66916" name="Changes" comment="Merge pull request #2829 from nunocoracao/dev&#10;&#10;🔖 v2.100.0" />
+    <list default="true" id="5472684e-ca05-4289-9d23-bfd482c66916" name="Changes" comment="Merge pull request #2829 from nunocoracao/dev&#10;&#10;🔖 v2.100.0">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/authors/e--e--smith.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/authors/e--e--smith.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/authors/eduard-pech.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/authors/eduard-pech.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/authors/philip-k--dick.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/authors/philip-k--dick.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/authors/poul-anderson.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/authors/poul-anderson.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/authors/ray-bradbury.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/authors/ray-bradbury.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/series/the-pitch-science-fiction.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/series/the-pitch-science-fiction.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/404.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/about/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/about/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/authors/arthur-conan-doyle/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/authors/arthur-conan-doyle/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/authors/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/authors/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/authors/isaac-asimov/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/authors/isaac-asimov/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/calling-all-authors/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/calling-all-authors/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/categories/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/categories/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/cookie-policy-eu/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/cookie-policy-eu/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/logophilia-essentials/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/logophilia-essentials/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/our-goals/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/our-goals/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/series/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/series/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/standard-terms-for-publication/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/standard-terms-for-publication/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/terms/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/terms/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/the-logophilia-edge/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/the-logophilia-edge/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +38,7 @@
     <execution />
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="2956" />
+    <option name="cachedIndexableFilesCount" value="3053" />
     <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
@@ -27,6 +51,11 @@
   </component>
   <component name="Git.Settings">
     <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="c8be29048395ddd38a5d84ca6c9c50b0ffcc43d4" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
@@ -69,7 +98,8 @@
     &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
     &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
     &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;c8be2904&quot;,
+    &quot;git.auto.fetch.suggestion.counter&quot;: &quot;3&quot;,
     &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
     &quot;kronk.content.tree.expanded.paths&quot;: &quot;&quot;,
     &quot;last_opened_file_path&quot;: &quot;/home/Ed/Nextcloud-Logophilia/Logophilia.eu/website&quot;,
@@ -133,6 +163,13 @@
       <workItem from="1773971241810" duration="929000" />
       <workItem from="1773972173985" duration="104000" />
       <workItem from="1773972280456" duration="675000" />
+      <workItem from="1773974681185" duration="25000" />
+      <workItem from="1773979668771" duration="122000" />
+      <workItem from="1774033010123" duration="2852000" />
+      <workItem from="1774036260825" duration="186000" />
+      <workItem from="1774037360543" duration="38000" />
+      <workItem from="1774038000970" duration="275000" />
+      <workItem from="1774038780241" duration="323000" />
     </task>
     <task id="LOCAL-00001" summary="switched to blowfish theme; initial menu setup">
       <option name="closed" value="true" />
@@ -366,7 +403,23 @@
       <option name="project" value="LOCAL" />
       <updated>1773972661673</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="Merge pull request #2829 from nunocoracao/dev&#10;&#10;🔖 v2.100.0">
+      <option name="closed" value="true" />
+      <created>1773974696659</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1773974696659</updated>
+    </task>
+    <task id="LOCAL-00031" summary="Merge pull request #2829 from nunocoracao/dev&#10;&#10;🔖 v2.100.0">
+      <option name="closed" value="true" />
+      <created>1773979762487</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1773979762487</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -396,6 +449,8 @@
     <MESSAGE value="first Heath version" />
     <MESSAGE value="Merge pull request #2829 from nunocoracao/dev&#10;&#10; v2.100.0&#10;Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
     <MESSAGE value="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
+    <MESSAGE value="Merge pull request #2829 from nunocoracao/dev&#10;&#10; v2.100.0" />
+    <MESSAGE value="Merge pull request #2829 from nunocoracao/dev&#10;&#10; v2.100.0" />
     <MESSAGE value="Merge pull request #2829 from nunocoracao/dev&#10;&#10; v2.100.0" />
     <option name="LAST_COMMIT_MESSAGE" value="Merge pull request #2829 from nunocoracao/dev&#10;&#10; v2.100.0" />
   </component>
