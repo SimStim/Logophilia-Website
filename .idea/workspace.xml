@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5472684e-ca05-4289-9d23-bfd482c66916" name="Changes" comment="Merge pull request #2829 from nunocoracao/dev&#10;&#10;🔖 v2.100.0" />
+    <list default="true" id="5472684e-ca05-4289-9d23-bfd482c66916" name="Changes" comment="Merge pull request #2829 from nunocoracao/dev&#10;&#10;🔖 v2.100.0">
+      <change beforePath="$PROJECT_DIR$/themes/blowfish" beforeDir="false" afterPath="$PROJECT_DIR$/themes/blowfish" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -132,7 +134,7 @@
       <workItem from="1773955344506" duration="21000" />
       <workItem from="1773971241810" duration="929000" />
       <workItem from="1773972173985" duration="104000" />
-      <workItem from="1773972280456" duration="367000" />
+      <workItem from="1773972280456" duration="675000" />
     </task>
     <task id="LOCAL-00001" summary="switched to blowfish theme; initial menu setup">
       <option name="closed" value="true" />
@@ -358,7 +360,15 @@
       <option name="project" value="LOCAL" />
       <updated>1773972633124</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="Merge pull request #2829 from nunocoracao/dev&#10;&#10;🔖 v2.100.0">
+      <option name="closed" value="true" />
+      <created>1773972661673</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1773972661673</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
