@@ -1,7 +1,7 @@
 {{ define "main" }}
 {{ .Scratch.Set "scope" "list" }}
 {{ $term := .Data.Term }}
-{{ $authorPage := .Site.GetPage (printf "/authors/%s" ($term | urlize)) }}
+{{ $authorPages := where (where site.RegularPages "Section" "authors") "Params.cross-reference-authors" "intersect" (slice $term) }}
 
 <header class="mt-5">
   {{ if .Params.showBreadcrumbs | default (site.Params.term.showBreadcrumbs | default false) }}
@@ -24,7 +24,7 @@
 
 <section class="w-full grid gap-4 sm:grid-cols-2 md:grid-cols-3">
 
-  {{ if $authorPage }}
+  {{ range $authorPage := $authorPages }}
     <article class="article-link--card relative min-h-full min-w-full overflow-hidden rounded-lg border border-neutral-300 dark:border-neutral-600">
       <div class="p-4">
         <header>
@@ -56,7 +56,7 @@
 
 </section>
 
-{{ if and (eq (len $stories) 0) (eq (len $publications) 0) (not $authorPage) }}
+{{ if and (eq (len $stories) 0) (eq (len $publications) 0) (eq (len $authorPages) 0) }}
   <section class="prose dark:prose-invert mt-10">
     <p class="py-8 border-t"><em>No linked content found.</em></p>
   </section>
