@@ -22,7 +22,7 @@
   {{ end }}
 {{ end }}
 
-<section class="w-full grid gap-4 sm:grid-cols-2 md:grid-cols-3 xl:grid-cols-4 2xl:grid-cols-5">
+<section class="w-full grid gap-4 sm:grid-cols-2 md:grid-cols-3">
 
   {{ if $authorPage }}
     <article class="article-link--card relative min-h-full min-w-full overflow-hidden rounded-lg border border-neutral-300 dark:border-neutral-600">
@@ -33,18 +33,13 @@
             <h2>{{ $authorPage.Title | emojify }}</h2>
           </a>
         </header>
-        <div class="text-sm text-neutral-500 dark:text-neutral-400">Author</div>
+        <div class="text-sm text-neutral-500 dark:text-neutral-400">
+          {{ partial "article-meta/basic.html" (dict "context" $authorPage "scope" "list") }}
+        </div>
         {{ if $authorPage.Summary }}
           <div class="article-link__summary prose dark:prose-invert mt-1 line-clamp-5">
             {{ $authorPage.Summary | plainify }}
           </div>
-        {{ end }}
-        {{ with $authorPage.GetTerms "cross-reference-stories" }}
-          {{ range first 3 . }}
-            <a href="{{ .RelPermalink }}" class="inline-block mt-2 me-2 text-xs text-primary-600 hover:underline">
-              {{ .LinkTitle }}
-            </a>
-          {{ end }}
         {{ end }}
       </div>
       <div class="px-6 pt-4 pb-2"></div>
