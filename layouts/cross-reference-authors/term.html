@@ -1,7 +1,7 @@
 {{ define "main" }}
 {{ .Scratch.Set "scope" "list" }}
 {{ $term := .Data.Term }}
-{{ $authorPage := .Site.GetPage (printf "/authors/%s" $term) }}
+{{ $authorPage := .Site.GetPage (printf "/authors/%s" ($term | urlize)) }}
 
 <header class="mt-5">
   {{ if .Params.showBreadcrumbs | default (site.Params.term.showBreadcrumbs | default false) }}
