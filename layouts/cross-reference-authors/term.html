@@ -1,0 +1,61 @@
+{{ define "main" }}
+{{ $term := .Data.Term }}
+{{ $authorPage := .Site.GetPage (printf "/authors/%s" $term) }}
+
+<header class="mt-5">
+  {{ if .Params.showBreadcrumbs | default (site.Params.term.showBreadcrumbs | default false) }}
+    {{ partial "breadcrumbs.html" . }}
+  {{ end }}
+  <h1 class="mt-5 text-4xl font-extrabold text-neutral-900 dark:text-neutral">
+    {{ if $authorPage }}{{ $authorPage.Title }}{{ else }}{{ replace $term "-" " " | title }}{{ end }}
+  </h1>
+</header>
+
+{{ if $authorPage }}
+  {{ with $authorPage.Content }}
+    <section class="prose dark:prose-invert max-w-prose mt-6 mb-8">
+      {{ . }}
+    </section>
+  {{ end }}
+{{ end }}
+
+{{ $stories := slice }}
+{{ $publications := slice }}
+{{ range .Data.Pages }}
+  {{ if eq .Type "stories" }}
+    {{ $stories = $stories | append . }}
+  {{ else if eq .Type "publications" }}
+    {{ $publications = $publications | append . }}
+  {{ end }}
+{{ end }}
+
+{{ if gt (len $stories) 0 }}
+  <section class="mt-10">
+    <h2 class="text-2xl font-bold text-neutral-700 dark:text-neutral-300">Stories</h2>
+    <div class="grid gap-4 mt-4">
+      {{ range $stories }}
+        {{ partial "article-link/simple.html" . }}
+      {{ end }}
+    </div>
+  </section>
+{{ end }}
+
+{{ if gt (len $publications) 0 }}
+  <section class="mt-10">
+    <h2 class="text-2xl font-bold text-neutral-700 dark:text-neutral-300">Publications</h2>
+    <div class="grid gap-4 mt-4">
+      {{ range $publications }}
+        {{ partial "article-link/simple.html" . }}
+      {{ end }}
+    </div>
+  </section>
+{{ end }}
+
+{{ if and (eq (len $stories) 0) (eq (len $publications) 0) }}
+  <section class="prose dark:prose-invert mt-10">
+    <p class="py-8 border-t"><em>No linked stories or publications found.</em></p>
+  </section>
+{{ end }}
+
+{{ partial "pagination.html" . }}
+{{ end }}
