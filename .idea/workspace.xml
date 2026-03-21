@@ -14,7 +14,7 @@
     <execution />
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="3055" />
+    <option name="cachedIndexableFilesCount" value="3068" />
     <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
@@ -149,6 +149,7 @@
       <workItem from="1774041231540" duration="785000" />
       <workItem from="1774043768473" duration="5740000" />
       <workItem from="1774054544024" duration="1314000" />
+      <workItem from="1774062637530" duration="365000" />
     </task>
     <task id="LOCAL-00001" summary="switched to blowfish theme; initial menu setup">
       <option name="closed" value="true" />
