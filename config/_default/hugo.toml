@@ -5,6 +5,7 @@
 theme = "blowfish" # UNCOMMENT THIS LINE
 # baseURL = "https://refresh.usha-ludwig.de/"
 defaultContentLanguage = "en"
+description = "λογοφιλία &#8211; Fueling understanding—for those who bring their own spark"
 
 # pluralizeListTitles = "true" # hugo function useful for non-english languages, find out more in  https://gohugo.io/getting-started/configuration/#pluralizelisttitles
 

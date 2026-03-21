@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5472684e-ca05-4289-9d23-bfd482c66916" name="Changes" comment="add meta description">
+    <list default="true" id="5472684e-ca05-4289-9d23-bfd482c66916" name="Changes" comment="author and toc cards, sorting within cards&#10;🔖 v2.100.0">
+      <change afterPath="$PROJECT_DIR$/layouts/partials/head.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/config/_default/hugo.toml" beforeDir="false" afterPath="$PROJECT_DIR$/config/_default/hugo.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/_default/languages.en.toml" beforeDir="false" afterPath="$PROJECT_DIR$/config/_default/languages.en.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/layouts/partials/head.html" beforeDir="false" afterPath="$PROJECT_DIR$/layouts/partials/head.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/404.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/about/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/about/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/authors/arthur-conan-doyle/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/authors/arthur-conan-doyle/index.html" afterDir="false" />
@@ -169,7 +168,7 @@
       <workItem from="1774038780241" duration="1156000" />
       <workItem from="1774041231540" duration="785000" />
       <workItem from="1774043768473" duration="5740000" />
-      <workItem from="1774054544024" duration="3903000" />
+      <workItem from="1774054544024" duration="1314000" />
     </task>
     <task id="LOCAL-00001" summary="switched to blowfish theme; initial menu setup">
       <option name="closed" value="true" />
@@ -443,15 +442,7 @@
       <option name="project" value="LOCAL" />
       <updated>1774048849669</updated>
     </task>
-    <task id="LOCAL-00035" summary="add meta description">
-      <option name="closed" value="true" />
-      <created>1774056095704</created>
-      <option name="number" value="00035" />
-      <option name="presentableId" value="LOCAL-00035" />
-      <option name="project" value="LOCAL" />
-      <updated>1774056095705</updated>
-    </task>
-    <option name="localTasksCounter" value="36" />
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -492,7 +483,6 @@
     <MESSAGE value="Merge pull request #2829 from nunocoracao/dev&#10;&#10; v2.100.0" />
     <MESSAGE value="Merge pull request #2829 from nunocoracao/dev&#10;&#10; v2.100.0" />
     <MESSAGE value="author and toc cards, sorting within cards&#10; v2.100.0" />
-    <MESSAGE value="add meta description" />
-    <option name="LAST_COMMIT_MESSAGE" value="add meta description" />
+    <option name="LAST_COMMIT_MESSAGE" value="author and toc cards, sorting within cards&#10; v2.100.0" />
   </component>
 </project>
