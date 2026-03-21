@@ -9,9 +9,9 @@ title = "Welcome to Logophilia!"
   isoCode = "en"
   rtl = false
   dateFormat = "2 January 2006"
-  logo = "img/logo.png"
+  logo = "img/logo-white.png"
   # secondaryLogo = "img/secondary-logo.png"
-  description = "λογοφιλία &#8211; Fueling understanding—for those who bring their own spark"
+  description = "λογοφιλία—Fueling understanding for those who bring their own spark"
   # copyright = "Copy, _right?_ :thinking_face:"
 
 [params.author]

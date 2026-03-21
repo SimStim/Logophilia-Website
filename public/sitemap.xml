@@ -3,497 +3,497 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>//localhost:1313/the-logophilia-edge/</loc>
+    <loc>http://localhost:1313/the-logophilia-edge/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/standard-terms-for-publication/</loc>
+    <loc>http://localhost:1313/standard-terms-for-publication/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/calling-all-authors/</loc>
+    <loc>http://localhost:1313/calling-all-authors/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/logophilia-essentials/</loc>
+    <loc>http://localhost:1313/logophilia-essentials/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/our-goals/</loc>
+    <loc>http://localhost:1313/our-goals/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/</loc>
+    <loc>http://localhost:1313/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/about/</loc>
+    <loc>http://localhost:1313/about/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/stories/a-pail-of-air/</loc>
+    <loc>http://localhost:1313/stories/a-pail-of-air/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/stories/accept-no-substitutes/</loc>
+    <loc>http://localhost:1313/stories/accept-no-substitutes/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/authors/allen-kim-lang/</loc>
+    <loc>http://localhost:1313/authors/allen-kim-lang/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/stories/and-the-gods-laughed/</loc>
+    <loc>http://localhost:1313/stories/and-the-gods-laughed/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/authors/arthur-conan-doyle/</loc>
+    <loc>http://localhost:1313/authors/arthur-conan-doyle/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/authors/</loc>
+    <loc>http://localhost:1313/authors/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/authors/clifford-d--simak/</loc>
+    <loc>http://localhost:1313/authors/clifford-d--simak/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/contact/</loc>
+    <loc>http://localhost:1313/contact/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/stories/contagion/</loc>
+    <loc>http://localhost:1313/stories/contagion/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/cookie-policy-eu/</loc>
+    <loc>http://localhost:1313/cookie-policy-eu/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/stories/cosmic-striptease/</loc>
+    <loc>http://localhost:1313/stories/cosmic-striptease/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/authors/edmond-hamilton/</loc>
+    <loc>http://localhost:1313/authors/edmond-hamilton/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/authors/eduard-pech/</loc>
+    <loc>http://localhost:1313/authors/eduard-pech/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/authors/e--e--smith/</loc>
+    <loc>http://localhost:1313/authors/e--e--smith/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/authors/e--everett-evans/</loc>
+    <loc>http://localhost:1313/authors/e--everett-evans/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/authors/frank-herbert/</loc>
+    <loc>http://localhost:1313/authors/frank-herbert/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/authors/frederik-pohl/</loc>
+    <loc>http://localhost:1313/authors/frederik-pohl/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/authors/fredric-brown/</loc>
+    <loc>http://localhost:1313/authors/fredric-brown/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/authors/fritz-leiber/</loc>
+    <loc>http://localhost:1313/authors/fritz-leiber/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/authors/harlan-ellison/</loc>
+    <loc>http://localhost:1313/authors/harlan-ellison/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/authors/henry-kuttner/</loc>
+    <loc>http://localhost:1313/authors/henry-kuttner/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/authors/harry-harrison/</loc>
+    <loc>http://localhost:1313/authors/harry-harrison/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/authors/h--p--lovecraft/</loc>
+    <loc>http://localhost:1313/authors/h--p--lovecraft/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/stories/i--gardener/</loc>
+    <loc>http://localhost:1313/stories/i--gardener/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/authors/isaac-asimov/</loc>
+    <loc>http://localhost:1313/authors/isaac-asimov/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/authors/jack-london/</loc>
+    <loc>http://localhost:1313/authors/jack-london/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/authors/jack-vance/</loc>
+    <loc>http://localhost:1313/authors/jack-vance/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/authors/jack-williamson/</loc>
+    <loc>http://localhost:1313/authors/jack-williamson/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/authors/john-w--campbell--jr-/</loc>
+    <loc>http://localhost:1313/authors/john-w--campbell--jr-/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/authors/katherine-maclean/</loc>
+    <loc>http://localhost:1313/authors/katherine-maclean/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/authors/kurt-vonnegut--jr-/</loc>
+    <loc>http://localhost:1313/authors/kurt-vonnegut--jr-/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/stories/last-call-from-sector-9g/</loc>
+    <loc>http://localhost:1313/stories/last-call-from-sector-9g/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/authors/leigh-brackett/</loc>
+    <loc>http://localhost:1313/authors/leigh-brackett/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/stories/let-s-get-together/</loc>
+    <loc>http://localhost:1313/stories/let-s-get-together/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/stories/lorelei-of-the-red-mist/</loc>
+    <loc>http://localhost:1313/stories/lorelei-of-the-red-mist/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/stories/masters-of-space/</loc>
+    <loc>http://localhost:1313/stories/masters-of-space/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/stories/murder-in-black-letter/</loc>
+    <loc>http://localhost:1313/stories/murder-in-black-letter/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/stories/old-rambling-house/</loc>
+    <loc>http://localhost:1313/stories/old-rambling-house/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/stories/out-of-the-iron-womb-/</loc>
+    <loc>http://localhost:1313/stories/out-of-the-iron-womb-/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/authors/cordwainer-smith/</loc>
+    <loc>http://localhost:1313/authors/cordwainer-smith/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/authors/philip-jose-farmer/</loc>
+    <loc>http://localhost:1313/authors/philip-jose-farmer/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/authors/philip-k--dick/</loc>
+    <loc>http://localhost:1313/authors/philip-k--dick/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/stories/piper-in-the-woods/</loc>
+    <loc>http://localhost:1313/stories/piper-in-the-woods/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/publications/poul-anderson-alter-ego/</loc>
+    <loc>http://localhost:1313/publications/poul-anderson-alter-ego/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/stories/poul-anderson-in-two-registers/</loc>
+    <loc>http://localhost:1313/stories/poul-anderson-in-two-registers/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/authors/poul-anderson/</loc>
+    <loc>http://localhost:1313/authors/poul-anderson/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/stories/preface-by-the-editor/</loc>
+    <loc>http://localhost:1313/stories/preface-by-the-editor/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/publications/</loc>
+    <loc>http://localhost:1313/publications/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/stories/pygmalion-s-spectacles/</loc>
+    <loc>http://localhost:1313/stories/pygmalion-s-spectacles/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/authors/ray-bradbury/</loc>
+    <loc>http://localhost:1313/authors/ray-bradbury/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/stories/requiem/</loc>
+    <loc>http://localhost:1313/stories/requiem/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/authors/robert-sheckley/</loc>
+    <loc>http://localhost:1313/authors/robert-sheckley/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/stories/scanners-live-in-vain/</loc>
+    <loc>http://localhost:1313/stories/scanners-live-in-vain/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/stories/second-variety/</loc>
+    <loc>http://localhost:1313/stories/second-variety/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/series/</loc>
+    <loc>http://localhost:1313/series/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/stories/sjambak/</loc>
+    <loc>http://localhost:1313/stories/sjambak/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/authors/stanley-g--weinbaum/</loc>
+    <loc>http://localhost:1313/authors/stanley-g--weinbaum/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/stories/star-ship/</loc>
+    <loc>http://localhost:1313/stories/star-ship/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/stories/</loc>
+    <loc>http://localhost:1313/stories/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/stories/the-big-trip-up-yonder/</loc>
+    <loc>http://localhost:1313/stories/the-big-trip-up-yonder/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/stories/the-call-from-beyond/</loc>
+    <loc>http://localhost:1313/stories/the-call-from-beyond/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/stories/the-colour-out-of-space/</loc>
+    <loc>http://localhost:1313/stories/the-colour-out-of-space/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/stories/the-creatures-that-time-forgot/</loc>
+    <loc>http://localhost:1313/stories/the-creatures-that-time-forgot/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/stories/the-ego-machine/</loc>
+    <loc>http://localhost:1313/stories/the-ego-machine/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/stories/the-eyes-have-it/</loc>
+    <loc>http://localhost:1313/stories/the-eyes-have-it/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/stories/the-fifth-dimension-tube/</loc>
+    <loc>http://localhost:1313/stories/the-fifth-dimension-tube/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/stories/the-game-of-rat-and-dragon/</loc>
+    <loc>http://localhost:1313/stories/the-game-of-rat-and-dragon/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/stories/the-golden-slave/</loc>
+    <loc>http://localhost:1313/stories/the-golden-slave/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/stories/the-hanging-stranger/</loc>
+    <loc>http://localhost:1313/stories/the-hanging-stranger/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/stories/the-invisible-master/</loc>
+    <loc>http://localhost:1313/stories/the-invisible-master/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/stories/the-last-evolution/</loc>
+    <loc>http://localhost:1313/stories/the-last-evolution/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/stories/the-misplaced-battleship/</loc>
+    <loc>http://localhost:1313/stories/the-misplaced-battleship/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/stories/the-monster-maker/</loc>
+    <loc>http://localhost:1313/stories/the-monster-maker/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/series/the-pitch-science-fiction/</loc>
+    <loc>http://localhost:1313/series/the-pitch-science-fiction/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/publications/the-pitch-science-fiction-1q2026/</loc>
+    <loc>http://localhost:1313/publications/the-pitch-science-fiction-1q2026/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/publications/the-pitch-science-fiction-1q2026--logophilia-essentials-/</loc>
+    <loc>http://localhost:1313/publications/the-pitch-science-fiction-1q2026--logophilia-essentials-/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/publications/the-pitch-science-fiction-2q2024/</loc>
+    <loc>http://localhost:1313/publications/the-pitch-science-fiction-2q2024/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/publications/the-pitch-science-fiction-2q2024--logophilia-essentials-/</loc>
+    <loc>http://localhost:1313/publications/the-pitch-science-fiction-2q2024--logophilia-essentials-/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/publications/the-pitch-science-fiction-3q2024/</loc>
+    <loc>http://localhost:1313/publications/the-pitch-science-fiction-3q2024/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/publications/the-pitch-science-fiction-3q2024--logophilia-essentials-/</loc>
+    <loc>http://localhost:1313/publications/the-pitch-science-fiction-3q2024--logophilia-essentials-/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/publications/the-pitch-science-fiction-4q2024/</loc>
+    <loc>http://localhost:1313/publications/the-pitch-science-fiction-4q2024/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/stories/the-poison-belt/</loc>
+    <loc>http://localhost:1313/stories/the-poison-belt/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/stories/the-scarlet-plague/</loc>
+    <loc>http://localhost:1313/stories/the-scarlet-plague/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/stories/the-second-shell/</loc>
+    <loc>http://localhost:1313/stories/the-second-shell/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/stories/the-star-stealers/</loc>
+    <loc>http://localhost:1313/stories/the-star-stealers/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/stories/the-tunnel-under-the-world/</loc>
+    <loc>http://localhost:1313/stories/the-tunnel-under-the-world/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/stories/the-vortex-blaster/</loc>
+    <loc>http://localhost:1313/stories/the-vortex-blaster/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/stories/tongues-of-the-moon/</loc>
+    <loc>http://localhost:1313/stories/tongues-of-the-moon/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/stories/try-to-remember-/</loc>
+    <loc>http://localhost:1313/stories/try-to-remember-/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/terms/</loc>
+    <loc>http://localhost:1313/terms/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/authors/murray-leinster/</loc>
+    <loc>http://localhost:1313/authors/murray-leinster/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>//localhost:1313/stories/youth/</loc>
+    <loc>http://localhost:1313/stories/youth/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
