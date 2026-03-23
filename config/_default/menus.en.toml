@@ -28,22 +28,27 @@ weight = 30
 [[main]]
 name = "Authors"
 pageRef = "authors"
-weight = 30
+weight = 40
 
 [[main]]
 name = "Series"
 pageRef = "series"
-weight = 35
+weight = 50
+
+[[main]]
+name = "Newsletter"
+pageRef = "newsletter"
+weight = 60
 
 [[main]]
 name = "Info"
 pageRef =  "about"
-weight = 40
+weight = 70
 
 [[main]]
 name = "Terms"
 pageRef = "terms"
-weight = 50
+weight = 80
 
 [[main]]
 name = "Our goals"

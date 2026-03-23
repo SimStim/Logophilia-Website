@@ -223,6 +223,11 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/newsletter/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/stories/old-rambling-house/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>

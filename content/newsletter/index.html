@@ -1,0 +1,18 @@
++++
+type = "page"
+draft = false
+title = 'Newsletter'
++++
+<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/toastify-js/src/toastify.min.css">
+<p>Subscribe to our newsletter for all the announcements you can read.</p>
+<form id="newsletter-form" class="newsletter-form" novalidate>
+    <p><label for="newsletter-email">Email</label>
+        <input type="email" id="newsletter-email" name="email" style="width: 100%" required autocomplete="email"></p>
+    <p><label class="checkbox-label">
+        <input type="checkbox" name="consent" required>
+        I consent to this website collecting my personal data via this form.
+    </label></p>
+    <p><button type="submit" class="btn btn-primary btn-lg">Subscribe</button></p>
+</form>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/toastify-js"></script>
+<script src="/main.js"></script>

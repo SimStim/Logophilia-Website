@@ -4,11 +4,39 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5472684e-ca05-4289-9d23-bfd482c66916" name="Changes" comment="logo">
+    <list default="true" id="5472684e-ca05-4289-9d23-bfd482c66916" name="Changes" comment="contact form using api">
+      <change afterPath="$PROJECT_DIR$/content/newsletter/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/custom.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/custom.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/_default/menus.en.toml" beforeDir="false" afterPath="$PROJECT_DIR$/config/_default/menus.en.toml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/content/contact/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/contact/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/contact/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/content/contact/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/contact/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/cookie-policy-eu/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/cookie-policy-eu/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/404.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/about/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/about/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/authors/arthur-conan-doyle/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/authors/arthur-conan-doyle/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/authors/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/authors/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/authors/isaac-asimov/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/authors/isaac-asimov/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/calling-all-authors/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/calling-all-authors/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/categories/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/categories/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/cookie-policy-eu/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/cookie-policy-eu/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/css/fonts/Comfortaa-Bold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/css/fonts/EBGaramond-Italic-VariableFont_wght.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/css/fonts/EBGaramond-VariableFont_wght.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/authors/Arthur-Conan-Doyle-FM-Logophilia-512.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img/authors/Isaac-Asimov-FM-Logophilia-512.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/index.json" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/appearance.min.6f41174b3a05b680820fe08cadbfa5fb7a7ca347b76a0955cdc68b9d8aca1ce24f0547e138cea33bcc7904d551a90afcb1cc7f2d9fe8557075d501419046c08c.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/logophilia-essentials/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/logophilia-essentials/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/our-goals/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/our-goals/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/series/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/series/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/sitemap.xml" beforeDir="false" afterPath="$PROJECT_DIR$/public/sitemap.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/standard-terms-for-publication/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/standard-terms-for-publication/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/terms/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/terms/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/the-logophilia-edge/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/the-logophilia-edge/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,7 +47,7 @@
     <execution />
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="3069" />
+    <option name="cachedIndexableFilesCount" value="2846" />
     <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
@@ -89,7 +117,7 @@
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;File.Encoding&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;ml.llm.AcpAgentsConfigurable&quot;,
     &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
@@ -97,10 +125,10 @@
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/static" />
+      <recent name="$PROJECT_DIR$/assets" />
       <recent name="$PROJECT_DIR$/content/authors" />
       <recent name="$PROJECT_DIR$/content/stories/out-of-the-iron-womb" />
       <recent name="$PROJECT_DIR$/content/stories" />
-      <recent name="$PROJECT_DIR$/content/contact" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -162,7 +190,12 @@
       <workItem from="1774239959935" duration="282000" />
       <workItem from="1774241079643" duration="658000" />
       <workItem from="1774242605210" duration="236000" />
-      <workItem from="1774246586890" duration="4623000" />
+      <workItem from="1774246586890" duration="4684000" />
+      <workItem from="1774252456372" duration="988000" />
+      <workItem from="1774253484808" duration="361000" />
+      <workItem from="1774298465231" duration="2917000" />
+      <workItem from="1774303677251" duration="3130000" />
+      <workItem from="1774307521921" duration="1143000" />
     </task>
     <task id="LOCAL-00001" summary="switched to blowfish theme; initial menu setup">
       <option name="closed" value="true" />
@@ -468,7 +501,15 @@
       <option name="project" value="LOCAL" />
       <updated>1774063021596</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="contact form using api">
+      <option name="closed" value="true" />
+      <created>1774251255477</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1774251255477</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -512,6 +553,11 @@
     <MESSAGE value="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
     <MESSAGE value="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;layouts/partials/head.html&#10;#&#9;public/404.html&#10;#&#9;public/about/index.html&#10;#&#9;public/authors/arthur-conan-doyle/index.html&#10;#&#9;public/authors/index.html&#10;#&#9;public/authors/isaac-asimov/index.html&#10;#&#9;public/calling-all-authors/index.html&#10;#&#9;public/categories/index.html&#10;#&#9;public/cookie-policy-eu/index.html&#10;#&#9;public/index.html&#10;#&#9;public/logophilia-essentials/index.html&#10;#&#9;public/our-goals/index.html&#10;#&#9;public/series/index.html&#10;#&#9;public/standard-terms-for-publication/index.html&#10;#&#9;public/tags/index.html&#10;#&#9;public/terms/index.html&#10;#&#9;public/the-logophilia-edge/index.html" />
     <MESSAGE value="logo" />
-    <option name="LAST_COMMIT_MESSAGE" value="logo" />
+    <MESSAGE value="contact form using api" />
+    <option name="LAST_COMMIT_MESSAGE" value="contact form using api" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

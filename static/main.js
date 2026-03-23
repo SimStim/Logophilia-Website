@@ -1,7 +1,66 @@
 /**
  * λογοφιλία – Main JavaScript
- * Handles: mobile menu, dropdowns, contact form, newsletter
+ * Handles: mobile menu, dropdowns, contact form, newsletter, decrypt
  */
+
+const decrypt = (salt, encoded) => {
+    const textToChars = (text) => text.split("").map((c) => c.charCodeAt(0));
+    const applySaltToChar = (code) => textToChars(salt).reduce((a, b) => a ^ b, code);
+    return encoded
+        .match(/.{1,2}/g)
+        .map((hex) => parseInt(hex, 16))
+        .map(applySaltToChar)
+        .map((charCode) => String.fromCharCode(charCode))
+        .join("");
+};
+
+async function downloadFile(filename) {
+    const apiKey = decrypt(
+        "Prince",
+        "1117144616401615471115121a46461a47111a401740161547151a404240451a121441171a42161411151a1546421513414214171147101516411a1b10121211"
+    );
+    try {
+        const resp = await fetch(
+            `https://api.logophilia.eu/download?fileName=${encodeURIComponent(filename)}`,
+            {
+                method: 'GET',
+                headers: { 'X-API-KEY': apiKey }
+            }
+        );
+        // Inspect Content-Type to decide what the response body is
+        const contentType = resp.headers.get('Content-Type') || '';
+        // If server returned JSON (error) or non-OK status, show error
+        if (contentType.includes('application/json') || !resp.ok) {
+            const err = await resp.json().catch(() => ({}));
+            const message = err.message || `HTTP ${resp.status}: ${resp.statusText}`;
+            Toastify({
+                text: message,
+                duration: 6000,
+                gravity: "top",
+                position: "left",
+                stopOnFocus: false,
+                style: { background: "#ff0000" },
+                onClick: function() {}
+            }).showToast();
+            return;
+        }
+        // Otherwise treat as file blob
+        const blob = await resp.blob();
+        const url = URL.createObjectURL(blob);
+        const a = document.createElement('a');
+        a.href = url;
+        a.download = filename;
+        document.body.appendChild(a);
+        a.click();
+        // Clean up after a brief delay to ensure download starts
+        setTimeout(() => {
+            document.body.removeChild(a);
+            URL.revokeObjectURL(url);
+        }, 100);
+    } catch (e) {
+        alert('Download failed: ' + e.message);
+    }
+}
 
 (function () {
     'use strict';
@@ -67,7 +126,7 @@
                         position: "left",
                         stopOnFocus: false,
                         style: {
-                            background: "linear-gradient(to right, #9063cd, #000000)",
+                            background: "linear-gradient(to right, #000000, #9063cd)",
                         },
                         onClick: function(){} // Callback after click
                     }).showToast();
@@ -82,7 +141,7 @@
                         position: "left",
                         stopOnFocus: false,
                         style: {
-                            background: "linear-gradient(to right, #9063cd, #000000)",
+                            background: "linear-gradient(to right, #000000, #9063cd)",
                         },
                         onClick: function(){} // Callback after click
                     }).showToast();
@@ -97,7 +156,7 @@
                         position: "left",
                         stopOnFocus: false,
                         style: {
-                            background: "linear-gradient(to right, #9063cd, #000000)",
+                            background: "linear-gradient(to right, #000000, #9063cd)",
                         },
                         onClick: function(){} // Callback after click
                     }).showToast();
@@ -122,7 +181,7 @@
                         position: "left",
                         stopOnFocus: false,
                         style: {
-                            background: "linear-gradient(to right, #9063cd, #000000)",
+                            background: "linear-gradient(to right, #000000, #9063cd)",
                         },
                         onClick: function(){} // Callback after click
                     }).showToast();
@@ -144,7 +203,7 @@
                     position: "left",
                     stopOnFocus: false,
                     style: {
-                        background: "linear-gradient(to right, #9063cd, #000000)",
+                        background: "linear-gradient(to right, #000000, #9063cd)",
                     },
                     onClick: function(){} // Callback after click
                 }).showToast();
@@ -162,7 +221,10 @@
                 const resp = await fetch('https://api.logophilia.eu/contact', {
                     method: 'POST',
                     headers: {
-                        'X-API-KEY': "247e5c56d2619ee9d29c4c56d69cacf917b49a572696ea60ba742d365b983112", // The header name is typically 'X-API-KEY'
+                        'X-API-KEY': decrypt(
+                            "Prince",
+                            "1117144616401615471115121a46461a47111a401740161547151a404240451a121441171a42161411151a1546421513414214171147101516411a1b10121211"
+                        ),
                     },
                     body: formData,
                 });
@@ -225,39 +287,100 @@
         nlForm.addEventListener('submit', async (e) => {
             e.preventDefault();
             const feedback = document.getElementById('newsletter-feedback');
+            let valid = true;
             const emailInput = nlForm.querySelector('input[type="email"]');
             const email = emailInput?.value.trim();
             if (!email || !/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email)) {
-                if (feedback) {
-                    feedback.className = 'form-feedback error';
-                    feedback.textContent = 'Please enter a valid email address.';
-                }
-                return;
+                    Toastify({
+                        text: "Please enter a valid email addrees",
+                        duration: 3000,
+                        gravity: "top",
+                        position: "left",
+                        stopOnFocus: false,
+                        style: {
+                            background: "linear-gradient(to right, #000000, #9063cd)",
+                        },
+                        onClick: function(){} // Callback after click
+                    }).showToast();
+                valid = false;
             }
+            // Consent
+            const consent = nlForm.querySelector('[name="consent"]');
+            if (consent && !consent.checked) {
+                const group = consent.closest('.form-group');
+                const fb = group?.querySelector('.field-feedback');
+                group?.classList.add('error');
+                Toastify({
+                    text: "Consent not given",
+                    duration: 3000,
+                    gravity: "top",
+                    position: "left",
+                    stopOnFocus: false,
+                    style: {
+                        background: "linear-gradient(to right, #000000, #9063cd)",
+                    },
+                    onClick: function(){} // Callback after click
+                }).showToast();
+                valid = false;
+            }
+            if (!valid) return;
+            // Submit to API
             const submitBtn = nlForm.querySelector('button[type="submit"]');
             if (submitBtn) {
                 submitBtn.disabled = true;
                 submitBtn.textContent = 'Subscribing...';
             }
             try {
-                const formData = new FormData();
-                formData.append('email', email);
-                const resp = await fetch('/api/newsletter.php', {
+                const formData = new FormData(nlForm);
+                const resp = await fetch('https://api.logophilia.eu/newsletter', {
                     method: 'POST',
+                    headers: {
+                        'X-API-KEY': decrypt(
+                            "Prince",
+                            "1117144616401615471115121a46461a47111a401740161547151a404240451a121441171a42161411151a1546421513414214171147101516411a1b10121211"
+                        ),
+                    },
                     body: formData,
                 });
                 const result = await resp.json();
-                if (result.success) {
-                    feedback.className = 'form-feedback success';
-                    feedback.textContent = '✓ You\'re subscribed! Check your inbox for confirmation.';
+                if (result.status === 'success') {
+                    Toastify({
+                        text: result.message || "You're subscribed!",
+                        duration: 6000,
+                        gravity: "top",
+                        position: "left",
+                        stopOnFocus: false,
+                        style: {
+                            background: "#008040",
+                        },
+                        onClick: function(){} // Callback after click
+                    }).showToast();
                     nlForm.reset();
                 } else {
-                    feedback.className = 'form-feedback error';
-                    feedback.textContent = result.message || 'Something went wrong. Please try again.';
+                    Toastify({
+                        text: result.message || 'Something went wrong. Please try again.',
+                        duration: 6000,
+                        gravity: "top",
+                        position: "left",
+                        stopOnFocus: false,
+                        style: {
+                            background: "#ff0000",
+                        },
+                        onClick: function(){} // Callback after click
+                    }).showToast();
                 }
             } catch (err) {
-                feedback.className = 'form-feedback error';
-                feedback.textContent = 'Network error. Please try again later.';
+                Toastify({
+                    text: 'Network error. Please try again later.',
+                    duration: 6000,
+                    gravity: "top",
+                    position: "left",
+                    stopOnFocus: false,
+                    style: {
+                        background: "#ff0000",
+                    },
+                    onClick: function(){} // Callback after click
+                }).showToast();
             }
             if (submitBtn) {
                 submitBtn.disabled = false;
