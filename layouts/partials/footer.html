@@ -1,0 +1,86 @@
+<footer id="site-footer" class="py-10 print:hidden">
+    {{/* Footer menu */}}
+    {{ if .Site.Params.footer.showMenu | default true }}
+    {{ if .Site.Menus.footer }}
+    {{ $onlyIcon := true }}
+    {{ range .Site.Menus.footer }}
+    {{ if .Name }}
+    {{ $onlyIcon = false }}
+    {{ break }}
+    {{ end }}
+    {{ end }}
+    {{ $navClass := printf "flex flex-row pb-4 text-base font-medium text-neutral-500 dark:text-neutral-400 %s" (cond $onlyIcon "overflow-x-auto py-2" "") }}
+    {{ $ulClass := printf "flex list-none %s" (cond $onlyIcon "flex-row" "flex-col sm:flex-row") }}
+    {{ $liClass := printf "flex mb-1 text-end sm:mb-0 sm:me-7 sm:last:me-0 %s" (cond $onlyIcon "me-4" "") }}
+    <nav class="{{ $navClass }}">
+        <ul class="{{ $ulClass }}">
+            {{ range .Site.Menus.footer }}
+            <li class=" {{ $liClass }}">
+                <a
+                        class="decoration-primary-500 hover:underline hover:decoration-2 hover:underline-offset-2 flex items-center"
+                        href="{{ .URL }}"
+                        title="{{ .Title }}">
+                    {{ if .Pre }}
+                    <span {{ if and .Pre .Name }}class="mr-1"{{ end }}>
+                    {{ partial "icon.html" .Pre }}
+                  </span>
+                    {{ end }}
+                    {{ .Name | markdownify }}
+                </a>
+            </li>
+            {{ end }}
+        </ul>
+    </nav>
+    {{ end }}
+    {{ end }}
+    <div class="flex items-center justify-between">
+        {{/* Copyright */}}
+        {{ if .Site.Params.footer.showCopyright | default true }}
+        <p class="text-left text-xs text-neutral-500 dark:text-neutral-400 width-patch">
+            {{- with replace .Site.Params.copyright "{ year }" now.Year }}
+            {{ . | markdownify }}
+            {{- else }}
+            Compiled on
+            {{ now.Format "Monday, January 2, 2006, 15:04.05" }}
+            {{ .Site.Params.Author.name | markdownify }}
+            {{- end }}
+        </p>
+        {{ end }}
+        <a class="text-center text-xs text-neutral-500 dark:text-neutral-400" href="https://facebook.logophilia.eu" target="_blank">{{ partial "icon.html" "facebook" }}</a>
+        <a class="text-center text-xs text-neutral-500 dark:text-neutral-400" href="https://patreon.logophilia.eu" target="_blank">{{ partial "icon.html" "patreon" }}</a>
+        <a class="text-center text-xs text-neutral-500 dark:text-neutral-400" href="https://substack.logophilia.eu" target="_blank">{{ partial "icon.html" "substack" }}</a>
+        <a class="text-center text-xs text-neutral-500 dark:text-neutral-400" href="https://x.logophilia.eu" target="_blank">{{ partial "icon.html" "x-twitter" }}</a>
+        {{/* Theme attribution */}}
+        {{ if .Site.Params.footer.showThemeAttribution | default true }}
+        <p class="text-right text-xs text-neutral-500 dark:text-neutral-400 width-patch">
+            {{ $hugo := printf `<a class="hover:underline h over:decoration-primary-400 hover:text-primary-500"
+                                   href="https://gohugo.io/" target="_blank" rel="noopener noreferrer">Hugo</a>`
+            }}
+            {{ $blowfish := printf `<a class="hover:underline hover:decoration-primary-400 hover:text-primary-500"
+                                       href="https://blowfish.page/" target="_blank" rel="noopener noreferrer">Blowfish</a>`
+            }}
+            {{ i18n "footer.powered_by" (dict "Hugo" $hugo "Theme" $blowfish) | safeHTML }}
+        </p>
+        {{ end }}
+    </div>
+    <p class="text-center text-xs text-neutral-500 dark:text-neutral-400">Copyright © 2026 by Logophilia OÜ, Sakala 7-2, 10141 Tallinn, Estonia (vidyapitha@proton.me). All rights reserved. All hail the Buenos Aires Convention, may you never die!</p>
+    <p class="text-center text-xs text-neutral-500 dark:text-neutral-400">Oh, wait. Estonia is only a signatory of the Berne Convention for the Protection of Literary and Artistic Works, the Universal Copyright Convention and the Agreement on Trade-Related Aspects of Intellectual Property Rights. But you get the point. And if not, shoot us a communication via the contact form, so we can all have a reasonable discussion. Perhaps even on another topic, one that does not involve legalese? Much preferred.</p>
+    <p class="text-center text-xs text-neutral-500 dark:text-neutral-400">Bank: Banking Circle S.A. - German Branch</p>
+    <p class="text-center text-xs text-neutral-500 dark:text-neutral-400">IBAN: DE23 2022 0800 0027 7555 30</p>
+    <p class="text-center text-xs text-neutral-500 dark:text-neutral-400">Account holder: Logophilia OÜ</p>
+    <p class="text-center text-xs text-neutral-500 dark:text-neutral-400">Account number: 27755530 / BIC: SXPYDEHHXXX</p>
+    <p class="text-center text-xs text-neutral-500 dark:text-neutral-400">As an Amazon Associate, I earn from qualifying purchases. Affiliate links may be present.</p>
+    {{ if not .Site.Params.disableImageZoom | default true }}
+    <script>
+        mediumZoom(document.querySelectorAll("img:not(.nozoom)"), {
+            margin: 24,
+            background: "rgba(0,0,0,0.5)",
+            scrollOffset: 0,
+        });
+    </script>
+    {{ end }}
+    {{/* Extend footer - eg. for extra scripts, etc. */}}
+    {{ if templates.Exists "partials/extend-footer.html" }}
+    {{ partialCached "extend-footer.html" . }}
+    {{ end }}
+</footer>

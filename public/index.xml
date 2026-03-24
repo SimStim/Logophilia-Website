@@ -11,10 +11,10 @@
     
     <item>
       <title>A Bit About Us</title>
-      <link>http://localhost:1313/about/</link>
+      <link>http://localhost:1313/about-us/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/about/</guid>
+      <guid>http://localhost:1313/about-us/</guid>
       <description></description>
       
     </item>
@@ -35,6 +35,16 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/stories/accept-no-substitutes/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Affiliate Disclosure</title>
+      <link>http://localhost:1313/affiliate-disclosure/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/affiliate-disclosure/</guid>
       <description></description>
       
     </item>
@@ -260,6 +270,16 @@
     </item>
     
     <item>
+      <title>Idoru Toei</title>
+      <link>http://localhost:1313/idoru-toei/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/idoru-toei/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
       <title>Isaac Asimov</title>
       <link>http://localhost:1313/authors/isaac-asimov/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -420,6 +440,16 @@
     </item>
     
     <item>
+      <title>Our Customers by Orders</title>
+      <link>http://localhost:1313/our-customers-by-orders/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/our-customers-by-orders/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
       <title>Our goals</title>
       <link>http://localhost:1313/our-goals/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -520,6 +550,16 @@
     </item>
     
     <item>
+      <title>Privacy Policy</title>
+      <link>http://localhost:1313/privacy-policy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/privacy-policy/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
       <title>Pygmalion’s Spectacles</title>
       <link>http://localhost:1313/stories/pygmalion-s-spectacles/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -550,6 +590,26 @@
     </item>
     
     <item>
+      <title>Review Authenticity</title>
+      <link>http://localhost:1313/review-authenticity/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/review-authenticity/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Right of Withdrawal</title>
+      <link>http://localhost:1313/right-of-withdrawal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/right-of-withdrawal/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
       <title>Robert Sheckley</title>
       <link>http://localhost:1313/authors/robert-sheckley/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -575,6 +635,26 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/stories/second-variety/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Shipping Terms</title>
+      <link>http://localhost:1313/shipping-terms/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/shipping-terms/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Shop Terms and Conditions</title>
+      <link>http://localhost:1313/shop-terms-and-conditions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/shop-terms-and-conditions/</guid>
       <description></description>
       
     </item>
@@ -670,6 +750,16 @@
     </item>
     
     <item>
+      <title>The Director, Without a Service Weapon</title>
+      <link>http://localhost:1313/the-director-without-a-service-weapon/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/the-director-without-a-service-weapon/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
       <title>The Ego Machine</title>
       <link>http://localhost:1313/stories/the-ego-machine/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -751,10 +841,10 @@
     
     <item>
       <title>The Logophilia Edge</title>
-      <link>http://localhost:1313/the-logophilia-edge/</link>
+      <link>http://localhost:1313/understanding-isbns-variations-and-importance/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/the-logophilia-edge/</guid>
+      <guid>http://localhost:1313/understanding-isbns-variations-and-importance/</guid>
       <description></description>
       
     </item>
@@ -940,11 +1030,21 @@
     </item>
     
     <item>
-      <title>Website Terms of Use</title>
-      <link>http://localhost:1313/terms/</link>
+      <title>Understanding ISBNs: Variations and Importance</title>
+      <link>http://localhost:1313/the-logophilia-edge/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/terms/</guid>
+      <guid>http://localhost:1313/the-logophilia-edge/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Website Terms of Use</title>
+      <link>http://localhost:1313/terms-of-use/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/terms-of-use/</guid>
       <description></description>
       
     </item>

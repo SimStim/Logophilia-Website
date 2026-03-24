@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>http://localhost:1313/about-us/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -14,6 +14,11 @@
   </url>
   <url>
     <loc>http://localhost:1313/stories/accept-no-substitutes/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/affiliate-disclosure/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -133,6 +138,11 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/idoru-toei/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/authors/isaac-asimov/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -213,6 +223,11 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/our-customers-by-orders/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/our-goals/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -263,6 +278,11 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/privacy-policy/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/publications/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -283,6 +303,16 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/review-authenticity/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/right-of-withdrawal/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/authors/robert-sheckley/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -299,6 +329,16 @@
   </url>
   <url>
     <loc>http://localhost:1313/series/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/shipping-terms/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/shop-terms-and-conditions/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -353,6 +393,11 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/the-director-without-a-service-weapon/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/stories/the-ego-machine/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -393,7 +438,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/the-logophilia-edge/</loc>
+    <loc>http://localhost:1313/understanding-isbns-variations-and-importance/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -488,7 +533,12 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/terms/</loc>
+    <loc>http://localhost:1313/the-logophilia-edge/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/terms-of-use/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>

@@ -430,21 +430,9 @@ document.addEventListener('DOMContentLoaded', () => {
     if (initiallyAllOpen) {
         toggleAllButton.classList.add('all-expanded');
     }
-
     form.addEventListener('submit', async (e) => {
         e.preventDefault();
         if (!fileInput.files.length) {
-            Toastify({
-                text: "Please select a file",
-                duration: 3000,
-                gravity: "top",
-                position: "left",
-                stopOnFocus: false,
-                style: {
-                    background: "linear-gradient(to right, #000000, #9063cd)",
-                },
-                onClick: function(){} // Callback after click
-            }).showToast();
             return;
         }
         const formData = new FormData(form);

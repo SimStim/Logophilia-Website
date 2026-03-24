@@ -1,0 +1,109 @@
++++
+type = "page"
+draft = false
+title = 'Our Customers by Orders'
+layout = "simple"
++++
+<div id="our-customers-by-orders" style="width: 100%; height: 500px;"></div>
+<script src="https://cdn.amcharts.com/lib/5/index.js"></script>
+<script src="https://cdn.amcharts.com/lib/5/map.js"></script>
+<script src="https://cdn.amcharts.com/lib/5/geodata/worldHigh.js"></script>
+<script src="https://cdn.amcharts.com/lib/5/themes/Animated.js"></script>
+<script>
+// Create root element
+var root = am5.Root.new("our-customers-by-orders");
+
+// Set themes
+root.setThemes([am5themes_Animated.new(root)]);
+
+// Create the map chart
+var chart = root.container.children.push(am5map.MapChart.new(root, {
+    panX: "translateX",
+    panY: "translateY",
+    projection: am5map.geoNaturalEarth1()
+}));
+chart.chartContainer.set("background", am5.Rectangle.new(root, {
+    fill: am5.color(0xd4f1f9),
+    fillOpacity: 1
+}));
+
+// Create main polygon series for countries
+var polygonSeries = chart.series.push(am5map.MapPolygonSeries.new(root, {
+    geoJSON: am5geodata_worldHigh,
+    valueField: "value",
+    calculateAggregates: true
+}));
+let graticuleSeries = chart.series.unshift(
+    am5map.GraticuleSeries.new(root, {step: 15}),
+);
+graticuleSeries.mapLines.template.setAll({
+    stroke: am5.color(0x000000),
+    strokeOpacity: 0.1
+});
+polygonSeries.mapPolygons.template.setAll({
+    tooltipText: "{name}",
+    toggleKey: "active",
+    interactive: true
+});
+polygonSeries.set("heatRules", [{
+    target: polygonSeries.mapPolygons.template,
+    dataField: "value",
+    min: am5.color(0xff621f),
+    max: am5.color(0x661f00),
+    key: "fill"
+}]);
+polygonSeries.data.setAll([
+    { id: "US", value: 13164 },
+    { id: "DE", value: 1560 },
+    { id: "CA", value: 749 },
+    { id: "GB", value: 3645 },
+    { id: "JP", value: 218 },
+    { id: "ES", value: 296 },
+    { id: "NL", value: 138 },
+    { id: "IT", value: 92 },
+    { id: "AU", value: 46 },
+    { id: "FR", value: 46 },
+    { id: "IN", value: 46 },
+]);
+polygonSeries.mapPolygons.template.events.on("pointerover", function(ev) {
+    heatLegend.showValue(ev.target.dataItem.get("value"));
+});
+polygonSeries.mapPolygons.template.states.create("hover", {
+    fill: root.interfaceColors.get("primaryButtonHover")
+});
+polygonSeries.mapPolygons.template.states.create("active", {
+    fill: root.interfaceColors.get("primaryButtonHover")
+});
+var previousPolygon;
+polygonSeries.mapPolygons.template.on("active", function (active, target) {
+    if (previousPolygon && previousPolygon != target) {
+        previousPolygon.set("active", false);
+    }
+    if (target.get("active")) {
+        polygonSeries.zoomToDataItem(target.dataItem );
+    }
+    else { chart.goHome(); }
+    previousPolygon = target;
+});
+
+// Add zoom control
+chart.set("zoomControl", am5map.ZoomControl.new(root, {}));
+
+// Set clicking on "water" to zoom out
+chart.chartContainer.get("background").events.on("click", function () {
+    chart.goHome();
+})
+var heatLegend = chart.children.push(am5.HeatLegend.new(root, {
+    orientation: "vertical",
+    scale: "0.8",
+    paddingTop: "5",
+    startColor: am5.color(0xff621f),
+    endColor: am5.color(0x661f00),
+    startText: "Least",
+    endText: "Most",
+    stepCount: 5
+}));
+
+// Make stuff animate on load
+chart.appear(1000, 100);
+</script>
