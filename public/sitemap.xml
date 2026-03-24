@@ -3,36 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>http://localhost:1313/the-logophilia-edge/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/standard-terms-for-publication/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/calling-all-authors/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/logophilia-essentials/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/our-goals/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/</loc>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://localhost:1313/about/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -64,6 +34,11 @@
   </url>
   <url>
     <loc>http://localhost:1313/authors/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/calling-all-authors/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -208,6 +183,11 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/logophilia-essentials/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/stories/lorelei-of-the-red-mist/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -229,6 +209,11 @@
   </url>
   <url>
     <loc>http://localhost:1313/stories/old-rambling-house/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/our-goals/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -323,6 +308,11 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/standard-terms-for-publication/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/authors/stanley-g--weinbaum/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -334,6 +324,11 @@
   </url>
   <url>
     <loc>http://localhost:1313/stories/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/submissions/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -394,6 +389,11 @@
   </url>
   <url>
     <loc>http://localhost:1313/stories/the-last-evolution/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/the-logophilia-edge/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -489,6 +489,11 @@
   </url>
   <url>
     <loc>http://localhost:1313/terms/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>

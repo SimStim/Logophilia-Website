@@ -10,56 +10,6 @@
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>The Logophilia Edge</title>
-      <link>http://localhost:1313/the-logophilia-edge/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/the-logophilia-edge/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Standard Terms for Publication</title>
-      <link>http://localhost:1313/standard-terms-for-publication/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/standard-terms-for-publication/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Calling All Authors</title>
-      <link>http://localhost:1313/calling-all-authors/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/calling-all-authors/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Logophilia Essentials</title>
-      <link>http://localhost:1313/logophilia-essentials/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/logophilia-essentials/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Our goals</title>
-      <link>http://localhost:1313/our-goals/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/our-goals/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>A Bit About Us</title>
       <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -115,6 +65,16 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/authors/arthur-conan-doyle/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Calling All Authors</title>
+      <link>http://localhost:1313/calling-all-authors/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/calling-all-authors/</guid>
       <description></description>
       
     </item>
@@ -400,6 +360,16 @@
     </item>
     
     <item>
+      <title>Logophilia Essentials</title>
+      <link>http://localhost:1313/logophilia-essentials/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/logophilia-essentials/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
       <title>Lorelei of the Red Mist</title>
       <link>http://localhost:1313/stories/lorelei-of-the-red-mist/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -445,6 +415,16 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/stories/old-rambling-house/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Our goals</title>
+      <link>http://localhost:1313/our-goals/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/our-goals/</guid>
       <description></description>
       
     </item>
@@ -610,6 +590,16 @@
     </item>
     
     <item>
+      <title>Standard Terms for Publication</title>
+      <link>http://localhost:1313/standard-terms-for-publication/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/standard-terms-for-publication/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
       <title>Stanley Grauman Weinbaum</title>
       <link>http://localhost:1313/authors/stanley-g--weinbaum/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -625,6 +615,16 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/stories/star-ship/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Submissions</title>
+      <link>http://localhost:1313/submissions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/submissions/</guid>
       <description></description>
       
     </item>
@@ -745,6 +745,16 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:1313/stories/the-last-evolution/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>The Logophilia Edge</title>
+      <link>http://localhost:1313/the-logophilia-edge/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/the-logophilia-edge/</guid>
       <description></description>
       
     </item>

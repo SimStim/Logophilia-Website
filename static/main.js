@@ -1,6 +1,6 @@
 /**
  * λογοφιλία – Main JavaScript
- * Handles: mobile menu, dropdowns, contact form, newsletter, decrypt
+ * Handles: mobile menu, dropdowns, contact form, newsletter, decrypt, downloadFile
  */
 
 const decrypt = (salt, encoded) => {
@@ -389,3 +389,147 @@ async function downloadFile(filename) {
         });
     }
 })();
+
+/**
+ * submissions
+ */
+
+document.addEventListener('DOMContentLoaded', () => {
+    const form = document.querySelector('form');
+    const fileInput = document.querySelector('input[type="file"]');
+    // Create UI elements
+    const progressContainer = createProgressBar();
+    const messageContainer = createMessageContainer();
+    form.appendChild(progressContainer);
+    form.appendChild(messageContainer);
+
+    // Accordion functionality
+    const toggleAllButton = document.getElementById('toggleAll');
+    const accordionItems = document.querySelectorAll('.accordion-item');
+
+    toggleAllButton.addEventListener('click', () => {
+        const allOpen = Array.from(accordionItems).every(item => item.open);
+
+        accordionItems.forEach(item => {
+            item.open = !allOpen;
+        });
+
+        if (allOpen) {
+            toggleAllButton.innerHTML = "+";
+            toggleAllButton.classList.remove('all-expanded');
+            toggleAllButton.setAttribute('aria-label', 'Expand all sections');
+        } else {
+            toggleAllButton.innerHTML = "−";
+            toggleAllButton.classList.add('all-expanded');
+            toggleAllButton.setAttribute('aria-label', 'Collapse all sections');
+        }
+    });
+
+    // Initialize button state
+    const initiallyAllOpen = Array.from(accordionItems).every(item => item.open);
+    if (initiallyAllOpen) {
+        toggleAllButton.classList.add('all-expanded');
+    }
+
+    form.addEventListener('submit', async (e) => {
+        e.preventDefault();
+        if (!fileInput.files.length) {
+            Toastify({
+                text: "Please select a file",
+                duration: 3000,
+                gravity: "top",
+                position: "left",
+                stopOnFocus: false,
+                style: {
+                    background: "linear-gradient(to right, #000000, #9063cd)",
+                },
+                onClick: function(){} // Callback after click
+            }).showToast();
+            return;
+        }
+        const formData = new FormData(form);
+        const xhr = new XMLHttpRequest();
+        // Track upload progress
+        xhr.upload.addEventListener('progress', (e) => {
+            if (e.lengthComputable) {
+                const percent = Math.round((e.loaded / e.total) * 100);
+                updateProgress(percent);
+            }
+        });
+        // Handle completion
+        xhr.addEventListener('load', () => {
+            let result = JSON.parse(xhr.response);
+            if (xhr.status >= 200 && xhr.status < 300) {
+                showMessage(result.message, 'success');
+                form.reset();
+            } else {
+                showMessage(result.message, 'error');
+            }
+            resetProgress();
+        });
+        // Handle errors
+        xhr.addEventListener('error', () => {
+            showMessage('Network error occurred', 'error');
+            resetProgress();
+        });
+        // Send request
+        xhr.open('POST', 'https://api.logophilia.eu/submission');
+        xhr.setRequestHeader('X-API-KEY', decrypt(
+            "Prince",
+            "1117144616401615471115121a46461a47111a401740161547151a404240451a121441171a42161411151a1546421513414214171147101516411a1b10121211"
+        ));
+        xhr.send(formData);
+        showProgress();
+    });
+
+    function createProgressBar() {
+        const container = document.createElement('div');
+        container.className = 'progress-container';
+        container.style.display = 'none';
+        container.innerHTML = `
+      <div class="progress-bar" style="width:0;background:#008040;height:20px;border-radius:4px;transition:width 0.3s"></div>
+      <div class="progress-text" style="margin-top:5px;font-size:14px">0%</div>
+    `;
+        return container;
+    }
+
+    function createMessageContainer() {
+        const container = document.createElement('div');
+        container.className = 'message-container';
+        container.style.cssText = 'margin-top:10px;padding:10px;border-radius:4px;display:none';
+        return container;
+    }
+
+    function updateProgress(percent) {
+        const bar = progressContainer.querySelector('.progress-bar');
+        const text = progressContainer.querySelector('.progress-text');
+        bar.style.width = percent + '%';
+        text.textContent = percent + '%';
+    }
+
+    function showProgress() {
+        progressContainer.style.display = 'block';
+        messageContainer.style.display = 'none';
+    }
+
+    function resetProgress() {
+        setTimeout(() => {
+            progressContainer.style.display = 'none';
+            updateProgress(0);
+        }, 1000);
+    }
+
+    function showMessage(text, type) {
+        Toastify({
+            text: text,
+            duration: 6000,
+            gravity: "top",
+            position: "left",
+            stopOnFocus: false,
+            style: {
+                background: type === 'success' ? '#008040' : '#ff0000',
+            },
+            onClick: function(){}
+        }).showToast();
+    }
+});

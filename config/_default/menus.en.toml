@@ -16,81 +16,91 @@ pageRef = "contact"
 weight = 10
 
 [[main]]
+name = "Newsletter"
+parent = "Contact"
+pageRef = "newsletter"
+weight = 12
+
+[[main]]
+name = "Submissions"
+parent = "Contact"
+pageRef = "submissions"
+weight = 14
+
+[[main]]
 name = "Publications"
 pageRef = "publications"
 weight = 20
 
 [[main]]
 name = "Stories"
+parent = "Publications"
 pageRef = "stories"
-weight = 30
+weight = 22
 
 [[main]]
 name = "Authors"
+parent = "Publications"
 pageRef = "authors"
-weight = 40
+weight = 24
 
 [[main]]
 name = "Series"
+parent = "Publications"
 pageRef = "series"
-weight = 50
-
-[[main]]
-name = "Newsletter"
-pageRef = "newsletter"
-weight = 60
+weight = 26
 
 [[main]]
 name = "Info"
 pageRef =  "about"
-weight = 70
-
-[[main]]
-name = "Terms"
-pageRef = "terms"
-weight = 80
+weight = 30
 
 [[main]]
 name = "Our goals"
 parent = "Info"
 pageRef = "our-goals"
-weight = 10
+weight = 32
 
 [[main]]
 name = "Logophilia Essentials"
 parent = "Info"
 pageRef = "logophilia-essentials"
-weight = 20
+weight = 34
 
 [[main]]
 name = "Calling All Authors"
 parent = "Info"
 pageRef = "calling-all-authors"
-weight = 30
+weight = 36
 
 [[main]]
 name = "Standard Terms for Publication"
 parent = "Info"
 pageRef = "standard-terms-for-publication"
-weight = 40
+weight = 38
 
 [[main]]
 name = "The Logophilia Edge"
 parent = "Info"
 pageRef = "the-logophilia-edge"
+weight = 40
+
+[[main]]
+name = "Terms"
+pageRef = "terms"
 weight = 50
 
 [[main]]
 name = "Cookie Policy"
 parent = "Terms"
 pageRef = "cookie-policy-eu"
-weight = 10
+weight = 52
 
 [[subnavigation]]
 name = "Lea EPUB Anvil"
 pre = "github"
 url = "https://github.com/SimStim/Lea.git"
-weight = 10
+weight = 60
 
 # -- Footer Menu --
 # The footer menu is displayed at the bottom of the page, just before

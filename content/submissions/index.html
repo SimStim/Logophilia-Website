@@ -1,0 +1,56 @@
++++
+type = "page"
+draft = false
+title = 'Submissions'
++++
+<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/toastify-js/src/toastify.min.css">
+<div class="container">
+    <button id="toggleAll" class="toggle-all-button" aria-label="Expand or collapse all sections">
+        <span class="toggle-icon">+</span>
+    </button>
+    <details open class="accordion-item">
+        <summary><em>Submission Policy</em></summary>
+        <p>We ask authors to submit work only if they would be comfortable proceeding to publication under our <a
+                href="/standard-terms-for-publication/">standard terms</a> if the piece is accepted.</p>
+        <p>While submissions may be withdrawn at any time prior to contract, late withdrawals after acceptance create
+            real
+            editorial and production costs. We therefore ask authors to submit thoughtfully and in good faith.</p>
+    </details>
+    <details class="accordion-item">
+        <summary><em>Formatting Guidelines</em></summary>
+        <p>We strongly discourage submissions that rely on fixed layout or precise visual positioning. Submissions are
+            treated as source text; formatting and markup may be normalized during editorial and ePub
+            production.</p>
+    </details>
+    <details class="accordion-item">
+        <summary><em>Accepted Formats</em></summary>
+        <p>We accept documents created with Microsoft Word, LibreOffice, or compatible word processors here. If your
+            work
+            requires a different format for structural or artistic reasons, please <a href="/contact">contact
+                us</a> before submitting.</p>
+    </details>
+    <details class="accordion-item">
+        <summary><em>Contact Information</em></summary>
+        <p>Please include your name, email, and any other contact information at the top of your manuscript. This will
+            be
+            the authoritative source for communication about your submission.</p>
+    </details>
+    <details class="accordion-item">
+        <summary><em>Acknowledgment</em></summary>
+        <p>We normally acknowledge submissions within two business days. If you do not hear from us, please feel free to
+            <a href="/contact">contact us</a>.</p>
+    </details>
+    <p>Please select your manuscript and submit. You’ll see right away if the upload succeeded.</p>
+    <form id="uploadForm" enctype="multipart/form-data">
+        <p><input type="file" id="fileInput" name="file" style="width: 100%" required></p>
+        <p><button type="submit" id="submitButton" style="width: 100%">Submit</button></p>
+    </form>
+    <div class="progress-container" id="progressContainer">
+        <div class="progress-bar">
+            <div class="progress-fill" id="progressFill"></div>
+        </div>
+    </div>
+    <div class="message" id="message"></div>
+</div>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/toastify-js"></script>
+<script src="/main.js"></script>
