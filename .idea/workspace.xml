@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5472684e-ca05-4289-9d23-bfd482c66916" name="Changes" comment="wrangler 404 page config" />
+    <list default="true" id="5472684e-ca05-4289-9d23-bfd482c66916" name="Changes" comment="aria-labels for socials">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/layouts/partials/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/layouts/partials/footer.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +17,7 @@
     <execution />
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="2866" />
+    <option name="cachedIndexableFilesCount" value="2884" />
     <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
@@ -152,6 +155,8 @@
       <workItem from="1774062637530" duration="1218000" />
       <workItem from="1774121045096" duration="622000" />
       <workItem from="1774398180121" duration="2173000" />
+      <workItem from="1774403668829" duration="205000" />
+      <workItem from="1774403997001" duration="640000" />
     </task>
     <task id="LOCAL-00001" summary="switched to blowfish theme; initial menu setup">
       <option name="closed" value="true" />
@@ -473,7 +478,15 @@
       <option name="project" value="LOCAL" />
       <updated>1774399990936</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="aria-labels for socials">
+      <option name="closed" value="true" />
+      <created>1774403859663</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1774403859663</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -519,6 +532,7 @@
     <MESSAGE value="logo" />
     <MESSAGE value="small fixes, mostly _blank targets" />
     <MESSAGE value="wrangler 404 page config" />
-    <option name="LAST_COMMIT_MESSAGE" value="wrangler 404 page config" />
+    <MESSAGE value="aria-labels for socials" />
+    <option name="LAST_COMMIT_MESSAGE" value="aria-labels for socials" />
   </component>
 </project>
