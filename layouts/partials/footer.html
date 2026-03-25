@@ -46,10 +46,10 @@
             {{- end }}
         </p>
         {{ end }}
-        <a class="text-center text-xs text-neutral-500 dark:text-neutral-400" href="https://facebook.logophilia.eu" target="_blank">{{ partial "icon.html" "facebook" }}</a>
-        <a class="text-center text-xs text-neutral-500 dark:text-neutral-400" href="https://patreon.logophilia.eu" target="_blank">{{ partial "icon.html" "patreon" }}</a>
-        <a class="text-center text-xs text-neutral-500 dark:text-neutral-400" href="https://substack.logophilia.eu" target="_blank">{{ partial "icon.html" "substack" }}</a>
-        <a class="text-center text-xs text-neutral-500 dark:text-neutral-400" href="https://x.logophilia.eu" target="_blank">{{ partial "icon.html" "x-twitter" }}</a>
+        <a class="text-center text-xs text-neutral-500 dark:text-neutral-400" href="https://facebook.logophilia.eu" target="_blank" aria-label="Facebook">{{ partial "icon.html" "facebook" }}</a>
+        <a class="text-center text-xs text-neutral-500 dark:text-neutral-400" href="https://patreon.logophilia.eu" target="_blank" aria-label="Patreon">{{ partial "icon.html" "patreon" }}</a>
+        <a class="text-center text-xs text-neutral-500 dark:text-neutral-400" href="https://substack.logophilia.eu" target="_blank" aria-label="Substack">{{ partial "icon.html" "substack" }}</a>
+        <a class="text-center text-xs text-neutral-500 dark:text-neutral-400" href="https://x.logophilia.eu" target="_blank" aria-label="X">{{ partial "icon.html" "x-twitter" }}</a>
         {{/* Theme attribution */}}
         {{ if .Site.Params.footer.showThemeAttribution | default true }}
         <p class="text-right text-xs text-neutral-500 dark:text-neutral-400 width-patch">
