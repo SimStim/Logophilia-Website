@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5472684e-ca05-4289-9d23-bfd482c66916" name="Changes" comment="Commit outstanding changes">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="5472684e-ca05-4289-9d23-bfd482c66916" name="Changes" comment="4Q2024">
       <change beforePath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/_index.it.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/_index.it.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/_index.ja.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/_index.ja.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/_index.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/_index.md" afterDir="false" />
@@ -106,7 +105,7 @@
     <execution />
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="2929" />
+    <option name="cachedIndexableFilesCount" value="2930" />
     <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
@@ -252,6 +251,7 @@
       <workItem from="1774484999119" duration="73000" />
       <workItem from="1774485136384" duration="233000" />
       <workItem from="1774499830906" duration="52000" />
+      <workItem from="1774500172965" duration="73000" />
     </task>
     <task id="LOCAL-00001" summary="switched to blowfish theme; initial menu setup">
       <option name="closed" value="true" />
@@ -605,7 +605,15 @@
       <option name="project" value="LOCAL" />
       <updated>1774485287019</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="4Q2024">
+      <option name="closed" value="true" />
+      <created>1774500237673</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1774500237673</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -654,6 +662,7 @@
     <MESSAGE value="aria-labels for socials" />
     <MESSAGE value="space between socials" />
     <MESSAGE value="Commit outstanding changes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit outstanding changes" />
+    <MESSAGE value="4Q2024" />
+    <option name="LAST_COMMIT_MESSAGE" value="4Q2024" />
   </component>
 </project>
