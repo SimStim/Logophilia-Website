@@ -4,61 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5472684e-ca05-4289-9d23-bfd482c66916" name="Changes" comment="space between socials">
+    <list default="true" id="5472684e-ca05-4289-9d23-bfd482c66916" name="Changes" comment="Commit outstanding changes">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/authors/e--e--smith.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/authors/e--e--smith.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/authors/edmond-hamilton.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/authors/edmond-hamilton.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/authors/eduard-pech.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/authors/eduard-pech.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/authors/philip-k--dick.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/authors/philip-k--dick.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/authors/poul-anderson.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/authors/poul-anderson.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/authors/ray-bradbury.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/authors/ray-bradbury.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/series/the-pitch-science-fiction.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/series/the-pitch-science-fiction.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/stories/a-pail-of-air.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/stories/accept-no-substitutes.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/stories/and-the-gods-laughed.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/stories/contagion.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/stories/cosmic-striptease.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/stories/i--gardener.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/stories/last-call-from-sector-9g.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/stories/let-s-get-together.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/stories/lorelei-of-the-red-mist.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/stories/masters-of-space.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/stories/murder-in-black-letter.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/stories/old-rambling-house.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/stories/out-of-the-iron-womb-.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/stories/piper-in-the-woods.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/stories/poul-anderson-in-two-registers.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/stories/preface-by-the-editor.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/stories/pygmalion-s-spectacles.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/stories/requiem.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/stories/scanners-live-in-vain.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/stories/second-variety.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/stories/sjambak.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/stories/star-ship.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/stories/the-big-trip-up-yonder.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/stories/the-call-from-beyond.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/stories/the-colour-out-of-space.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/stories/the-creatures-that-time-forgot.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/stories/the-ego-machine.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/stories/the-eyes-have-it.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/stories/the-fifth-dimension-tube.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/stories/the-game-of-rat-and-dragon.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/stories/the-golden-slave.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/stories/the-hanging-stranger.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/stories/the-invisible-master.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/stories/the-last-evolution.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/stories/the-misplaced-battleship.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/stories/the-monster-maker.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/stories/the-poison-belt.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/stories/the-scarlet-plague.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/stories/the-second-shell.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/stories/the-star-stealers.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/stories/the-tunnel-under-the-world.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/stories/the-vortex-blaster.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/stories/tongues-of-the-moon.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/stories/try-to-remember-.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/stories/youth.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/blowfish" beforeDir="false" afterPath="$PROJECT_DIR$/themes/blowfish" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/_index.it.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/_index.it.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/_index.ja.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/_index.ja.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/_index.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/_index.md" afterDir="false" />
@@ -159,7 +106,7 @@
     <execution />
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="2884" />
+    <option name="cachedIndexableFilesCount" value="2929" />
     <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
@@ -303,6 +250,8 @@
       <workItem from="1774477275567" duration="18000" />
       <workItem from="1774479819523" duration="8000" />
       <workItem from="1774484999119" duration="73000" />
+      <workItem from="1774485136384" duration="233000" />
+      <workItem from="1774499830906" duration="52000" />
     </task>
     <task id="LOCAL-00001" summary="switched to blowfish theme; initial menu setup">
       <option name="closed" value="true" />
@@ -648,7 +597,15 @@
       <option name="project" value="LOCAL" />
       <updated>1774405165928</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="Commit outstanding changes">
+      <option name="closed" value="true" />
+      <created>1774485287019</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1774485287019</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -696,6 +653,7 @@
     <MESSAGE value="wrangler 404 page config" />
     <MESSAGE value="aria-labels for socials" />
     <MESSAGE value="space between socials" />
-    <option name="LAST_COMMIT_MESSAGE" value="space between socials" />
+    <MESSAGE value="Commit outstanding changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit outstanding changes" />
   </component>
 </project>
