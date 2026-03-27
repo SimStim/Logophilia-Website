@@ -3,7 +3,7 @@
 # https://blowfish.page/docs/getting-started/
 
 theme = "blowfish" # UNCOMMENT THIS LINE
-baseURL = "https://refresh.usha-ludwig.de/"
+baseURL = "https://logophilia.eu/"
 defaultContentLanguage = "en"
 description = "λογοφιλία &#8211; Fueling understanding—for those who bring their own spark"
 
