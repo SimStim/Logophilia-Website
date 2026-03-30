@@ -4,70 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5472684e-ca05-4289-9d23-bfd482c66916" name="Changes" comment="The Pitch Science Fiction 2024">
+    <list default="true" id="5472684e-ca05-4289-9d23-bfd482c66916" name="Changes" comment="The Pitch Science Fiction 1Q2025">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/authors/allen-kim-lang.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/authors/allen-kim-lang.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/authors/arthur-conan-doyle.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/authors/arthur-conan-doyle.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/authors/cordwainer-smith.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/authors/cordwainer-smith.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/authors/e--e--smith.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/authors/e--e--smith.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/authors/edmond-hamilton.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/authors/edmond-hamilton.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/content/authors/eduard-pech.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/authors/eduard-pech.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/authors/frank-herbert.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/authors/frank-herbert.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/authors/frederik-pohl.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/authors/frederik-pohl.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/authors/fritz-leiber.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/authors/fritz-leiber.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/authors/h--p--lovecraft.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/authors/h--p--lovecraft.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/authors/harlan-ellison.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/authors/harlan-ellison.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/authors/isaac-asimov.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/authors/isaac-asimov.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/authors/jack-london.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/authors/jack-london.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/authors/jack-vance.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/authors/jack-vance.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/authors/jack-williamson.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/authors/jack-williamson.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/authors/john-w--campbell--jr-.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/authors/john-w--campbell--jr-.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/authors/katherine-maclean.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/authors/katherine-maclean.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/authors/kurt-vonnegut--jr-.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/authors/kurt-vonnegut--jr-.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/authors/leigh-brackett.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/authors/leigh-brackett.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/authors/murray-leinster.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/authors/murray-leinster.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/authors/philip-jose-farmer.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/authors/philip-jose-farmer.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/content/authors/philip-k--dick.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/authors/philip-k--dick.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/content/authors/poul-anderson.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/authors/poul-anderson.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/content/authors/ray-bradbury.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/authors/ray-bradbury.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/authors/robert-sheckley.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/authors/robert-sheckley.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/content/authors/stanley-g--weinbaum.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/authors/stanley-g--weinbaum.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/publications/the-pitch-science-fiction-1q2026--logophilia-essentials-.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/publications/the-pitch-science-fiction-1q2026--logophilia-essentials-.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/publications/the-pitch-science-fiction-3q2024--logophilia-essentials-.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/publications/the-pitch-science-fiction-3q2024--logophilia-essentials-.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/publications/the-pitch-science-fiction-4q2024--logophilia-essentials-.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/publications/the-pitch-science-fiction-4q2024--logophilia-essentials-.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/content/series/the-pitch-science-fiction.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/series/the-pitch-science-fiction.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/stories/a-pail-of-air-fritz-leiber.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/stories/a-pail-of-air-fritz-leiber.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/stories/contagion-katherine-maclean.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/stories/contagion-katherine-maclean.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/stories/cosmic-striptease-harlan-ellison.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/stories/cosmic-striptease-harlan-ellison.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/stories/i--gardener-allen-kim-lang.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/stories/i--gardener-allen-kim-lang.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/stories/last-call-from-sector-9g-leigh-brackett.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/stories/last-call-from-sector-9g-leigh-brackett.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/stories/let-s-get-together-isaac-asimov.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/stories/let-s-get-together-isaac-asimov.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/stories/lorelei-of-the-red-mist-leigh-brackett.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/stories/lorelei-of-the-red-mist-leigh-brackett.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/stories/murder-in-black-letter-poul-anderson.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/stories/murder-in-black-letter-poul-anderson.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/stories/out-of-the-iron-womb--poul-anderson.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/stories/out-of-the-iron-womb--poul-anderson.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/stories/poul-anderson-in-two-registers-eduard-pech.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/stories/poul-anderson-in-two-registers-eduard-pech.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/stories/pygmalion-s-spectacles-stanley-g--weinbaum.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/stories/pygmalion-s-spectacles-stanley-g--weinbaum.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/stories/scanners-live-in-vain-cordwainer-smith.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/stories/scanners-live-in-vain-cordwainer-smith.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/stories/second-variety-philip-k--dick.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/stories/second-variety-philip-k--dick.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/stories/sjambak-jack-vance.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/stories/sjambak-jack-vance.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/stories/the-big-trip-up-yonder-kurt-vonnegut--jr-.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/stories/the-big-trip-up-yonder-kurt-vonnegut--jr-.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/stories/the-colour-out-of-space-h--p--lovecraft.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/stories/the-colour-out-of-space-h--p--lovecraft.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/stories/the-eyes-have-it-philip-k--dick.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/stories/the-eyes-have-it-philip-k--dick.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/stories/the-fifth-dimension-tube-murray-leinster.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/stories/the-fifth-dimension-tube-murray-leinster.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/stories/the-game-of-rat-and-dragon-cordwainer-smith.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/stories/the-game-of-rat-and-dragon-cordwainer-smith.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/stories/the-golden-slave-poul-anderson.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/stories/the-golden-slave-poul-anderson.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/stories/the-hanging-stranger-philip-k--dick.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/stories/the-hanging-stranger-philip-k--dick.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/stories/the-invisible-master-edmond-hamilton.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/stories/the-invisible-master-edmond-hamilton.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/stories/the-last-evolution-john-w--campbell--jr-.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/stories/the-last-evolution-john-w--campbell--jr-.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/stories/the-monster-maker-ray-bradbury.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/stories/the-monster-maker-ray-bradbury.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/stories/the-poison-belt-arthur-conan-doyle.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/stories/the-poison-belt-arthur-conan-doyle.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/stories/the-scarlet-plague-jack-london.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/stories/the-scarlet-plague-jack-london.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/stories/the-second-shell-jack-williamson.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/stories/the-second-shell-jack-williamson.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/stories/the-star-stealers-edmond-hamilton.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/stories/the-star-stealers-edmond-hamilton.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/stories/the-tunnel-under-the-world-frederik-pohl.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/stories/the-tunnel-under-the-world-frederik-pohl.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/stories/the-vortex-blaster-e--e--smith.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/stories/the-vortex-blaster-e--e--smith.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/stories/tongues-of-the-moon-philip-jose-farmer.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/stories/tongues-of-the-moon-philip-jose-farmer.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/stories/try-to-remember--frank-herbert.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/stories/try-to-remember--frank-herbert.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/stories/youth-isaac-asimov.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/stories/youth-isaac-asimov.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/blowfish" beforeDir="false" afterPath="$PROJECT_DIR$/themes/blowfish" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/_index.it.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/_index.it.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/_index.ja.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/_index.ja.md" afterDir="false" />
@@ -169,7 +114,7 @@
     <execution />
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="3054" />
+    <option name="cachedIndexableFilesCount" value="3156" />
     <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
@@ -323,15 +268,8 @@
       <workItem from="1774582892856" duration="613000" />
       <workItem from="1774583764479" duration="341000" />
       <workItem from="1774584199162" duration="1108000" />
-      <workItem from="1774761398339" duration="1229000" />
-    </task>
-    <task id="LOCAL-00002" summary="switched to blowfish theme; initial menu setup">
-      <option name="closed" value="true" />
-      <created>1773549723455</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1773549723455</updated>
+      <workItem from="1774761398339" duration="1272000" />
+      <workItem from="1774836441198" duration="1991000" />
     </task>
     <task id="LOCAL-00003" summary="switched to blowfish theme; initial menu setup">
       <option name="closed" value="true" />
@@ -717,7 +655,15 @@
       <option name="project" value="LOCAL" />
       <updated>1774584660766</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="The Pitch Science Fiction 1Q2025">
+      <option name="closed" value="true" />
+      <created>1774762647891</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1774762647892</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -743,7 +689,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/.." />
     </ignored-roots>
-    <MESSAGE value="increased font sizes and adjusted line heights." />
     <MESSAGE value="Merge remote-tracking branch 'origin/main'" />
     <MESSAGE value="lists, taxonomies" />
     <MESSAGE value="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;config/_default/menus.en.toml&#10;#&#9;content/authors/arthur-conan-doyle/index.html&#10;#&#9;content/authors/isaac-asimov/index.html&#10;#&#9;content/contact/index.html&#10;#&#9;content/publications/the-pitch-science-fiction-2q2024/index.html&#10;#&#9;public/404.html&#10;#&#9;public/about/index.html&#10;#&#9;public/authors/arthur-conan-doyle/index.html&#10;#&#9;public/authors/index.html&#10;#&#9;public/authors/index.xml&#10;#&#9;public/authors/isaac-asimov/index.html&#10;#&#9;public/authors/isaac-asimov/index.xml&#10;#&#9;public/authors/isaac-asimov/isaac-asimov/index.html&#10;#&#9;public/calling-all-authors/index.html&#10;#&#9;public/categories/index.html&#10;#&#9;public/cookie-policy-eu/index.html&#10;#&#9;public/index.html&#10;#&#9;public/index.json&#10;#&#9;public/index.xml&#10;#&#9;public/logophilia-essentials/index.html&#10;#&#9;public/our-goals/index.html&#10;#&#9;public/our-goals/index.xml&#10;#&#9;public/series/index.html&#10;#&#9;public/sitemap.xml&#10;#&#9;public/standard-terms-for-publication/index.html&#10;#&#9;public/tags/index.html&#10;#&#9;public/terms/index.html&#10;#&#9;public/the-logophilia-edge/index.html" />
@@ -768,6 +713,7 @@
     <MESSAGE value="4Q2024" />
     <MESSAGE value="git add submodule blowfish" />
     <MESSAGE value="The Pitch Science Fiction 2024" />
-    <option name="LAST_COMMIT_MESSAGE" value="The Pitch Science Fiction 2024" />
+    <MESSAGE value="The Pitch Science Fiction 1Q2025" />
+    <option name="LAST_COMMIT_MESSAGE" value="The Pitch Science Fiction 1Q2025" />
   </component>
 </project>
