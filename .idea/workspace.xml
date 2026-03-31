@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5472684e-ca05-4289-9d23-bfd482c66916" name="Changes" comment="The Pitch Science Fiction 1Q2025">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/authors/eduard-pech.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/authors/eduard-pech.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/authors/philip-k--dick.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/authors/philip-k--dick.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/authors/poul-anderson.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/authors/poul-anderson.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/authors/ray-bradbury.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/authors/ray-bradbury.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/authors/robert-sheckley.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/authors/robert-sheckley.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/authors/stanley-g--weinbaum.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/authors/stanley-g--weinbaum.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/series/the-pitch-science-fiction.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/series/the-pitch-science-fiction.html" afterDir="false" />
+    <list default="true" id="5472684e-ca05-4289-9d23-bfd482c66916" name="Changes" comment="The Pitch Science Fiction 2Q2025">
       <change beforePath="$PROJECT_DIR$/themes/blowfish" beforeDir="false" afterPath="$PROJECT_DIR$/themes/blowfish" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/_index.it.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/_index.it.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/_index.ja.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/_index.ja.md" afterDir="false" />
@@ -269,15 +261,7 @@
       <workItem from="1774583764479" duration="341000" />
       <workItem from="1774584199162" duration="1108000" />
       <workItem from="1774761398339" duration="1272000" />
-      <workItem from="1774836441198" duration="1991000" />
-    </task>
-    <task id="LOCAL-00003" summary="switched to blowfish theme; initial menu setup">
-      <option name="closed" value="true" />
-      <created>1773549990458</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1773549990458</updated>
+      <workItem from="1774836441198" duration="2058000" />
     </task>
     <task id="LOCAL-00004" summary="switched to blowfish theme; initial menu setup">
       <option name="closed" value="true" />
@@ -663,7 +647,15 @@
       <option name="project" value="LOCAL" />
       <updated>1774762647892</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="The Pitch Science Fiction 2Q2025">
+      <option name="closed" value="true" />
+      <created>1774838878751</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1774838878751</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -689,7 +681,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/.." />
     </ignored-roots>
-    <MESSAGE value="Merge remote-tracking branch 'origin/main'" />
     <MESSAGE value="lists, taxonomies" />
     <MESSAGE value="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;config/_default/menus.en.toml&#10;#&#9;content/authors/arthur-conan-doyle/index.html&#10;#&#9;content/authors/isaac-asimov/index.html&#10;#&#9;content/contact/index.html&#10;#&#9;content/publications/the-pitch-science-fiction-2q2024/index.html&#10;#&#9;public/404.html&#10;#&#9;public/about/index.html&#10;#&#9;public/authors/arthur-conan-doyle/index.html&#10;#&#9;public/authors/index.html&#10;#&#9;public/authors/index.xml&#10;#&#9;public/authors/isaac-asimov/index.html&#10;#&#9;public/authors/isaac-asimov/index.xml&#10;#&#9;public/authors/isaac-asimov/isaac-asimov/index.html&#10;#&#9;public/calling-all-authors/index.html&#10;#&#9;public/categories/index.html&#10;#&#9;public/cookie-policy-eu/index.html&#10;#&#9;public/index.html&#10;#&#9;public/index.json&#10;#&#9;public/index.xml&#10;#&#9;public/logophilia-essentials/index.html&#10;#&#9;public/our-goals/index.html&#10;#&#9;public/our-goals/index.xml&#10;#&#9;public/series/index.html&#10;#&#9;public/sitemap.xml&#10;#&#9;public/standard-terms-for-publication/index.html&#10;#&#9;public/tags/index.html&#10;#&#9;public/terms/index.html&#10;#&#9;public/the-logophilia-edge/index.html" />
     <MESSAGE value="fixed taxonomy and section overlap" />
@@ -714,6 +705,7 @@
     <MESSAGE value="git add submodule blowfish" />
     <MESSAGE value="The Pitch Science Fiction 2024" />
     <MESSAGE value="The Pitch Science Fiction 1Q2025" />
-    <option name="LAST_COMMIT_MESSAGE" value="The Pitch Science Fiction 1Q2025" />
+    <MESSAGE value="The Pitch Science Fiction 2Q2025" />
+    <option name="LAST_COMMIT_MESSAGE" value="The Pitch Science Fiction 2Q2025" />
   </component>
 </project>
