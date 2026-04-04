@@ -4,32 +4,27 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5472684e-ca05-4289-9d23-bfd482c66916" name="Changes" comment="The Pitch Science Fiction 4Q2025, 2025">
-      <change afterPath="$PROJECT_DIR$/layouts/_shortcodes/publication-cover.html" afterDir="false" />
+    <list default="true" id="5472684e-ca05-4289-9d23-bfd482c66916" name="Changes" comment="publication covers, initial">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/publications/poul-anderson-alter-ego--logophilia-essentials-.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/publications/poul-anderson-alter-ego--logophilia-essentials-.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/publications/poul-anderson-alter-ego.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/publications/poul-anderson-alter-ego.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/publications/the-pitch-science-fiction-1q2025--logophilia-essentials-.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/publications/the-pitch-science-fiction-1q2025--logophilia-essentials-.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/publications/the-pitch-science-fiction-1q2025.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/publications/the-pitch-science-fiction-1q2025.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/affiliate-disclosure/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/affiliate-disclosure/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/authors/daria-skrinitsa.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/authors/daria-skrinitsa.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/authors/eduard-pech.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/authors/eduard-pech.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/content/publications/the-pitch-science-fiction-1q2026--logophilia-essentials-.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/publications/the-pitch-science-fiction-1q2026--logophilia-essentials-.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/content/publications/the-pitch-science-fiction-1q2026.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/publications/the-pitch-science-fiction-1q2026.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/publications/the-pitch-science-fiction-2024--logophilia-essentials-.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/publications/the-pitch-science-fiction-2024--logophilia-essentials-.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/publications/the-pitch-science-fiction-2024.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/publications/the-pitch-science-fiction-2024.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/publications/the-pitch-science-fiction-2025--logophilia-essentials-.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/publications/the-pitch-science-fiction-2025--logophilia-essentials-.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/publications/the-pitch-science-fiction-2025.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/publications/the-pitch-science-fiction-2025.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/publications/the-pitch-science-fiction-2q2024--logophilia-essentials-.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/publications/the-pitch-science-fiction-2q2024--logophilia-essentials-.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/publications/the-pitch-science-fiction-2q2024.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/publications/the-pitch-science-fiction-2q2024.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/publications/the-pitch-science-fiction-2q2025--logophilia-essentials-.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/publications/the-pitch-science-fiction-2q2025--logophilia-essentials-.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/publications/the-pitch-science-fiction-2q2025.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/publications/the-pitch-science-fiction-2q2025.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/publications/the-pitch-science-fiction-3q2024--logophilia-essentials-.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/publications/the-pitch-science-fiction-3q2024--logophilia-essentials-.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/publications/the-pitch-science-fiction-3q2024.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/publications/the-pitch-science-fiction-3q2024.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/publications/the-pitch-science-fiction-3q2025--logophilia-essentials-.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/publications/the-pitch-science-fiction-3q2025--logophilia-essentials-.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/publications/the-pitch-science-fiction-3q2025.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/publications/the-pitch-science-fiction-3q2025.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/publications/the-pitch-science-fiction-4q2024--logophilia-essentials-.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/publications/the-pitch-science-fiction-4q2024--logophilia-essentials-.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/publications/the-pitch-science-fiction-4q2024.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/publications/the-pitch-science-fiction-4q2024.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/publications/the-pitch-science-fiction-4q2025--logophilia-essentials-.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/publications/the-pitch-science-fiction-4q2025--logophilia-essentials-.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/publications/the-pitch-science-fiction-4q2025.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/publications/the-pitch-science-fiction-4q2025.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/layouts/_shortcodes/author-portrait.html" beforeDir="false" afterPath="$PROJECT_DIR$/layouts/_shortcodes/author-portrait.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/series/the-pitch-science-fiction.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/series/the-pitch-science-fiction.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/stories/accept-no-substitutes-robert-sheckley.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/stories/accept-no-substitutes-robert-sheckley.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/stories/and-the-gods-laughed-fredric-brown.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/stories/and-the-gods-laughed-fredric-brown.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/stories/masters-of-space-e--e--smith.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/stories/masters-of-space-e--e--smith.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/stories/old-rambling-house-frank-herbert.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/stories/old-rambling-house-frank-herbert.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/stories/piper-in-the-woods-philip-k--dick.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/stories/piper-in-the-woods-philip-k--dick.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/stories/preface-by-the-editor-eduard-pech.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/stories/preface-by-the-editor-eduard-pech.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/stories/requiem-edmond-hamilton.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/stories/requiem-edmond-hamilton.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/stories/star-ship-poul-anderson.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/stories/star-ship-poul-anderson.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/stories/the-call-from-beyond-clifford-d--simak.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/stories/the-call-from-beyond-clifford-d--simak.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/stories/the-creatures-that-time-forgot-ray-bradbury.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/stories/the-creatures-that-time-forgot-ray-bradbury.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/stories/the-ego-machine-henry-kuttner.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/stories/the-ego-machine-henry-kuttner.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/stories/the-misplaced-battleship-harry-harrison.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/stories/the-misplaced-battleship-harry-harrison.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/layouts/partials/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/layouts/partials/footer.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/blowfish" beforeDir="false" afterPath="$PROJECT_DIR$/themes/blowfish" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/_index.it.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/_index.it.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/_index.ja.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/_index.ja.md" afterDir="false" />
@@ -131,7 +126,7 @@
     <execution />
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="3328" />
+    <option name="cachedIndexableFilesCount" value="3382" />
     <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
@@ -181,31 +176,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "DefaultHtmlFileTemplate": "HTML File",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.MCP Project settings loaded": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "main",
-    "git.auto.fetch.suggestion.counter": "3",
-    "junie.onboarding.icon.badge.shown": "true",
-    "kronk.content.tree.expanded.paths": "",
-    "last_opened_file_path": "/home/Ed/Nextcloud-Logophilia/Logophilia.eu/website/layouts/_shortcodes",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "File.Encoding",
-    "to.speed.mode.migration.done": "true",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;git.auto.fetch.suggestion.counter&quot;: &quot;3&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;kronk.content.tree.expanded.paths&quot;: &quot;&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/Ed/Nextcloud-Logophilia/Logophilia.eu/website/layouts/_shortcodes&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;File.Encoding&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/layouts/_shortcodes" />
@@ -292,15 +287,10 @@
       <workItem from="1774836441198" duration="2058000" />
       <workItem from="1774924137368" duration="44000" />
       <workItem from="1775011823969" duration="58000" />
-      <workItem from="1775012219219" duration="3307000" />
-    </task>
-    <task id="LOCAL-00006" summary="increased font sizes and adjusted line heights.">
-      <option name="closed" value="true" />
-      <created>1773584408838</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1773584408838</updated>
+      <workItem from="1775012219219" duration="3442000" />
+      <workItem from="1775016868787" duration="7000" />
+      <workItem from="1775083980130" duration="23000" />
+      <workItem from="1775269606554" duration="745000" />
     </task>
     <task id="LOCAL-00007" summary="increased font sizes and adjusted line heights.">
       <option name="closed" value="true" />
@@ -686,7 +676,15 @@
       <option name="project" value="LOCAL" />
       <updated>1775011872033</updated>
     </task>
-    <option name="localTasksCounter" value="55" />
+    <task id="LOCAL-00055" summary="publication covers, initial">
+      <option name="closed" value="true" />
+      <created>1775016171026</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1775016171026</updated>
+    </task>
+    <option name="localTasksCounter" value="56" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -712,7 +710,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/.." />
     </ignored-roots>
-    <MESSAGE value="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;config/_default/menus.en.toml&#10;#&#9;content/authors/arthur-conan-doyle/index.html&#10;#&#9;content/authors/isaac-asimov/index.html&#10;#&#9;content/contact/index.html&#10;#&#9;content/publications/the-pitch-science-fiction-2q2024/index.html&#10;#&#9;public/404.html&#10;#&#9;public/about/index.html&#10;#&#9;public/authors/arthur-conan-doyle/index.html&#10;#&#9;public/authors/index.html&#10;#&#9;public/authors/index.xml&#10;#&#9;public/authors/isaac-asimov/index.html&#10;#&#9;public/authors/isaac-asimov/index.xml&#10;#&#9;public/authors/isaac-asimov/isaac-asimov/index.html&#10;#&#9;public/calling-all-authors/index.html&#10;#&#9;public/categories/index.html&#10;#&#9;public/cookie-policy-eu/index.html&#10;#&#9;public/index.html&#10;#&#9;public/index.json&#10;#&#9;public/index.xml&#10;#&#9;public/logophilia-essentials/index.html&#10;#&#9;public/our-goals/index.html&#10;#&#9;public/our-goals/index.xml&#10;#&#9;public/series/index.html&#10;#&#9;public/sitemap.xml&#10;#&#9;public/standard-terms-for-publication/index.html&#10;#&#9;public/tags/index.html&#10;#&#9;public/terms/index.html&#10;#&#9;public/the-logophilia-edge/index.html" />
     <MESSAGE value="fixed taxonomy and section overlap" />
     <MESSAGE value="first Heath version" />
     <MESSAGE value="Merge pull request #2829 from nunocoracao/dev&#10;&#10; v2.100.0&#10;Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
@@ -737,6 +734,7 @@
     <MESSAGE value="The Pitch Science Fiction 1Q2025" />
     <MESSAGE value="The Pitch Science Fiction 2Q2025" />
     <MESSAGE value="The Pitch Science Fiction 4Q2025, 2025" />
-    <option name="LAST_COMMIT_MESSAGE" value="The Pitch Science Fiction 4Q2025, 2025" />
+    <MESSAGE value="publication covers, initial" />
+    <option name="LAST_COMMIT_MESSAGE" value="publication covers, initial" />
   </component>
 </project>
