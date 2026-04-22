@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5472684e-ca05-4289-9d23-bfd482c66916" name="Changes" comment="der tunnel, illustrations, fixes">
+    <list default="true" id="5472684e-ca05-4289-9d23-bfd482c66916" name="Changes" comment="der tunnel, fixes">
       <change beforePath="$PROJECT_DIR$/themes/blowfish" beforeDir="false" afterPath="$PROJECT_DIR$/themes/blowfish" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/_index.it.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/_index.it.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/_index.ja.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/_index.ja.md" afterDir="false" />
@@ -106,7 +106,7 @@
     <execution />
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="3427" />
+    <option name="cachedIndexableFilesCount" value="3492" />
     <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
@@ -272,14 +272,7 @@
       <workItem from="1775083980130" duration="23000" />
       <workItem from="1775269606554" duration="774000" />
       <workItem from="1776759793910" duration="200000" />
-    </task>
-    <task id="LOCAL-00009" summary="Merge remote-tracking branch 'origin/main'">
-      <option name="closed" value="true" />
-      <created>1773584758762</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1773584758762</updated>
+      <workItem from="1776761289695" duration="286000" />
     </task>
     <task id="LOCAL-00010" summary="lists, taxonomies">
       <option name="closed" value="true" />
@@ -665,7 +658,15 @@
       <option name="project" value="LOCAL" />
       <updated>1776759861794</updated>
     </task>
-    <option name="localTasksCounter" value="58" />
+    <task id="LOCAL-00058" summary="der tunnel, fixes">
+      <option name="closed" value="true" />
+      <created>1776761307368</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1776761307368</updated>
+    </task>
+    <option name="localTasksCounter" value="59" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -714,8 +715,8 @@
     <MESSAGE value="The Pitch Science Fiction 2Q2025" />
     <MESSAGE value="The Pitch Science Fiction 4Q2025, 2025" />
     <MESSAGE value="publication covers, initial" />
-    <MESSAGE value="der tunnel, fixes" />
     <MESSAGE value="der tunnel, illustrations, fixes" />
-    <option name="LAST_COMMIT_MESSAGE" value="der tunnel, illustrations, fixes" />
+    <MESSAGE value="der tunnel, fixes" />
+    <option name="LAST_COMMIT_MESSAGE" value="der tunnel, fixes" />
   </component>
 </project>
