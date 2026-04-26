@@ -4,99 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5472684e-ca05-4289-9d23-bfd482c66916" name="Changes" comment="der tunnel, launch version">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/blowfish" beforeDir="false" afterPath="$PROJECT_DIR$/themes/blowfish" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/_index.it.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/_index.it.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/_index.ja.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/_index.ja.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/_index.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/_index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/docs/_index.it.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/docs/_index.it.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/docs/_index.ja.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/docs/_index.ja.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/docs/_index.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/docs/_index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/examples/_index.it.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/examples/_index.it.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/examples/_index.ja.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/examples/_index.ja.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/examples/_index.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/examples/_index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/examples/_index.zh-cn.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/examples/_index.zh-cn.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/examples/blowfish-artist/_index.it.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/examples/blowfish-artist/_index.it.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/examples/blowfish-artist/_index.ja.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/examples/blowfish-artist/_index.ja.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/examples/blowfish-artist/_index.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/examples/blowfish-artist/_index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/examples/blowfish-artist/_index.zh-cn.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/examples/blowfish-artist/_index.zh-cn.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/examples/blowfish-lite/_index.it.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/examples/blowfish-lite/_index.it.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/examples/blowfish-lite/_index.ja.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/examples/blowfish-lite/_index.ja.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/examples/blowfish-lite/_index.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/examples/blowfish-lite/_index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/examples/blowfish-lite/_index.zh-cn.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/examples/blowfish-lite/_index.zh-cn.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/examples/blowfish-lowkey/_index.it.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/examples/blowfish-lowkey/_index.it.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/examples/blowfish-lowkey/_index.ja.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/examples/blowfish-lowkey/_index.ja.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/examples/blowfish-lowkey/_index.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/examples/blowfish-lowkey/_index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/examples/blowfish-lowkey/_index.zh-cn.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/examples/blowfish-lowkey/_index.zh-cn.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/examples/blowfish-template-repo/_index.it.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/examples/blowfish-template-repo/_index.it.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/examples/blowfish-template-repo/_index.ja.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/examples/blowfish-template-repo/_index.ja.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/examples/blowfish-template-repo/_index.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/examples/blowfish-template-repo/_index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/examples/blowfish-template-repo/_index.zh-cn.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/examples/blowfish-template-repo/_index.zh-cn.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/examples/blowfish-template/_index.it.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/examples/blowfish-template/_index.it.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/examples/blowfish-template/_index.ja.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/examples/blowfish-template/_index.ja.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/examples/blowfish-template/_index.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/examples/blowfish-template/_index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/examples/blowfish-template/_index.zh-cn.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/examples/blowfish-template/_index.zh-cn.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/examples/blowfish-tutorial/_index.it.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/examples/blowfish-tutorial/_index.it.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/examples/blowfish-tutorial/_index.ja.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/examples/blowfish-tutorial/_index.ja.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/examples/blowfish-tutorial/_index.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/examples/blowfish-tutorial/_index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/examples/blowfish-tutorial/_index.zh-cn.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/examples/blowfish-tutorial/_index.zh-cn.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/examples/repo-blowfish-artist/_index.it.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/examples/repo-blowfish-artist/_index.it.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/examples/repo-blowfish-artist/_index.ja.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/examples/repo-blowfish-artist/_index.ja.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/examples/repo-blowfish-artist/_index.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/examples/repo-blowfish-artist/_index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/examples/repo-blowfish-artist/_index.zh-cn.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/examples/repo-blowfish-artist/_index.zh-cn.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/examples/repo-blowfish-lite/_index.it.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/examples/repo-blowfish-lite/_index.it.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/examples/repo-blowfish-lite/_index.ja.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/examples/repo-blowfish-lite/_index.ja.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/examples/repo-blowfish-lite/_index.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/examples/repo-blowfish-lite/_index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/examples/repo-blowfish-lite/_index.zh-cn.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/examples/repo-blowfish-lite/_index.zh-cn.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/examples/repo-blowfish-lowkey/_index.it.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/examples/repo-blowfish-lowkey/_index.it.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/examples/repo-blowfish-lowkey/_index.ja.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/examples/repo-blowfish-lowkey/_index.ja.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/examples/repo-blowfish-lowkey/_index.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/examples/repo-blowfish-lowkey/_index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/examples/repo-blowfish-lowkey/_index.zh-cn.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/examples/repo-blowfish-lowkey/_index.zh-cn.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/examples/repo-blowfish-tutorial/_index.it.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/examples/repo-blowfish-tutorial/_index.it.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/examples/repo-blowfish-tutorial/_index.ja.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/examples/repo-blowfish-tutorial/_index.ja.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/examples/repo-blowfish-tutorial/_index.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/examples/repo-blowfish-tutorial/_index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/examples/repo-blowfish-tutorial/_index.zh-cn.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/examples/repo-blowfish-tutorial/_index.zh-cn.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/guides/_index.it.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/guides/_index.it.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/guides/_index.ja.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/guides/_index.ja.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/guides/_index.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/guides/_index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/guides/_index.zh-cn.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/guides/_index.zh-cn.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/samples/_index.it.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/samples/_index.it.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/samples/_index.ja.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/samples/_index.ja.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/samples/_index.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/samples/_index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/samples/charts/index.it.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/samples/charts/index.it.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/samples/charts/index.ja.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/samples/charts/index.ja.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/samples/charts/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/samples/charts/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/samples/charts/index.zh-cn.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/samples/charts/index.zh-cn.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/samples/diagrams-flowcharts/index.it.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/samples/diagrams-flowcharts/index.it.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/samples/diagrams-flowcharts/index.ja.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/samples/diagrams-flowcharts/index.ja.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/samples/diagrams-flowcharts/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/samples/diagrams-flowcharts/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/samples/diagrams-flowcharts/index.zh-cn.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/samples/diagrams-flowcharts/index.zh-cn.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/samples/emoji/index.it.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/samples/emoji/index.it.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/samples/emoji/index.ja.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/samples/emoji/index.ja.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/samples/emoji/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/samples/emoji/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/samples/emoji/index.zh-cn.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/samples/emoji/index.zh-cn.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/samples/external/index.it.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/samples/external/index.it.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/samples/external/index.ja.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/samples/external/index.ja.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/samples/external/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/samples/external/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/samples/external/index.zh-cn.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/samples/external/index.zh-cn.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/samples/markdown/index.it.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/samples/markdown/index.it.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/samples/markdown/index.ja.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/samples/markdown/index.ja.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/samples/markdown/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/samples/markdown/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/samples/markdown/index.zh-cn.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/samples/markdown/index.zh-cn.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/samples/mathematical-notation/index.it.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/samples/mathematical-notation/index.it.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/samples/mathematical-notation/index.ja.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/samples/mathematical-notation/index.ja.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/samples/mathematical-notation/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/samples/mathematical-notation/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/samples/mathematical-notation/index.zh-cn.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/samples/mathematical-notation/index.zh-cn.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/samples/placeholder-text/index.it.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/samples/placeholder-text/index.it.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/samples/placeholder-text/index.ja.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/samples/placeholder-text/index.ja.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/samples/placeholder-text/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/samples/placeholder-text/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/samples/placeholder-text/index.zh-cn.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/samples/placeholder-text/index.zh-cn.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/samples/rich-content/index.it.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/samples/rich-content/index.it.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/samples/rich-content/index.ja.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/samples/rich-content/index.ja.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/samples/rich-content/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/samples/rich-content/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/samples/rich-content/index.zh-cn.md" beforeDir="false" afterPath="$PROJECT_DIR$/themes/blowfish/exampleSite/content/samples/rich-content/index.zh-cn.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/blowfish/update-github-data.sh" beforeDir="false" afterPath="$PROJECT_DIR$/themes/blowfish/update-github-data.sh" afterDir="false" />
+    <list default="true" id="5472684e-ca05-4289-9d23-bfd482c66916" name="Changes" comment="tpsf-21">
+      <change beforePath="$PROJECT_DIR$/assets/img/publications/The Pitch Science Fiction 2Q2026.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/publications/The Pitch Science Fiction 2Q2026.jpg" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,7 +16,7 @@
     <execution />
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="3493" />
+    <option name="cachedIndexableFilesCount" value="3513" />
     <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
@@ -197,8 +106,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-31caf2ab9e3c-JavaScript-PS-261.23567.72" />
-        <option value="bundled-php-predefined-a98d8de5180a-022fa7b8ab75-com.jetbrains.php.sharedIndexes-PS-261.23567.72" />
+        <option value="bundled-js-predefined-d6986cc7102b-31caf2ab9e3c-JavaScript-PS-261.23567.149" />
+        <option value="bundled-php-predefined-a98d8de5180a-022fa7b8ab75-com.jetbrains.php.sharedIndexes-PS-261.23567.149" />
       </set>
     </attachedChunks>
   </component>
@@ -276,14 +185,7 @@
       <workItem from="1776761289695" duration="286000" />
       <workItem from="1776902021957" duration="51000" />
       <workItem from="1776987721239" duration="33000" />
-    </task>
-    <task id="LOCAL-00011" summary="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;config/_default/menus.en.toml&#10;#&#9;content/authors/arthur-conan-doyle/index.html&#10;#&#9;content/authors/isaac-asimov/index.html&#10;#&#9;content/contact/index.html&#10;#&#9;content/publications/the-pitch-science-fiction-2q2024/index.html&#10;#&#9;public/404.html&#10;#&#9;public/about/index.html&#10;#&#9;public/authors/arthur-conan-doyle/index.html&#10;#&#9;public/authors/index.html&#10;#&#9;public/authors/index.xml&#10;#&#9;public/authors/isaac-asimov/index.html&#10;#&#9;public/authors/isaac-asimov/index.xml&#10;#&#9;public/authors/isaac-asimov/isaac-asimov/index.html&#10;#&#9;public/calling-all-authors/index.html&#10;#&#9;public/categories/index.html&#10;#&#9;public/cookie-policy-eu/index.html&#10;#&#9;public/index.html&#10;#&#9;public/index.json&#10;#&#9;public/index.xml&#10;#&#9;public/logophilia-essentials/index.html&#10;#&#9;public/our-goals/index.html&#10;#&#9;public/our-goals/index.xml&#10;#&#9;public/series/index.html&#10;#&#9;public/sitemap.xml&#10;#&#9;public/standard-terms-for-publication/index.html&#10;#&#9;public/tags/index.html&#10;#&#9;public/terms/index.html&#10;#&#9;public/the-logophilia-edge/index.html">
-      <option name="closed" value="true" />
-      <created>1773636102298</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1773636102298</updated>
+      <workItem from="1777242561436" duration="830000" />
     </task>
     <task id="LOCAL-00012" summary="fixed taxonomy and section overlap">
       <option name="closed" value="true" />
@@ -669,7 +571,15 @@
       <option name="project" value="LOCAL" />
       <updated>1776902063286</updated>
     </task>
-    <option name="localTasksCounter" value="60" />
+    <task id="LOCAL-00060" summary="tpsf-21">
+      <option name="closed" value="true" />
+      <created>1777242619327</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1777242619328</updated>
+    </task>
+    <option name="localTasksCounter" value="61" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -699,7 +609,6 @@
     <MESSAGE value="Merge pull request #2829 from nunocoracao/dev&#10;&#10; v2.100.0" />
     <MESSAGE value="Merge pull request #2829 from nunocoracao/dev&#10;&#10; v2.100.0" />
     <MESSAGE value="Merge pull request #2829 from nunocoracao/dev&#10;&#10; v2.100.0" />
-    <MESSAGE value="Merge pull request #2829 from nunocoracao/dev&#10;&#10; v2.100.0" />
     <MESSAGE value="author and toc cards, sorting within cards&#10; v2.100.0" />
     <MESSAGE value="add meta description" />
     <MESSAGE value="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
@@ -720,6 +629,7 @@
     <MESSAGE value="der tunnel, illustrations, fixes" />
     <MESSAGE value="der tunnel, fixes" />
     <MESSAGE value="der tunnel, launch version" />
-    <option name="LAST_COMMIT_MESSAGE" value="der tunnel, launch version" />
+    <MESSAGE value="tpsf-21" />
+    <option name="LAST_COMMIT_MESSAGE" value="tpsf-21" />
   </component>
 </project>
