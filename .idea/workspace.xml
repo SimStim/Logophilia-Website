@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5472684e-ca05-4289-9d23-bfd482c66916" name="Changes" comment="tpsf-21">
-      <change beforePath="$PROJECT_DIR$/assets/img/publications/The Pitch Science Fiction 2Q2026.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/publications/The Pitch Science Fiction 2Q2026.jpg" afterDir="false" />
-    </list>
+    <list default="true" id="5472684e-ca05-4289-9d23-bfd482c66916" name="Changes" comment="tpsf-21, cover fix" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -185,15 +183,7 @@
       <workItem from="1776761289695" duration="286000" />
       <workItem from="1776902021957" duration="51000" />
       <workItem from="1776987721239" duration="33000" />
-      <workItem from="1777242561436" duration="830000" />
-    </task>
-    <task id="LOCAL-00012" summary="fixed taxonomy and section overlap">
-      <option name="closed" value="true" />
-      <created>1773691152686</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1773691152686</updated>
+      <workItem from="1777242561436" duration="852000" />
     </task>
     <task id="LOCAL-00013" summary="first Heath version">
       <option name="closed" value="true" />
@@ -579,7 +569,15 @@
       <option name="project" value="LOCAL" />
       <updated>1777242619328</updated>
     </task>
-    <option name="localTasksCounter" value="61" />
+    <task id="LOCAL-00061" summary="tpsf-21, cover fix">
+      <option name="closed" value="true" />
+      <created>1777243401121</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1777243401122</updated>
+    </task>
+    <option name="localTasksCounter" value="62" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -608,7 +606,6 @@
     <MESSAGE value="Merge pull request #2829 from nunocoracao/dev&#10;&#10; v2.100.0" />
     <MESSAGE value="Merge pull request #2829 from nunocoracao/dev&#10;&#10; v2.100.0" />
     <MESSAGE value="Merge pull request #2829 from nunocoracao/dev&#10;&#10; v2.100.0" />
-    <MESSAGE value="Merge pull request #2829 from nunocoracao/dev&#10;&#10; v2.100.0" />
     <MESSAGE value="author and toc cards, sorting within cards&#10; v2.100.0" />
     <MESSAGE value="add meta description" />
     <MESSAGE value="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
@@ -630,6 +627,7 @@
     <MESSAGE value="der tunnel, fixes" />
     <MESSAGE value="der tunnel, launch version" />
     <MESSAGE value="tpsf-21" />
-    <option name="LAST_COMMIT_MESSAGE" value="tpsf-21" />
+    <MESSAGE value="tpsf-21, cover fix" />
+    <option name="LAST_COMMIT_MESSAGE" value="tpsf-21, cover fix" />
   </component>
 </project>
