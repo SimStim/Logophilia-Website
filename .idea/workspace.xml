@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5472684e-ca05-4289-9d23-bfd482c66916" name="Changes" comment="tpsf-23, cover" />
+    <list default="true" id="5472684e-ca05-4289-9d23-bfd482c66916" name="Changes" comment="tpsf-23, cover updated" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,23 +53,23 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.6587676589718234" />
-      <entry key="MS500" value="2.320701958080738" />
-      <entry key="S2" value="3.567291127654634" />
-      <entry key="S5" value="4.286200490204795" />
-      <entry key="S10" value="4.613385291275" />
-      <entry key="S30" value="4.863798193771828" />
-      <entry key="S60" value="4.93093299581128" />
-      <entry key="M2" value="4.965221057710929" />
-      <entry key="M5" value="4.986029008546691" />
-      <entry key="M10" value="4.993004559114244" />
-      <entry key="M15" value="4.995334159530035" />
-      <entry key="M30" value="4.997665972363123" />
-      <entry key="H1" value="4.9988327091818245" />
-      <entry key="H2" value="4.999416285322312" />
-      <entry key="H4" value="4.999708125341671" />
-      <entry key="D1" value="4.99995135181793" />
-      <entry key="W1" value="4.999993050200787" />
+      <entry key="MS100" value="1.4323021224171768" />
+      <entry key="MS500" value="2.773453192212174" />
+      <entry key="S2" value="4.335328727515904" />
+      <entry key="S5" value="5.172463226780495" />
+      <entry key="S10" value="5.551764084560085" />
+      <entry key="S30" value="5.842045726864789" />
+      <entry key="S60" value="5.919894282166288" />
+      <entry key="M2" value="5.9596602071577065" />
+      <entry key="M5" value="5.983794595761319" />
+      <entry key="M10" value="5.99188566436036" />
+      <entry key="M15" value="5.994587853788177" />
+      <entry key="M30" value="5.997292631360257" />
+      <entry key="H1" value="5.99864599161382" />
+      <entry key="H2" value="5.999322914767465" />
+      <entry key="H4" value="5.999661437121012" />
+      <entry key="D1" value="5.999943570038993" />
+      <entry key="W1" value="5.999991938508069" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
@@ -91,23 +91,23 @@
       <entry key="W1" value="0.0" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="1.2871526976307113" />
-      <entry key="MS500" value="2.229089864385171" />
-      <entry key="S2" value="3.5410746836747324" />
-      <entry key="S5" value="4.2749943724112764" />
-      <entry key="S10" value="4.607618330112811" />
-      <entry key="S30" value="4.861833985391025" />
-      <entry key="S60" value="4.929945270520997" />
-      <entry key="M2" value="4.964725759106724" />
-      <entry key="M5" value="4.98583054046791" />
-      <entry key="M10" value="4.992905266631396" />
-      <entry key="M15" value="4.995267951528931" />
-      <entry key="M30" value="4.997632861850015" />
-      <entry key="H1" value="4.9988161522959516" />
-      <entry key="H2" value="4.9994080064718975" />
-      <entry key="H4" value="4.999703985814576" />
-      <entry key="D1" value="4.999950661882594" />
-      <entry key="W1" value="4.99999295163825" />
+      <entry key="MS100" value="0.5960695942738555" />
+      <entry key="MS500" value="2.4676325660835357" />
+      <entry key="S2" value="4.245792200372911" />
+      <entry key="S5" value="5.1350187866056825" />
+      <entry key="S10" value="5.532717105419581" />
+      <entry key="S30" value="5.835617982032774" />
+      <entry key="S60" value="5.916670101739072" />
+      <entry key="M2" value="5.958045502950588" />
+      <entry key="M5" value="5.983148081888595" />
+      <entry key="M10" value="5.9915623016523005" />
+      <entry key="M15" value="5.994372255114374" />
+      <entry key="M30" value="5.997184820248226" />
+      <entry key="H1" value="5.998592083112599" />
+      <entry key="H2" value="5.999295959780375" />
+      <entry key="H4" value="5.999647959443324" />
+      <entry key="D1" value="5.9999413237338" />
+      <entry key="W1" value="5.9999916176067005" />
     </decayedShown>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="/usr/bin/php" />
@@ -245,14 +245,7 @@
       <workItem from="1777242561436" duration="852000" />
       <workItem from="1778561515927" duration="112000" />
       <workItem from="1778652005975" duration="47000" />
-    </task>
-    <task id="LOCAL-00015" summary="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
-      <option name="closed" value="true" />
-      <created>1773954310451</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1773954310451</updated>
+      <workItem from="1778739205556" duration="51000" />
     </task>
     <task id="LOCAL-00016" summary="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
       <option name="closed" value="true" />
@@ -638,7 +631,15 @@
       <option name="project" value="LOCAL" />
       <updated>1778652038062</updated>
     </task>
-    <option name="localTasksCounter" value="64" />
+    <task id="LOCAL-00064" summary="tpsf-23, cover updated">
+      <option name="closed" value="true" />
+      <created>1778739244070</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1778739244071</updated>
+    </task>
+    <option name="localTasksCounter" value="65" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -664,7 +665,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/.." />
     </ignored-roots>
-    <MESSAGE value="Merge pull request #2829 from nunocoracao/dev&#10;&#10; v2.100.0" />
     <MESSAGE value="author and toc cards, sorting within cards&#10; v2.100.0" />
     <MESSAGE value="add meta description" />
     <MESSAGE value="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
@@ -689,6 +689,7 @@
     <MESSAGE value="tpsf-21, cover fix" />
     <MESSAGE value="tpsf-23, panopticon" />
     <MESSAGE value="tpsf-23, cover" />
-    <option name="LAST_COMMIT_MESSAGE" value="tpsf-23, cover" />
+    <MESSAGE value="tpsf-23, cover updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="tpsf-23, cover updated" />
   </component>
 </project>
