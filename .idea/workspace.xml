@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5472684e-ca05-4289-9d23-bfd482c66916" name="Changes" comment="updates bio illustrations" />
+    <list default="true" id="5472684e-ca05-4289-9d23-bfd482c66916" name="Changes" comment="tom godwin illustration" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,23 +53,23 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.01551796005096" />
-      <entry key="MS500" value="1.5003573312770164" />
-      <entry key="S2" value="2.729243436154338" />
-      <entry key="S5" value="3.7460938619819535" />
-      <entry key="S10" value="4.29124452410605" />
-      <entry key="S30" value="4.742449379850356" />
-      <entry key="S60" value="4.868338685079882" />
-      <entry key="M2" value="4.933429860516133" />
-      <entry key="M5" value="4.973192113315207" />
-      <entry key="M10" value="4.986565886611325" />
-      <entry key="M15" value="4.991038437980138" />
-      <entry key="M30" value="5.000734658259847" />
-      <entry key="H1" value="5.407657324976687" />
-      <entry key="H2" value="9.206370091428571" />
-      <entry key="H4" value="19.2263093038244" />
-      <entry key="D1" value="45.442501729648946" />
-      <entry key="W1" value="53.5043315256233" />
+      <entry key="MS100" value="1.000376735960767" />
+      <entry key="MS500" value="1.2981674046720704" />
+      <entry key="S2" value="2.224760325069404" />
+      <entry key="S5" value="2.641780827751438" />
+      <entry key="S10" value="2.8116954363782343" />
+      <entry key="S30" value="2.9350653291227053" />
+      <entry key="S60" value="2.9672537636734075" />
+      <entry key="M2" value="2.9835565344384105" />
+      <entry key="M5" value="2.993491614297517" />
+      <entry key="M10" value="3.01743206534471" />
+      <entry key="M15" value="3.1268474923937117" />
+      <entry key="M30" value="3.8030070456175165" />
+      <entry key="H1" value="5.167899353309564" />
+      <entry key="H2" value="8.829590196172362" />
+      <entry key="H4" value="18.299494020849846" />
+      <entry key="D1" value="46.74477425277328" />
+      <entry key="W1" value="56.21409185836323" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
@@ -77,37 +77,37 @@
       <entry key="S2" value="0.0" />
       <entry key="S5" value="0.0" />
       <entry key="S10" value="0.0" />
-      <entry key="S30" value="4.955249763755961E-291" />
-      <entry key="S60" value="1.1907792643317177E-145" />
-      <entry key="M2" value="6.600026139687981E-73" />
-      <entry key="M5" value="3.1913152437769964E-29" />
-      <entry key="M10" value="1.3083231373023663E-14" />
-      <entry key="M15" value="1.0193153945958975E-9" />
-      <entry key="M30" value="8.251272435842678E-5" />
-      <entry key="H1" value="0.023881902867345074" />
-      <entry key="H2" value="0.4082061265105764" />
-      <entry key="H4" value="1.6897049024397035" />
-      <entry key="D1" value="5.523215544362076" />
-      <entry key="W1" value="6.7670060644429615" />
+      <entry key="S30" value="0.0" />
+      <entry key="S60" value="1.8375671211029874E-169" />
+      <entry key="M2" value="8.198825244624458E-85" />
+      <entry key="M5" value="5.516353593800382E-34" />
+      <entry key="M10" value="5.439465375643394E-17" />
+      <entry key="M15" value="2.6355385917641997E-11" />
+      <entry key="M30" value="1.326787358380751E-5" />
+      <entry key="H1" value="0.009576551020594966" />
+      <entry key="H2" value="0.25849349471622607" />
+      <entry key="H4" value="1.3446086906145591" />
+      <entry key="D1" value="5.3168715326690155" />
+      <entry key="W1" value="6.730298168848153" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.9809256902888702" />
-      <entry key="MS500" value="1.4899734948626142" />
-      <entry key="S2" value="2.7238994564664663" />
-      <entry key="S5" value="3.742845422085786" />
-      <entry key="S10" value="4.289306380986996" />
-      <entry key="S30" value="4.741714893248011" />
-      <entry key="S60" value="4.867958982721343" />
-      <entry key="M2" value="4.9332367789621125" />
-      <entry key="M5" value="4.9731140901404185" />
-      <entry key="M10" value="4.986526741973267" />
-      <entry key="M15" value="4.9910123128942745" />
-      <entry key="M30" value="5.000804000334584" />
-      <entry key="H1" value="5.431522567415605" />
-      <entry key="H2" value="9.614490329350657" />
-      <entry key="H4" value="20.915843536670824" />
-      <entry key="D1" value="50.965625458559536" />
-      <entry key="W1" value="60.27132154071159" />
+      <entry key="MS100" value="0.9663026734634851" />
+      <entry key="MS500" value="1.2893570258985945" />
+      <entry key="S2" value="2.220950893497413" />
+      <entry key="S5" value="2.639959458123661" />
+      <entry key="S10" value="2.810723668884911" />
+      <entry key="S30" value="2.934726576198083" />
+      <entry key="S60" value="2.9670824494592996" />
+      <entry key="M2" value="2.9834703863829617" />
+      <entry key="M5" value="2.993457035056491" />
+      <entry key="M10" value="3.017414593802387" />
+      <entry key="M15" value="3.1268352732914506" />
+      <entry key="M30" value="3.803012421662357" />
+      <entry key="H1" value="5.177466336002063" />
+      <entry key="H2" value="9.088027858660055" />
+      <entry key="H4" value="19.643966176514173" />
+      <entry key="D1" value="52.06155727982378" />
+      <entry key="W1" value="62.94437404772596" />
     </decayedShown>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="/usr/bin/php" />
@@ -250,15 +250,7 @@
       <workItem from="1778914110172" duration="47000" />
       <workItem from="1778915262663" duration="35000" />
       <workItem from="1778921239610" duration="36000" />
-      <workItem from="1778970831780" duration="8545000" />
-    </task>
-    <task id="LOCAL-00026" summary="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
-      <option name="closed" value="true" />
-      <created>1773972238834</created>
-      <option name="number" value="00026" />
-      <option name="presentableId" value="LOCAL-00026" />
-      <option name="project" value="LOCAL" />
-      <updated>1773972238834</updated>
+      <workItem from="1778970831780" duration="8991000" />
     </task>
     <task id="LOCAL-00027" summary="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
       <option name="closed" value="true" />
@@ -644,7 +636,15 @@
       <option name="project" value="LOCAL" />
       <updated>1779003666068</updated>
     </task>
-    <option name="localTasksCounter" value="75" />
+    <task id="LOCAL-00075" summary="tom godwin illustration">
+      <option name="closed" value="true" />
+      <created>1779007593519</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1779007593519</updated>
+    </task>
+    <option name="localTasksCounter" value="76" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -670,7 +670,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/.." />
     </ignored-roots>
-    <MESSAGE value="space between socials" />
     <MESSAGE value="Commit outstanding changes" />
     <MESSAGE value="4Q2024" />
     <MESSAGE value="git add submodule blowfish" />
@@ -695,6 +694,7 @@
     <MESSAGE value="fixed filename" />
     <MESSAGE value="fixed title Sam Merwin bio" />
     <MESSAGE value="updates bio illustrations" />
-    <option name="LAST_COMMIT_MESSAGE" value="updates bio illustrations" />
+    <MESSAGE value="tom godwin illustration" />
+    <option name="LAST_COMMIT_MESSAGE" value="tom godwin illustration" />
   </component>
 </project>
