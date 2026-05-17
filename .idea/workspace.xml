@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5472684e-ca05-4289-9d23-bfd482c66916" name="Changes" comment="fixed filename" />
+    <list default="true" id="5472684e-ca05-4289-9d23-bfd482c66916" name="Changes" comment="fixed title Sam Merwin bio">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,61 +55,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0274668939827207" />
-      <entry key="MS500" value="1.9496842501953666" />
-      <entry key="S2" value="3.205998146733234" />
-      <entry key="S5" value="3.6905493039038513" />
-      <entry key="S10" value="4.105082869429839" />
-      <entry key="S30" value="4.982044845694551" />
-      <entry key="S60" value="5.431078190069182" />
-      <entry key="M2" value="6.061191214919771" />
-      <entry key="M5" value="8.225484001230695" />
-      <entry key="M10" value="10.278846772759092" />
-      <entry key="M15" value="11.339264487914152" />
-      <entry key="M30" value="13.812543397907314" />
-      <entry key="H1" value="19.437278073367008" />
-      <entry key="H2" value="27.237231334885433" />
-      <entry key="H4" value="34.01614126354991" />
-      <entry key="D1" value="42.05484526427538" />
-      <entry key="W1" value="43.714309922587034" />
+      <entry key="MS100" value="1.0682591823475545" />
+      <entry key="MS500" value="1.972584877587091" />
+      <entry key="S2" value="3.930259708166262" />
+      <entry key="S5" value="4.990763095167301" />
+      <entry key="S10" value="5.458196875277311" />
+      <entry key="S30" value="5.8104294574584285" />
+      <entry key="S60" value="5.925400312918036" />
+      <entry key="M2" value="6.33223983364861" />
+      <entry key="M5" value="8.69892319451477" />
+      <entry key="M10" value="11.899287389921167" />
+      <entry key="M15" value="13.83319453154748" />
+      <entry key="M30" value="17.48173724165457" />
+      <entry key="H1" value="23.722458926547645" />
+      <entry key="H2" value="32.00839461997469" />
+      <entry key="H4" value="39.24006089206533" />
+      <entry key="D1" value="47.89340712074389" />
+      <entry key="W1" value="49.690298171802354" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
       <entry key="MS500" value="0.0" />
       <entry key="S2" value="0.0" />
       <entry key="S5" value="0.0" />
-      <entry key="S10" value="4.327912918442666E-223" />
-      <entry key="S30" value="1.0032824733690345E-74" />
-      <entry key="S60" value="1.6943772102385237E-37" />
-      <entry key="M2" value="7.872906153240185E-19" />
-      <entry key="M5" value="1.3633440725602564E-7" />
-      <entry key="M10" value="8.551315020426787E-4" />
-      <entry key="M15" value="0.016539428764207335" />
-      <entry key="M30" value="0.3323738807711691" />
-      <entry key="H1" value="1.5157302157998862" />
-      <entry key="H2" value="3.2520409737174076" />
-      <entry key="H4" value="4.769239247968278" />
-      <entry key="D1" value="6.565962018199201" />
-      <entry key="W1" value="6.936270920752851" />
+      <entry key="S10" value="1.6234520786701185E-237" />
+      <entry key="S30" value="1.5588711229026282E-79" />
+      <entry key="S60" value="6.6788792958307225E-40" />
+      <entry key="M2" value="4.942899964895595E-20" />
+      <entry key="M5" value="4.505512230539578E-8" />
+      <entry key="M10" value="4.91589111595982E-4" />
+      <entry key="M15" value="0.011434927237159168" />
+      <entry key="M30" value="0.27636518857650094" />
+      <entry key="H1" value="1.3821339445417078" />
+      <entry key="H2" value="3.1054183951222827" />
+      <entry key="H4" value="4.660485547146386" />
+      <entry key="D1" value="6.540767455001249" />
+      <entry key="W1" value="6.9324624398670025" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.9790134258547828" />
-      <entry key="MS500" value="1.9328181993162787" />
-      <entry key="S2" value="3.199464721192427" />
-      <entry key="S5" value="3.687038120224994" />
-      <entry key="S10" value="4.10147050176228" />
-      <entry key="S30" value="4.978886689898517" />
-      <entry key="S60" value="5.428971976949229" />
-      <entry key="M2" value="6.059959296145217" />
-      <entry key="M5" value="8.224922768222864" />
-      <entry key="M10" value="10.279399927545402" />
-      <entry key="M15" value="11.355573841031324" />
-      <entry key="M30" value="14.144559870209399" />
-      <entry key="H1" value="20.95237352627815" />
-      <entry key="H2" value="30.488617660219717" />
-      <entry key="H4" value="38.784905134447236" />
-      <entry key="D1" value="48.62069873899698" />
-      <entry key="W1" value="50.65056447261443" />
+      <entry key="MS100" value="1.0247426470213286" />
+      <entry key="MS500" value="1.9562029396688057" />
+      <entry key="S2" value="3.9221974018734693" />
+      <entry key="S5" value="4.986700928544957" />
+      <entry key="S10" value="5.455982544117435" />
+      <entry key="S30" value="5.809645409050417" />
+      <entry key="S60" value="5.924993918241289" />
+      <entry key="M2" value="6.331961891734981" />
+      <entry key="M5" value="8.698657106016112" />
+      <entry key="M10" value="11.899565011335174" />
+      <entry key="M15" value="13.844443462859878" />
+      <entry key="M30" value="17.757791778218184" />
+      <entry key="H1" value="25.104007318946397" />
+      <entry key="H2" value="35.11318451337748" />
+      <entry key="H4" value="43.9000802176147" />
+      <entry key="D1" value="54.4340661679791" />
+      <entry key="W1" value="56.62274420981989" />
     </decayedShown>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="/usr/bin/php" />
@@ -250,15 +252,7 @@
       <workItem from="1778914110172" duration="47000" />
       <workItem from="1778915262663" duration="35000" />
       <workItem from="1778921239610" duration="36000" />
-      <workItem from="1778970831780" duration="6014000" />
-    </task>
-    <task id="LOCAL-00023" summary="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
-      <option name="closed" value="true" />
-      <created>1773955356670</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
-      <option name="project" value="LOCAL" />
-      <updated>1773955356670</updated>
+      <workItem from="1778970831780" duration="7216000" />
     </task>
     <task id="LOCAL-00024" summary="Merge pull request #2829 from nunocoracao/dev&#10;&#10;🔖 v2.100.0&#10;Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
       <option name="closed" value="true" />
@@ -644,7 +638,15 @@
       <option name="project" value="LOCAL" />
       <updated>1778981294553</updated>
     </task>
-    <option name="localTasksCounter" value="72" />
+    <task id="LOCAL-00072" summary="fixed title Sam Merwin bio">
+      <option name="closed" value="true" />
+      <created>1778981772892</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1778981772892</updated>
+    </task>
+    <option name="localTasksCounter" value="73" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -670,7 +672,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/.." />
     </ignored-roots>
-    <MESSAGE value="wrangler 404 page config" />
     <MESSAGE value="aria-labels for socials" />
     <MESSAGE value="space between socials" />
     <MESSAGE value="Commit outstanding changes" />
@@ -695,6 +696,7 @@
     <MESSAGE value="tpsf-23, covers update" />
     <MESSAGE value="general fixes" />
     <MESSAGE value="fixed filename" />
-    <option name="LAST_COMMIT_MESSAGE" value="fixed filename" />
+    <MESSAGE value="fixed title Sam Merwin bio" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixed title Sam Merwin bio" />
   </component>
 </project>
