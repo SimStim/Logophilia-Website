@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5472684e-ca05-4289-9d23-bfd482c66916" name="Changes" comment="tom godwin illustration" />
+    <list default="true" id="5472684e-ca05-4289-9d23-bfd482c66916" name="Changes" comment="illustration updates">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/authors/eduard-pech.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/authors/eduard-pech.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/authors/idoru-toei.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/authors/idoru-toei.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +18,7 @@
     <execution />
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="3647" />
+    <option name="cachedIndexableFilesCount" value="3649" />
     <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
@@ -163,8 +167,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-31caf2ab9e3c-JavaScript-PS-261.24374.91" />
-        <option value="bundled-php-predefined-a98d8de5180a-6bbb74dbab74-com.jetbrains.php.sharedIndexes-PS-261.24374.91" />
+        <option value="bundled-js-predefined-d6986cc7102b-31caf2ab9e3c-JavaScript-PS-261.24374.185" />
+        <option value="bundled-php-predefined-a98d8de5180a-6bbb74dbab74-com.jetbrains.php.sharedIndexes-PS-261.24374.185" />
       </set>
     </attachedChunks>
   </component>
@@ -251,14 +255,8 @@
       <workItem from="1778915262663" duration="35000" />
       <workItem from="1778921239610" duration="36000" />
       <workItem from="1778970831780" duration="8991000" />
-    </task>
-    <task id="LOCAL-00027" summary="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
-      <option name="closed" value="true" />
-      <created>1773972371378</created>
-      <option name="number" value="00027" />
-      <option name="presentableId" value="LOCAL-00027" />
-      <option name="project" value="LOCAL" />
-      <updated>1773972371378</updated>
+      <workItem from="1779057146092" duration="950000" />
+      <workItem from="1779240026303" duration="2186000" />
     </task>
     <task id="LOCAL-00028" summary="Merge pull request #2829 from nunocoracao/dev&#10;&#10;🔖 v2.100.0">
       <option name="closed" value="true" />
@@ -644,7 +642,15 @@
       <option name="project" value="LOCAL" />
       <updated>1779007593519</updated>
     </task>
-    <option name="localTasksCounter" value="76" />
+    <task id="LOCAL-00076" summary="illustration updates">
+      <option name="closed" value="true" />
+      <created>1779057299336</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1779057299337</updated>
+    </task>
+    <option name="localTasksCounter" value="77" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -670,7 +676,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/.." />
     </ignored-roots>
-    <MESSAGE value="Commit outstanding changes" />
     <MESSAGE value="4Q2024" />
     <MESSAGE value="git add submodule blowfish" />
     <MESSAGE value="The Pitch Science Fiction 2024" />
@@ -695,6 +700,7 @@
     <MESSAGE value="fixed title Sam Merwin bio" />
     <MESSAGE value="updates bio illustrations" />
     <MESSAGE value="tom godwin illustration" />
-    <option name="LAST_COMMIT_MESSAGE" value="tom godwin illustration" />
+    <MESSAGE value="illustration updates" />
+    <option name="LAST_COMMIT_MESSAGE" value="illustration updates" />
   </component>
 </project>
