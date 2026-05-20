@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5472684e-ca05-4289-9d23-bfd482c66916" name="Changes" comment="illustration updates">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/authors/eduard-pech.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/authors/eduard-pech.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/authors/idoru-toei.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/authors/idoru-toei.html" afterDir="false" />
-    </list>
+    <list default="true" id="5472684e-ca05-4289-9d23-bfd482c66916" name="Changes" comment="Ishtar's Bride" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -256,15 +252,7 @@
       <workItem from="1778921239610" duration="36000" />
       <workItem from="1778970831780" duration="8991000" />
       <workItem from="1779057146092" duration="950000" />
-      <workItem from="1779240026303" duration="2186000" />
-    </task>
-    <task id="LOCAL-00028" summary="Merge pull request #2829 from nunocoracao/dev&#10;&#10;🔖 v2.100.0">
-      <option name="closed" value="true" />
-      <created>1773972633124</created>
-      <option name="number" value="00028" />
-      <option name="presentableId" value="LOCAL-00028" />
-      <option name="project" value="LOCAL" />
-      <updated>1773972633124</updated>
+      <workItem from="1779240026303" duration="2223000" />
     </task>
     <task id="LOCAL-00029" summary="Merge pull request #2829 from nunocoracao/dev&#10;&#10;🔖 v2.100.0">
       <option name="closed" value="true" />
@@ -650,7 +638,15 @@
       <option name="project" value="LOCAL" />
       <updated>1779057299337</updated>
     </task>
-    <option name="localTasksCounter" value="77" />
+    <task id="LOCAL-00077" summary="Ishtar's Bride">
+      <option name="closed" value="true" />
+      <created>1779256565751</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1779256565751</updated>
+    </task>
+    <option name="localTasksCounter" value="78" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -676,7 +672,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/.." />
     </ignored-roots>
-    <MESSAGE value="4Q2024" />
     <MESSAGE value="git add submodule blowfish" />
     <MESSAGE value="The Pitch Science Fiction 2024" />
     <MESSAGE value="The Pitch Science Fiction 1Q2025" />
@@ -701,6 +696,7 @@
     <MESSAGE value="updates bio illustrations" />
     <MESSAGE value="tom godwin illustration" />
     <MESSAGE value="illustration updates" />
-    <option name="LAST_COMMIT_MESSAGE" value="illustration updates" />
+    <MESSAGE value="Ishtar's Bride" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ishtar's Bride" />
   </component>
 </project>
