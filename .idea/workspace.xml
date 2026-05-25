@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5472684e-ca05-4289-9d23-bfd482c66916" name="Changes" comment="Transcendence publication" />
+    <list default="true" id="5472684e-ca05-4289-9d23-bfd482c66916" name="Changes" comment="Transcendence updates" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -254,15 +254,7 @@
       <workItem from="1779057146092" duration="950000" />
       <workItem from="1779240026303" duration="2223000" />
       <workItem from="1779256712786" duration="276000" />
-      <workItem from="1779682036449" duration="967000" />
-    </task>
-    <task id="LOCAL-00031" summary="Merge pull request #2829 from nunocoracao/dev&#10;&#10;🔖 v2.100.0">
-      <option name="closed" value="true" />
-      <created>1773979762487</created>
-      <option name="number" value="00031" />
-      <option name="presentableId" value="LOCAL-00031" />
-      <option name="project" value="LOCAL" />
-      <updated>1773979762487</updated>
+      <workItem from="1779682036449" duration="1029000" />
     </task>
     <task id="LOCAL-00032" summary="Merge pull request #2829 from nunocoracao/dev&#10;&#10;🔖 v2.100.0">
       <option name="closed" value="true" />
@@ -648,7 +640,15 @@
       <option name="project" value="LOCAL" />
       <updated>1779682070055</updated>
     </task>
-    <option name="localTasksCounter" value="80" />
+    <task id="LOCAL-00080" summary="Transcendence updates">
+      <option name="closed" value="true" />
+      <created>1779683726900</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1779683726901</updated>
+    </task>
+    <option name="localTasksCounter" value="81" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -674,7 +674,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/.." />
     </ignored-roots>
-    <MESSAGE value="The Pitch Science Fiction 1Q2025" />
     <MESSAGE value="The Pitch Science Fiction 2Q2025" />
     <MESSAGE value="The Pitch Science Fiction 4Q2025, 2025" />
     <MESSAGE value="publication covers, initial" />
@@ -699,6 +698,7 @@
     <MESSAGE value="Ishtar's Bride" />
     <MESSAGE value="Ishtar's Bride, blurb" />
     <MESSAGE value="Transcendence publication" />
-    <option name="LAST_COMMIT_MESSAGE" value="Transcendence publication" />
+    <MESSAGE value="Transcendence updates" />
+    <option name="LAST_COMMIT_MESSAGE" value="Transcendence updates" />
   </component>
 </project>
