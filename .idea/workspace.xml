@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5472684e-ca05-4289-9d23-bfd482c66916" name="Changes" comment="Transcendence ost link added">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="5472684e-ca05-4289-9d23-bfd482c66916" name="Changes" comment="Hubris; fixes" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,7 +14,7 @@
     <execution />
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="3676" />
+    <option name="cachedIndexableFilesCount" value="3688" />
     <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
@@ -259,14 +257,7 @@
       <workItem from="1779682036449" duration="1029000" />
       <workItem from="1779684131409" duration="28000" />
       <workItem from="1779741233657" duration="11000" />
-    </task>
-    <task id="LOCAL-00033" summary="Merge pull request #2829 from nunocoracao/dev&#10;&#10;🔖 v2.100.0">
-      <option name="closed" value="true" />
-      <created>1774041283023</created>
-      <option name="number" value="00033" />
-      <option name="presentableId" value="LOCAL-00033" />
-      <option name="project" value="LOCAL" />
-      <updated>1774041283023</updated>
+      <workItem from="1779751564644" duration="38000" />
     </task>
     <task id="LOCAL-00034" summary="author and toc cards, sorting within cards&#10;🔖 v2.100.0">
       <option name="closed" value="true" />
@@ -652,7 +643,15 @@
       <option name="project" value="LOCAL" />
       <updated>1779684151976</updated>
     </task>
-    <option name="localTasksCounter" value="82" />
+    <task id="LOCAL-00082" summary="Hubris; fixes">
+      <option name="closed" value="true" />
+      <created>1779751595761</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1779751595762</updated>
+    </task>
+    <option name="localTasksCounter" value="83" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -678,7 +677,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/.." />
     </ignored-roots>
-    <MESSAGE value="The Pitch Science Fiction 4Q2025, 2025" />
     <MESSAGE value="publication covers, initial" />
     <MESSAGE value="der tunnel, illustrations, fixes" />
     <MESSAGE value="der tunnel, fixes" />
@@ -703,6 +701,7 @@
     <MESSAGE value="Transcendence publication" />
     <MESSAGE value="Transcendence updates" />
     <MESSAGE value="Transcendence ost link added" />
-    <option name="LAST_COMMIT_MESSAGE" value="Transcendence ost link added" />
+    <MESSAGE value="Hubris; fixes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Hubris; fixes" />
   </component>
 </project>
