@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5472684e-ca05-4289-9d23-bfd482c66916" name="Changes" comment="Hubris; fixes" />
+    <list default="true" id="5472684e-ca05-4289-9d23-bfd482c66916" name="Changes" comment="fixes">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -258,14 +260,8 @@
       <workItem from="1779684131409" duration="28000" />
       <workItem from="1779741233657" duration="11000" />
       <workItem from="1779751564644" duration="38000" />
-    </task>
-    <task id="LOCAL-00034" summary="author and toc cards, sorting within cards&#10;🔖 v2.100.0">
-      <option name="closed" value="true" />
-      <created>1774048849669</created>
-      <option name="number" value="00034" />
-      <option name="presentableId" value="LOCAL-00034" />
-      <option name="project" value="LOCAL" />
-      <updated>1774048849669</updated>
+      <workItem from="1779751719021" duration="33000" />
+      <workItem from="1779842278405" duration="1299000" />
     </task>
     <task id="LOCAL-00035" summary="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;layouts/partials/head.html&#10;#&#9;public/404.html&#10;#&#9;public/about/index.html&#10;#&#9;public/authors/arthur-conan-doyle/index.html&#10;#&#9;public/authors/index.html&#10;#&#9;public/authors/isaac-asimov/index.html&#10;#&#9;public/calling-all-authors/index.html&#10;#&#9;public/categories/index.html&#10;#&#9;public/cookie-policy-eu/index.html&#10;#&#9;public/index.html&#10;#&#9;public/logophilia-essentials/index.html&#10;#&#9;public/our-goals/index.html&#10;#&#9;public/series/index.html&#10;#&#9;public/standard-terms-for-publication/index.html&#10;#&#9;public/tags/index.html&#10;#&#9;public/terms/index.html&#10;#&#9;public/the-logophilia-edge/index.html">
       <option name="closed" value="true" />
@@ -651,7 +647,15 @@
       <option name="project" value="LOCAL" />
       <updated>1779751595762</updated>
     </task>
-    <option name="localTasksCounter" value="83" />
+    <task id="LOCAL-00083" summary="fixes">
+      <option name="closed" value="true" />
+      <created>1779751746043</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1779751746043</updated>
+    </task>
+    <option name="localTasksCounter" value="84" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -677,7 +681,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/.." />
     </ignored-roots>
-    <MESSAGE value="publication covers, initial" />
     <MESSAGE value="der tunnel, illustrations, fixes" />
     <MESSAGE value="der tunnel, fixes" />
     <MESSAGE value="der tunnel, launch version" />
@@ -702,6 +705,7 @@
     <MESSAGE value="Transcendence updates" />
     <MESSAGE value="Transcendence ost link added" />
     <MESSAGE value="Hubris; fixes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Hubris; fixes" />
+    <MESSAGE value="fixes" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixes" />
   </component>
 </project>
