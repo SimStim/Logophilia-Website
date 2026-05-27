@@ -74,93 +74,99 @@ pageRef = "calling-all-authors"
 weight = 36
 
 [[main]]
+name = "Professional EPUB Production"
+parent = "About Us"
+pageRef = "professional-epub-production"
+weight = 38
+
+[[main]]
 name = "Standard Terms for Publication"
 parent = "About Us"
 pageRef = "standard-terms-for-publication"
-weight = 38
+weight = 40
 
 [[main]]
 name = "The Logophilia Edge"
 parent = "About Us"
 pageRef = "the-logophilia-edge"
-weight = 40
+weight = 42
 
 [[main]]
 name = "Understanding ISBNs: Variations and Importance"
 parent = "About Us"
 pageRef = "understanding-isbns-variations-and-importance"
-weight = 42
+weight = 44
 
 [[main]]
 name = "Our Customers by Orders"
 parent = "About Us"
 pageRef = "our-customers-by-orders"
-weight = 44
+weight = 46
 
 [[main]]
 name = "The Director, Without a Service Weapon"
 parent = "About Us"
 pageRef = "the-director-without-a-service-weapon"
-weight = 46
+weight = 48
 
 [[main]]
 name = "Idoru Toei"
 parent = "About Us"
 pageRef = "idoru-toei"
-weight = 48
+weight = 50
 
 [[main]]
 name = "Terms of Use"
 pageRef = "terms-of-use"
-weight = 50
+weight = 60
 
 [[main]]
 name = "Affiliate Disclosure"
 parent = "Terms of Use"
 pageRef = "affiliate-disclosure"
-weight = 52
+weight = 62
 
 [[main]]
 name = "Privacy Policy"
 parent = "Terms of Use"
 pageRef = "privacy-policy"
-weight = 54
+weight = 64
 
 [[main]]
 name = "Cookie Policy"
 parent = "Terms of Use"
 pageRef = "cookie-policy-eu"
-weight = 56
+weight = 66
 
 [[main]]
 name = "Shop Terms and Conditions"
 parent = "Terms of Use"
 pageRef = "shop-terms-and-conditions"
-weight = 58
+weight = 68
 
 [[main]]
 name = "Right of Withdrawal"
 parent = "Terms of Use"
 pageRef = "right-of-withdrawal"
-weight = 60
+weight = 70
 
 [[main]]
 name = "Review Authenticity"
 parent = "Terms of Use"
 pageRef = "review-authenticity"
-weight = 62
+weight = 72
 
 [[main]]
 name = "Shipping Terms"
 parent = "Terms of Use"
 pageRef = "shipping-terms"
-weight = 64
+weight = 74
 
 [[subnavigation]]
 name = "Lea EPUB Anvil"
 pre = "github"
 url = "https://github.com/SimStim/Lea.git"
-weight = 70
+weight = 80
 
 # -- Footer Menu --
 # The footer menu is displayed at the bottom of the page, just before

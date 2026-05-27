@@ -4,15 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5472684e-ca05-4289-9d23-bfd482c66916" name="Changes" comment="−1">
+    <list default="true" id="5472684e-ca05-4289-9d23-bfd482c66916" name="Changes" comment="Dichotomies of Longing">
+      <change afterPath="$PROJECT_DIR$/content/professional-epub-production/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/authors/eduard-pech.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/authors/eduard-pech.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/authors/idoru-toei.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/authors/idoru-toei.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/publications/-1.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/publications/ishtar-s-bride.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/publications/ishtar-s-bride.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/stories/ishtar-s-bride-idoru-toei.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/stories/ishtar-s-bride-idoru-toei.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/stories/snow-on-a-summer-night-idoru-toei.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/stories/snow-on-a-summer-night-idoru-toei.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/stories/transcendence-idoru-toei.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/stories/transcendence-idoru-toei.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/_default/menus.en.toml" beforeDir="false" afterPath="$PROJECT_DIR$/config/_default/menus.en.toml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,61 +57,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.000376735960767" />
-      <entry key="MS500" value="1.2981674046720704" />
-      <entry key="S2" value="2.224760325069404" />
-      <entry key="S5" value="2.641780827751438" />
-      <entry key="S10" value="2.8116954363782343" />
-      <entry key="S30" value="2.9350653291227053" />
-      <entry key="S60" value="2.9672537636734075" />
-      <entry key="M2" value="2.9835565344384105" />
-      <entry key="M5" value="2.993491614297517" />
-      <entry key="M10" value="3.01743206534471" />
-      <entry key="M15" value="3.1268474923937117" />
-      <entry key="M30" value="3.8030070456175165" />
-      <entry key="H1" value="5.167899353309564" />
-      <entry key="H2" value="8.829590196172362" />
-      <entry key="H4" value="18.299494020849846" />
-      <entry key="D1" value="46.74477425277328" />
-      <entry key="W1" value="56.21409185836323" />
+      <entry key="MS100" value="0.004613252583709102" />
+      <entry key="MS500" value="0.34103708418162876" />
+      <entry key="S2" value="0.8091392850755491" />
+      <entry key="S5" value="1.630225063156531" />
+      <entry key="S10" value="2.8522493897428634" />
+      <entry key="S30" value="5.07099977045871" />
+      <entry key="S60" value="7.100262787172223" />
+      <entry key="M2" value="10.445528569101747" />
+      <entry key="M5" value="25.83604202020761" />
+      <entry key="M10" value="50.86577475238821" />
+      <entry key="M15" value="67.32883860165175" />
+      <entry key="M30" value="91.78700268139515" />
+      <entry key="H1" value="109.01283160933508" />
+      <entry key="H2" value="121.7428876669717" />
+      <entry key="H4" value="135.94703554483394" />
+      <entry key="D1" value="169.3189759149645" />
+      <entry key="W1" value="179.99315627030444" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="0.0" />
-      <entry key="MS500" value="0.0" />
-      <entry key="S2" value="0.0" />
-      <entry key="S5" value="0.0" />
-      <entry key="S10" value="0.0" />
-      <entry key="S30" value="0.0" />
-      <entry key="S60" value="1.8375671211029874E-169" />
-      <entry key="M2" value="8.198825244624458E-85" />
-      <entry key="M5" value="5.516353593800382E-34" />
-      <entry key="M10" value="5.439465375643394E-17" />
-      <entry key="M15" value="2.6355385917641997E-11" />
-      <entry key="M30" value="1.326787358380751E-5" />
-      <entry key="H1" value="0.009576551020594966" />
-      <entry key="H2" value="0.25849349471622607" />
-      <entry key="H4" value="1.3446086906145591" />
-      <entry key="D1" value="5.3168715326690155" />
-      <entry key="W1" value="6.730298168848153" />
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0" />
+      <entry key="S5" value="1.0" />
+      <entry key="S10" value="1.0" />
+      <entry key="S30" value="1.000000000015275" />
+      <entry key="S60" value="1.0000046464870564" />
+      <entry key="M2" value="1.003685658231712" />
+      <entry key="M5" value="1.2619240784380141" />
+      <entry key="M10" value="2.133706294618804" />
+      <entry key="M15" value="2.855550830044053" />
+      <entry key="M30" value="4.043064237814503" />
+      <entry key="H1" value="4.906935787970448" />
+      <entry key="H2" value="5.63898542679372" />
+      <entry key="H4" value="6.948842715331769" />
+      <entry key="D1" value="11.201224197504297" />
+      <entry key="W1" value="12.711249669966152" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.9663026734634851" />
-      <entry key="MS500" value="1.2893570258985945" />
-      <entry key="S2" value="2.220950893497413" />
-      <entry key="S5" value="2.639959458123661" />
-      <entry key="S10" value="2.810723668884911" />
-      <entry key="S30" value="2.934726576198083" />
-      <entry key="S60" value="2.9670824494592996" />
-      <entry key="M2" value="2.9834703863829617" />
-      <entry key="M5" value="2.993457035056491" />
-      <entry key="M10" value="3.017414593802387" />
-      <entry key="M15" value="3.1268352732914506" />
-      <entry key="M30" value="3.803012421662357" />
-      <entry key="H1" value="5.177466336002063" />
-      <entry key="H2" value="9.088027858660055" />
-      <entry key="H4" value="19.643966176514173" />
-      <entry key="D1" value="52.06155727982378" />
-      <entry key="W1" value="62.94437404772596" />
+      <entry key="MS100" value="0.00531457808966014" />
+      <entry key="MS500" value="0.5482176046157949" />
+      <entry key="S2" value="1.4734517088051629" />
+      <entry key="S5" value="2.4262277248443396" />
+      <entry key="S10" value="3.701938562825788" />
+      <entry key="S30" value="5.996613174477801" />
+      <entry key="S60" value="8.05631149874306" />
+      <entry key="M2" value="11.423115351948418" />
+      <entry key="M5" value="27.080984032578264" />
+      <entry key="M10" value="52.984896442454264" />
+      <entry key="M15" value="70.17178130202166" />
+      <entry key="M30" value="95.8215528995851" />
+      <entry key="H1" value="113.91474500553198" />
+      <entry key="H2" value="127.37909323170905" />
+      <entry key="H4" value="142.8943246816788" />
+      <entry key="D1" value="180.5198660120113" />
+      <entry key="W1" value="192.70435452732886" />
     </decayedShown>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="/usr/bin/php" />
@@ -132,33 +127,34 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
-    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;git.auto.fetch.suggestion.counter&quot;: &quot;3&quot;,
-    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
-    &quot;kronk.content.tree.expanded.paths&quot;: &quot;&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/Ed/Nextcloud-Logophilia/Logophilia.eu/website/layouts/_shortcodes&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;File.Encoding&quot;,
-    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "DefaultHtmlFileTemplate": "HTML File",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "git.auto.fetch.suggestion.counter": "3",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kronk.content.tree.expanded.paths": "",
+    "last_opened_file_path": "/home/Ed/Nextcloud-Logophilia/Logophilia.eu/website/content",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "File.Encoding",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/content" />
       <recent name="$PROJECT_DIR$/layouts/_shortcodes" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -270,15 +266,7 @@
       <workItem from="1779751719021" duration="33000" />
       <workItem from="1779842278405" duration="1945000" />
       <workItem from="1779914205271" duration="135000" />
-      <workItem from="1779916340572" duration="1366000" />
-    </task>
-    <task id="LOCAL-00037" summary="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;layouts/partials/head.html&#10;#&#9;public/404.html&#10;#&#9;public/about/index.html&#10;#&#9;public/authors/arthur-conan-doyle/index.html&#10;#&#9;public/authors/index.html&#10;#&#9;public/authors/isaac-asimov/index.html&#10;#&#9;public/calling-all-authors/index.html&#10;#&#9;public/categories/index.html&#10;#&#9;public/cookie-policy-eu/index.html&#10;#&#9;public/index.html&#10;#&#9;public/logophilia-essentials/index.html&#10;#&#9;public/our-goals/index.html&#10;#&#9;public/series/index.html&#10;#&#9;public/standard-terms-for-publication/index.html&#10;#&#9;public/tags/index.html&#10;#&#9;public/terms/index.html&#10;#&#9;public/the-logophilia-edge/index.html">
-      <option name="closed" value="true" />
-      <created>1774060048843</created>
-      <option name="number" value="00037" />
-      <option name="presentableId" value="LOCAL-00037" />
-      <option name="project" value="LOCAL" />
-      <updated>1774060048843</updated>
+      <workItem from="1779916340572" duration="3736000" />
     </task>
     <task id="LOCAL-00038" summary="logo">
       <option name="closed" value="true" />
@@ -664,7 +652,15 @@
       <option name="project" value="LOCAL" />
       <updated>1779916366521</updated>
     </task>
-    <option name="localTasksCounter" value="86" />
+    <task id="LOCAL-00086" summary="Dichotomies of Longing">
+      <option name="closed" value="true" />
+      <created>1779919654857</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1779919654857</updated>
+    </task>
+    <option name="localTasksCounter" value="87" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -690,7 +686,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/.." />
     </ignored-roots>
-    <MESSAGE value="der tunnel, launch version" />
     <MESSAGE value="tpsf-21" />
     <MESSAGE value="tpsf-21, cover fix" />
     <MESSAGE value="tpsf-23, panopticon" />
@@ -715,6 +710,7 @@
     <MESSAGE value="fixes" />
     <MESSAGE value="Snow on a Summer Night" />
     <MESSAGE value="−1" />
-    <option name="LAST_COMMIT_MESSAGE" value="−1" />
+    <MESSAGE value="Dichotomies of Longing" />
+    <option name="LAST_COMMIT_MESSAGE" value="Dichotomies of Longing" />
   </component>
 </project>
