@@ -4,8 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5472684e-ca05-4289-9d23-bfd482c66916" name="Changes" comment="Snow on a Summer Night">
+    <list default="true" id="5472684e-ca05-4289-9d23-bfd482c66916" name="Changes" comment="−1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/authors/eduard-pech.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/authors/eduard-pech.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/authors/idoru-toei.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/authors/idoru-toei.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/publications/-1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/publications/ishtar-s-bride.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/publications/ishtar-s-bride.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/stories/ishtar-s-bride-idoru-toei.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/stories/ishtar-s-bride-idoru-toei.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/stories/snow-on-a-summer-night-idoru-toei.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/stories/snow-on-a-summer-night-idoru-toei.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/stories/transcendence-idoru-toei.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/stories/transcendence-idoru-toei.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,7 +23,7 @@
     <execution />
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="3691" />
+    <option name="cachedIndexableFilesCount" value="3694" />
     <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
@@ -263,14 +270,7 @@
       <workItem from="1779751719021" duration="33000" />
       <workItem from="1779842278405" duration="1945000" />
       <workItem from="1779914205271" duration="135000" />
-    </task>
-    <task id="LOCAL-00036" summary="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;layouts/partials/head.html&#10;#&#9;public/404.html&#10;#&#9;public/about/index.html&#10;#&#9;public/authors/arthur-conan-doyle/index.html&#10;#&#9;public/authors/index.html&#10;#&#9;public/authors/isaac-asimov/index.html&#10;#&#9;public/calling-all-authors/index.html&#10;#&#9;public/categories/index.html&#10;#&#9;public/cookie-policy-eu/index.html&#10;#&#9;public/index.html&#10;#&#9;public/logophilia-essentials/index.html&#10;#&#9;public/our-goals/index.html&#10;#&#9;public/series/index.html&#10;#&#9;public/standard-terms-for-publication/index.html&#10;#&#9;public/tags/index.html&#10;#&#9;public/terms/index.html&#10;#&#9;public/the-logophilia-edge/index.html">
-      <option name="closed" value="true" />
-      <created>1774060040841</created>
-      <option name="number" value="00036" />
-      <option name="presentableId" value="LOCAL-00036" />
-      <option name="project" value="LOCAL" />
-      <updated>1774060040841</updated>
+      <workItem from="1779916340572" duration="1366000" />
     </task>
     <task id="LOCAL-00037" summary="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;layouts/partials/head.html&#10;#&#9;public/404.html&#10;#&#9;public/about/index.html&#10;#&#9;public/authors/arthur-conan-doyle/index.html&#10;#&#9;public/authors/index.html&#10;#&#9;public/authors/isaac-asimov/index.html&#10;#&#9;public/calling-all-authors/index.html&#10;#&#9;public/categories/index.html&#10;#&#9;public/cookie-policy-eu/index.html&#10;#&#9;public/index.html&#10;#&#9;public/logophilia-essentials/index.html&#10;#&#9;public/our-goals/index.html&#10;#&#9;public/series/index.html&#10;#&#9;public/standard-terms-for-publication/index.html&#10;#&#9;public/tags/index.html&#10;#&#9;public/terms/index.html&#10;#&#9;public/the-logophilia-edge/index.html">
       <option name="closed" value="true" />
@@ -656,7 +656,15 @@
       <option name="project" value="LOCAL" />
       <updated>1779852553863</updated>
     </task>
-    <option name="localTasksCounter" value="85" />
+    <task id="LOCAL-00085" summary="−1">
+      <option name="closed" value="true" />
+      <created>1779916366520</created>
+      <option name="number" value="00085" />
+      <option name="presentableId" value="LOCAL-00085" />
+      <option name="project" value="LOCAL" />
+      <updated>1779916366521</updated>
+    </task>
+    <option name="localTasksCounter" value="86" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -682,7 +690,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/.." />
     </ignored-roots>
-    <MESSAGE value="der tunnel, fixes" />
     <MESSAGE value="der tunnel, launch version" />
     <MESSAGE value="tpsf-21" />
     <MESSAGE value="tpsf-21, cover fix" />
@@ -707,6 +714,7 @@
     <MESSAGE value="Hubris; fixes" />
     <MESSAGE value="fixes" />
     <MESSAGE value="Snow on a Summer Night" />
-    <option name="LAST_COMMIT_MESSAGE" value="Snow on a Summer Night" />
+    <MESSAGE value="−1" />
+    <option name="LAST_COMMIT_MESSAGE" value="−1" />
   </component>
 </project>
