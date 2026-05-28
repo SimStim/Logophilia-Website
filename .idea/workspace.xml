@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5472684e-ca05-4289-9d23-bfd482c66916" name="Changes" comment="Dichotomies of Longing">
-      <change afterPath="$PROJECT_DIR$/content/professional-epub-production/index.html" afterDir="false" />
+    <list default="true" id="5472684e-ca05-4289-9d23-bfd482c66916" name="Changes" comment="Professional EPUB Production">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/_default/menus.en.toml" beforeDir="false" afterPath="$PROJECT_DIR$/config/_default/menus.en.toml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,61 +55,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="0.004613252583709102" />
-      <entry key="MS500" value="0.34103708418162876" />
-      <entry key="S2" value="0.8091392850755491" />
-      <entry key="S5" value="1.630225063156531" />
-      <entry key="S10" value="2.8522493897428634" />
-      <entry key="S30" value="5.07099977045871" />
-      <entry key="S60" value="7.100262787172223" />
-      <entry key="M2" value="10.445528569101747" />
-      <entry key="M5" value="25.83604202020761" />
-      <entry key="M10" value="50.86577475238821" />
-      <entry key="M15" value="67.32883860165175" />
-      <entry key="M30" value="91.78700268139515" />
-      <entry key="H1" value="109.01283160933508" />
-      <entry key="H2" value="121.7428876669717" />
-      <entry key="H4" value="135.94703554483394" />
-      <entry key="D1" value="169.3189759149645" />
-      <entry key="W1" value="179.99315627030444" />
+      <entry key="MS100" value="1.0000003192496048" />
+      <entry key="MS500" value="1.0844576379463635" />
+      <entry key="S2" value="2.4895556640609433" />
+      <entry key="S5" value="4.011973931863392" />
+      <entry key="S10" value="4.86555964829736" />
+      <entry key="S30" value="5.5861336424254935" />
+      <entry key="S60" value="5.8952212965659685" />
+      <entry key="M2" value="7.17927917343285" />
+      <entry key="M5" value="17.137217328637217" />
+      <entry key="M10" value="39.4396969744586" />
+      <entry key="M15" value="56.91236864131271" />
+      <entry key="M30" value="85.82053331923747" />
+      <entry key="H1" value="107.65964072499783" />
+      <entry key="H2" value="123.56556100684479" />
+      <entry key="H4" value="139.59444634635875" />
+      <entry key="D1" value="174.8271073414619" />
+      <entry key="W1" value="185.9183678282408" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="1.0" />
-      <entry key="MS500" value="1.0" />
-      <entry key="S2" value="1.0" />
-      <entry key="S5" value="1.0" />
-      <entry key="S10" value="1.0" />
-      <entry key="S30" value="1.000000000015275" />
-      <entry key="S60" value="1.0000046464870564" />
-      <entry key="M2" value="1.003685658231712" />
-      <entry key="M5" value="1.2619240784380141" />
-      <entry key="M10" value="2.133706294618804" />
-      <entry key="M15" value="2.855550830044053" />
-      <entry key="M30" value="4.043064237814503" />
-      <entry key="H1" value="4.906935787970448" />
-      <entry key="H2" value="5.63898542679372" />
-      <entry key="H4" value="6.948842715331769" />
-      <entry key="D1" value="11.201224197504297" />
-      <entry key="W1" value="12.711249669966152" />
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="5.5260659517349206E-219" />
+      <entry key="S2" value="2.7264906704057264E-55" />
+      <entry key="S5" value="1.4936251108795158E-22" />
+      <entry key="S10" value="1.2221395627666733E-11" />
+      <entry key="S30" value="2.3034224805207869E-4" />
+      <entry key="S60" value="0.015177100797519973" />
+      <entry key="M2" value="0.12364914531341727" />
+      <entry key="M5" value="0.546098001501359" />
+      <entry key="M10" value="1.4036321867265982" />
+      <entry key="M15" value="2.159910132945477" />
+      <entry key="M30" value="3.516280684196787" />
+      <entry key="H1" value="4.576113857523181" />
+      <entry key="H2" value="5.445580664395494" />
+      <entry key="H4" value="6.828638044953616" />
+      <entry key="D1" value="11.168694846065922" />
+      <entry key="W1" value="12.705969580428704" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.00531457808966014" />
-      <entry key="MS500" value="0.5482176046157949" />
-      <entry key="S2" value="1.4734517088051629" />
-      <entry key="S5" value="2.4262277248443396" />
-      <entry key="S10" value="3.701938562825788" />
-      <entry key="S30" value="5.996613174477801" />
-      <entry key="S60" value="8.05631149874306" />
-      <entry key="M2" value="11.423115351948418" />
-      <entry key="M5" value="27.080984032578264" />
-      <entry key="M10" value="52.984896442454264" />
-      <entry key="M15" value="70.17178130202166" />
-      <entry key="M30" value="95.8215528995851" />
-      <entry key="H1" value="113.91474500553198" />
-      <entry key="H2" value="127.37909323170905" />
-      <entry key="H4" value="142.8943246816788" />
-      <entry key="D1" value="180.5198660120113" />
-      <entry key="W1" value="192.70435452732886" />
+      <entry key="MS100" value="0.9526383022612481" />
+      <entry key="MS500" value="1.0740527096812023" />
+      <entry key="S2" value="2.48418573242358" />
+      <entry key="S5" value="4.008699192700497" />
+      <entry key="S10" value="4.8636119275858105" />
+      <entry key="S30" value="5.585611033424296" />
+      <entry key="S60" value="5.909351223816938" />
+      <entry key="M2" value="7.299519893911056" />
+      <entry key="M5" value="17.675888298454648" />
+      <entry key="M10" value="40.83369571189911" />
+      <entry key="M15" value="59.062715983150426" />
+      <entry key="M30" value="89.32939622389061" />
+      <entry key="H1" value="112.23106425386288" />
+      <entry key="H2" value="129.00845388003094" />
+      <entry key="H4" value="146.4215560510573" />
+      <entry key="D1" value="185.99546878456778" />
+      <entry key="W1" value="198.6242859781176" />
     </decayedShown>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="/usr/bin/php" />
@@ -266,15 +264,7 @@
       <workItem from="1779751719021" duration="33000" />
       <workItem from="1779842278405" duration="1945000" />
       <workItem from="1779914205271" duration="135000" />
-      <workItem from="1779916340572" duration="3736000" />
-    </task>
-    <task id="LOCAL-00038" summary="logo">
-      <option name="closed" value="true" />
-      <created>1774063021596</created>
-      <option name="number" value="00038" />
-      <option name="presentableId" value="LOCAL-00038" />
-      <option name="project" value="LOCAL" />
-      <updated>1774063021596</updated>
+      <workItem from="1779916340572" duration="4962000" />
     </task>
     <task id="LOCAL-00039" summary="small fixes, mostly _blank targets">
       <option name="closed" value="true" />
@@ -660,7 +650,15 @@
       <option name="project" value="LOCAL" />
       <updated>1779919654857</updated>
     </task>
-    <option name="localTasksCounter" value="87" />
+    <task id="LOCAL-00087" summary="Professional EPUB Production">
+      <option name="closed" value="true" />
+      <created>1779921949794</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1779921949794</updated>
+    </task>
+    <option name="localTasksCounter" value="88" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -686,7 +684,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/.." />
     </ignored-roots>
-    <MESSAGE value="tpsf-21" />
     <MESSAGE value="tpsf-21, cover fix" />
     <MESSAGE value="tpsf-23, panopticon" />
     <MESSAGE value="tpsf-23, cover" />
@@ -711,6 +708,7 @@
     <MESSAGE value="Snow on a Summer Night" />
     <MESSAGE value="−1" />
     <MESSAGE value="Dichotomies of Longing" />
-    <option name="LAST_COMMIT_MESSAGE" value="Dichotomies of Longing" />
+    <MESSAGE value="Professional EPUB Production" />
+    <option name="LAST_COMMIT_MESSAGE" value="Professional EPUB Production" />
   </component>
 </project>
