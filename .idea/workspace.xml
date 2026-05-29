@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5472684e-ca05-4289-9d23-bfd482c66916" name="Changes" comment="Book of Facts for Adults" />
+    <list default="true" id="5472684e-ca05-4289-9d23-bfd482c66916" name="Changes" comment="Buch der Tatsachen für Erwachsene" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -264,14 +264,7 @@
       <workItem from="1779914205271" duration="135000" />
       <workItem from="1779916340572" duration="4962000" />
       <workItem from="1779934036042" duration="87000" />
-    </task>
-    <task id="LOCAL-00040" summary="wrangler 404 page config">
-      <option name="closed" value="true" />
-      <created>1774399990936</created>
-      <option name="number" value="00040" />
-      <option name="presentableId" value="LOCAL-00040" />
-      <option name="project" value="LOCAL" />
-      <updated>1774399990936</updated>
+      <workItem from="1780012948543" duration="67000" />
     </task>
     <task id="LOCAL-00041" summary="aria-labels for socials">
       <option name="closed" value="true" />
@@ -657,7 +650,15 @@
       <option name="project" value="LOCAL" />
       <updated>1779934115167</updated>
     </task>
-    <option name="localTasksCounter" value="89" />
+    <task id="LOCAL-00089" summary="Buch der Tatsachen für Erwachsene">
+      <option name="closed" value="true" />
+      <created>1780012977523</created>
+      <option name="number" value="00089" />
+      <option name="presentableId" value="LOCAL-00089" />
+      <option name="project" value="LOCAL" />
+      <updated>1780012977524</updated>
+    </task>
+    <option name="localTasksCounter" value="90" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -683,7 +684,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/.." />
     </ignored-roots>
-    <MESSAGE value="tpsf-23, panopticon" />
     <MESSAGE value="tpsf-23, cover" />
     <MESSAGE value="tpsf-23, cover updated" />
     <MESSAGE value="tpsf-23, illustrations, biographies" />
@@ -708,6 +708,7 @@
     <MESSAGE value="Dichotomies of Longing" />
     <MESSAGE value="Professional EPUB Production" />
     <MESSAGE value="Book of Facts for Adults" />
-    <option name="LAST_COMMIT_MESSAGE" value="Book of Facts for Adults" />
+    <MESSAGE value="Buch der Tatsachen für Erwachsene" />
+    <option name="LAST_COMMIT_MESSAGE" value="Buch der Tatsachen für Erwachsene" />
   </component>
 </project>
