@@ -4,7 +4,44 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5472684e-ca05-4289-9d23-bfd482c66916" name="Changes" comment="Buch der Tatsachen für Erwachsene" />
+    <list default="true" id="5472684e-ca05-4289-9d23-bfd482c66916" name="Changes" comment="Buch der Tatsachen für Erwachsene">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/publications/The Pitch Science Fiction 1Q2025 (Logophilia Essentials).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/publications/The Pitch Science Fiction 1Q2025 (Logophilia Essentials).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/publications/The Pitch Science Fiction 1Q2026 (Logophilia Essentials).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/publications/The Pitch Science Fiction 1Q2026 (Logophilia Essentials).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/publications/The Pitch Science Fiction 2024 (Logophilia Essentials).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/publications/The Pitch Science Fiction 2024 (Logophilia Essentials).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/publications/The Pitch Science Fiction 2025 (Logophilia Essentials).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/publications/The Pitch Science Fiction 2025 (Logophilia Essentials).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/publications/The Pitch Science Fiction 2025.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/publications/The Pitch Science Fiction 2025.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/publications/The Pitch Science Fiction 2Q2024 (Logophilia Essentials).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/publications/The Pitch Science Fiction 2Q2024 (Logophilia Essentials).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/publications/The Pitch Science Fiction 2Q2025 (Logophilia Essentials).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/publications/The Pitch Science Fiction 2Q2025 (Logophilia Essentials).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/publications/The Pitch Science Fiction 2Q2026 (Logophilia Essentials).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/publications/The Pitch Science Fiction 2Q2026 (Logophilia Essentials).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/publications/The Pitch Science Fiction 3Q2024 (Logophilia Essentials).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/publications/The Pitch Science Fiction 3Q2024 (Logophilia Essentials).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/publications/The Pitch Science Fiction 3Q2025 (Logophilia Essentials).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/publications/The Pitch Science Fiction 3Q2025 (Logophilia Essentials).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/publications/The Pitch Science Fiction 3Q2025.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/publications/The Pitch Science Fiction 3Q2025.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/publications/The Pitch Science Fiction 4Q2024 (Logophilia Essentials).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/publications/The Pitch Science Fiction 4Q2024 (Logophilia Essentials).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/publications/The Pitch Science Fiction 4Q2025 (Logophilia Essentials).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/publications/The Pitch Science Fiction 4Q2025 (Logophilia Essentials).jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/publications/The Pitch Science Fiction 4Q2025.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/publications/The Pitch Science Fiction 4Q2025.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/authors/arthur-dekker-savage.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/authors/arthur-dekker-savage.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/authors/carl-jacobi.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/authors/carl-jacobi.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/authors/clifford-d--simak.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/authors/clifford-d--simak.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/authors/edgar-pangborn.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/authors/edgar-pangborn.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/authors/eduard-pech.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/authors/eduard-pech.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/authors/jesse-f--bone.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/authors/jesse-f--bone.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/authors/mack-reynolds.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/authors/mack-reynolds.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/authors/poul-anderson.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/authors/poul-anderson.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/authors/richard-mckenna.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/authors/richard-mckenna.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/authors/sam-merwin--jr-.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/authors/sam-merwin--jr-.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/authors/stanley-g--weinbaum.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/authors/stanley-g--weinbaum.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/series/the-pitch-science-fiction.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/series/the-pitch-science-fiction.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/stories/adaptation-mack-reynolds.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/stories/adaptation-mack-reynolds.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/stories/angel-s-egg-edgar-pangborn.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/stories/angel-s-egg-edgar-pangborn.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/stories/dp-arthur-dekker-savage.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/stories/dp-arthur-dekker-savage.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/stories/sentiment--inc--poul-anderson.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/stories/sentiment--inc--poul-anderson.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/stories/the-lani-people-jesse-f--bone.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/stories/the-lani-people-jesse-f--bone.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/stories/the-night-of-hoggy-darn-richard-mckenna.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/stories/the-night-of-hoggy-darn-richard-mckenna.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/stories/the-street-that-wasn-t-there-clifford-d--simak.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/stories/the-street-that-wasn-t-there-clifford-d--simak.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/stories/the-white-rain-came-sam-merwin--jr-.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/stories/the-white-rain-came-sam-merwin--jr-.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/stories/the-worlds-of-if-stanley-g--weinbaum.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/stories/the-worlds-of-if-stanley-g--weinbaum.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +51,7 @@
     <execution />
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="3806" />
+    <option name="cachedIndexableFilesCount" value="3998" />
     <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
@@ -265,14 +302,8 @@
       <workItem from="1779916340572" duration="4962000" />
       <workItem from="1779934036042" duration="87000" />
       <workItem from="1780012948543" duration="67000" />
-    </task>
-    <task id="LOCAL-00041" summary="aria-labels for socials">
-      <option name="closed" value="true" />
-      <created>1774403859663</created>
-      <option name="number" value="00041" />
-      <option name="presentableId" value="LOCAL-00041" />
-      <option name="project" value="LOCAL" />
-      <updated>1774403859663</updated>
+      <workItem from="1780013022391" duration="24000" />
+      <workItem from="1780085508712" duration="78000" />
     </task>
     <task id="LOCAL-00042" summary="space between socials">
       <option name="closed" value="true" />
@@ -658,7 +689,15 @@
       <option name="project" value="LOCAL" />
       <updated>1780012977524</updated>
     </task>
-    <option name="localTasksCounter" value="90" />
+    <task id="LOCAL-00090" summary="Buch der Tatsachen für Erwachsene">
+      <option name="closed" value="true" />
+      <created>1780013038210</created>
+      <option name="number" value="00090" />
+      <option name="presentableId" value="LOCAL-00090" />
+      <option name="project" value="LOCAL" />
+      <updated>1780013038210</updated>
+    </task>
+    <option name="localTasksCounter" value="91" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
