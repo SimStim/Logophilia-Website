@@ -19,6 +19,14 @@ async function downloadFile(filename) {
         "Prince",
         "1117144616401615471115121a46461a47111a401740161547151a404240451a121441171a42161411151a1546421513414214171147101516411a1b10121211"
     );
+    // Immediate feedback
+    const toast = Toastify({
+        text: `Requesting file from server.`,
+        duration: 4000,
+        gravity: "top",
+        position: "left",
+        style: { background: "#416392" },
+    }).showToast();
     try {
         const resp = await fetch(
             `https://api.logophilia.eu/download?fileName=${encodeURIComponent(filename)}`,
@@ -57,8 +65,22 @@ async function downloadFile(filename) {
             document.body.removeChild(a);
             URL.revokeObjectURL(url);
         }, 100);
+        // Success message
+        Toastify({
+            text: `File received from server.`,
+            duration: 3000,
+            gravity: "top",
+            position: "left",
+            style: { background: "#36482e" },
+        }).showToast();
     } catch (e) {
-        alert('Download failed: ' + e.message);
+        Toastify({
+            text: `File request failed: ${e.message}`,
+            duration: 6000,
+            gravity: "top",
+            position: "left",
+            style: { background: "#ff0000" },
+        }).showToast();
     }
 }
 
@@ -237,7 +259,7 @@ async function downloadFile(filename) {
                         position: "left",
                         stopOnFocus: false,
                         style: {
-                            background: "#008040",
+                            background: "#416392",
                         },
                         onClick: function(){} // Callback after click
                     }).showToast();
@@ -351,7 +373,7 @@ async function downloadFile(filename) {
                         position: "left",
                         stopOnFocus: false,
                         style: {
-                            background: "#008040",
+                            background: "#36482e",
                         },
                         onClick: function(){} // Callback after click
                     }).showToast();
@@ -515,7 +537,7 @@ document.addEventListener('DOMContentLoaded', () => {
             position: "left",
             stopOnFocus: false,
             style: {
-                background: type === 'success' ? '#008040' : '#ff0000',
+                background: type === 'success' ? '#36482e' : '#ff0000',
             },
             onClick: function(){}
         }).showToast();

@@ -51,6 +51,12 @@ pageRef = "series"
 weight = 26
 
 [[main]]
+name = "Free Loot"
+parent = "Publications"
+pageRef = "free-loot"
+weight = 28
+
+[[main]]
 name = "About Us"
 pageRef =  "about-us"
 weight = 30
