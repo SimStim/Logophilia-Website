@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5472684e-ca05-4289-9d23-bfd482c66916" name="Changes" comment="Free Loot" />
+    <list default="true" id="5472684e-ca05-4289-9d23-bfd482c66916" name="Changes" comment="phpList link on newsletter page">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/newsletter/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/newsletter/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +17,7 @@
     <execution />
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="3998" />
+    <option name="cachedIndexableFilesCount" value="4005" />
     <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
@@ -53,61 +56,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0059207678379312" />
-      <entry key="MS500" value="1.3584888120039569" />
-      <entry key="S2" value="1.7737824967711977" />
-      <entry key="S5" value="1.9025045845213568" />
-      <entry key="S10" value="1.9557420079143348" />
-      <entry key="S30" value="3.3712201247040086" />
-      <entry key="S60" value="9.822354870579488" />
-      <entry key="M2" value="25.331141355397058" />
-      <entry key="M5" value="54.4923039552151" />
-      <entry key="M10" value="80.0669684045317" />
-      <entry key="M15" value="100.22544286357696" />
-      <entry key="M30" value="144.1007836198683" />
-      <entry key="H1" value="187.68949383138153" />
-      <entry key="H2" value="221.71007702301353" />
-      <entry key="H4" value="249.26472729763628" />
-      <entry key="D1" value="296.66803410795904" />
-      <entry key="W1" value="310.4410311236408" />
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0001000099464998" />
+      <entry key="S2" value="1.4007460243854304" />
+      <entry key="S5" value="3.597897994321109" />
+      <entry key="S10" value="6.076141471199085" />
+      <entry key="S30" value="10.612661567854232" />
+      <entry key="S60" value="18.24251066953681" />
+      <entry key="M2" value="35.66571362077346" />
+      <entry key="M5" value="75.56429876505103" />
+      <entry key="M10" value="112.20290036793654" />
+      <entry key="M15" value="137.57561914180607" />
+      <entry key="M30" value="188.53411103327426" />
+      <entry key="H1" value="237.82779761972657" />
+      <entry key="H2" value="275.971580723115" />
+      <entry key="H4" value="306.0727025499294" />
+      <entry key="D1" value="356.0451230106392" />
+      <entry key="W1" value="370.3482984629556" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="1.7714512975023324E-293" />
-      <entry key="MS500" value="2.8162152335379686E-59" />
-      <entry key="S2" value="2.3036498125090927E-15" />
-      <entry key="S5" value="1.3962609252411758E-6" />
-      <entry key="S10" value="0.0011816350985695786" />
-      <entry key="S30" value="0.1063473865321352" />
-      <entry key="S60" value="0.35017611479861915" />
-      <entry key="M2" value="0.7284241941211694" />
-      <entry key="M5" value="1.2848365260510342" />
-      <entry key="M10" value="1.7529759852626292" />
-      <entry key="M15" value="2.2337447883503203" />
-      <entry key="M30" value="3.579287777153709" />
-      <entry key="H1" value="5.1332287597629245" />
-      <entry key="H2" value="6.522281927167184" />
-      <entry key="H4" value="8.23012712255342" />
-      <entry key="D1" value="13.001761087015236" />
-      <entry key="W1" value="14.678736224002877" />
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="1.7096380028916601E-199" />
+      <entry key="S2" value="2.0334150835360937E-50" />
+      <entry key="S5" value="1.3282823942068478E-20" />
+      <entry key="S10" value="1.1525115820910275E-10" />
+      <entry key="S30" value="4.895316701682702E-4" />
+      <entry key="S60" value="0.02375819846545243" />
+      <entry key="M2" value="0.1897351762947604" />
+      <entry key="M5" value="0.750158909510131" />
+      <entry key="M10" value="1.3394566575074365" />
+      <entry key="M15" value="1.8669614534747132" />
+      <entry key="M30" value="3.2722578399320947" />
+      <entry key="H1" value="4.908130128316348" />
+      <entry key="H2" value="6.377673648756616" />
+      <entry key="H4" value="8.13837890567731" />
+      <entry key="D1" value="12.977491163472708" />
+      <entry key="W1" value="14.674818764180845" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.9783740321620732" />
-      <entry key="MS500" value="1.3504827175724825" />
-      <entry key="S2" value="1.7710574610806096" />
-      <entry key="S5" value="1.9013257215225292" />
-      <entry key="S10" value="1.9560035867273018" />
-      <entry key="S30" value="3.463143337711754" />
-      <entry key="S60" value="10.14239060645567" />
-      <entry key="M2" value="26.022203155936275" />
-      <entry key="M5" value="55.74765865649682" />
-      <entry key="M10" value="81.79966776632418" />
-      <entry key="M15" value="102.44279244602617" />
-      <entry key="M30" value="147.66856448455843" />
-      <entry key="H1" value="192.81525772747315" />
-      <entry key="H2" value="228.2279519173945" />
-      <entry key="H4" value="257.49235962791204" />
-      <entry key="D1" value="309.6692813868735" />
-      <entry key="W1" value="325.11968948981803" />
+      <entry key="MS100" value="1.5621106670598563E-7" />
+      <entry key="MS500" value="0.043613243232368225" />
+      <entry key="S2" value="0.8466396800376743" />
+      <entry key="S5" value="3.3058015171579886" />
+      <entry key="S10" value="5.91060153774091" />
+      <entry key="S30" value="10.544131441800742" />
+      <entry key="S60" value="18.213519065742478" />
+      <entry key="M2" value="35.80658164844412" />
+      <entry key="M5" value="76.2746436573154" />
+      <entry key="M10" value="113.51386275087906" />
+      <entry key="M15" value="139.41977861314095" />
+      <entry key="M30" value="191.79106860920177" />
+      <entry key="H1" value="242.72633927114694" />
+      <entry key="H2" value="282.34370399049686" />
+      <entry key="H4" value="314.20799000037056" />
+      <entry key="D1" value="369.02199669379604" />
+      <entry key="W1" value="385.0230244291775" />
     </decayedShown>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="/usr/bin/php" />
@@ -271,14 +274,8 @@
       <workItem from="1780101965183" duration="2815000" />
       <workItem from="1780107811834" duration="5000" />
       <workItem from="1780284756905" duration="4509000" />
-    </task>
-    <task id="LOCAL-00045" summary="4Q2024">
-      <option name="closed" value="true" />
-      <created>1774500237673</created>
-      <option name="number" value="00045" />
-      <option name="presentableId" value="LOCAL-00045" />
-      <option name="project" value="LOCAL" />
-      <updated>1774500237673</updated>
+      <workItem from="1780301207827" duration="266000" />
+      <workItem from="1780302559088" duration="20000" />
     </task>
     <task id="LOCAL-00046" summary="git add submodule blowfish">
       <option name="closed" value="true" />
@@ -664,7 +661,15 @@
       <option name="project" value="LOCAL" />
       <updated>1780289371239</updated>
     </task>
-    <option name="localTasksCounter" value="94" />
+    <task id="LOCAL-00094" summary="phpList link on newsletter page">
+      <option name="closed" value="true" />
+      <created>1780301464275</created>
+      <option name="number" value="00094" />
+      <option name="presentableId" value="LOCAL-00094" />
+      <option name="project" value="LOCAL" />
+      <updated>1780301464276</updated>
+    </task>
+    <option name="localTasksCounter" value="95" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -690,7 +695,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/.." />
     </ignored-roots>
-    <MESSAGE value="tpsf-23, poul anderson illustration update" />
     <MESSAGE value="tpsf-23, stanley g weinbaum illustration update" />
     <MESSAGE value="tpsf-23, covers update" />
     <MESSAGE value="general fixes" />
@@ -715,6 +719,7 @@
     <MESSAGE value="tpsf-24; tpsf essentials" />
     <MESSAGE value="rpsf 1q2026 cover fix" />
     <MESSAGE value="Free Loot" />
-    <option name="LAST_COMMIT_MESSAGE" value="Free Loot" />
+    <MESSAGE value="phpList link on newsletter page" />
+    <option name="LAST_COMMIT_MESSAGE" value="phpList link on newsletter page" />
   </component>
 </project>
