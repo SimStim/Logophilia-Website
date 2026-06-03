@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5472684e-ca05-4289-9d23-bfd482c66916" name="Changes" comment="target fix" />
+    <list default="true" id="5472684e-ca05-4289-9d23-bfd482c66916" name="Changes" comment="free loot page points to mnemonics signup (phplist) now.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,61 +55,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0214928508079142" />
-      <entry key="MS500" value="1.489009374141876" />
-      <entry key="S2" value="2.2876334470752497" />
-      <entry key="S5" value="3.667594539817092" />
-      <entry key="S10" value="6.0761898385126125" />
-      <entry key="S30" value="11.57078920124157" />
-      <entry key="S60" value="19.42629759465768" />
-      <entry key="M2" value="36.86302649264458" />
-      <entry key="M5" value="77.02147136365957" />
-      <entry key="M10" value="114.05339364519189" />
-      <entry key="M15" value="139.6349438528098" />
-      <entry key="M30" value="190.88891625925314" />
-      <entry key="H1" value="240.42066879816335" />
-      <entry key="H2" value="278.7353165236151" />
-      <entry key="H4" value="308.9416742747251" />
-      <entry key="D1" value="359.0197191572866" />
-      <entry key="W1" value="373.34452358332544" />
+      <entry key="MS100" value="1.0112806968401793" />
+      <entry key="MS500" value="1.4129063087954965" />
+      <entry key="S2" value="2.90683410032758" />
+      <entry key="S5" value="6.240203014157945" />
+      <entry key="S10" value="9.155251452375099" />
+      <entry key="S30" value="15.259402531224227" />
+      <entry key="S60" value="23.932330343244033" />
+      <entry key="M2" value="41.65352012717733" />
+      <entry key="M5" value="84.37210466127463" />
+      <entry key="M10" value="125.30605837392682" />
+      <entry key="M15" value="153.0180012365012" />
+      <entry key="M30" value="207.3131390966327" />
+      <entry key="H1" value="259.2831150852892" />
+      <entry key="H2" value="299.33853346326066" />
+      <entry key="H4" value="330.61461856543303" />
+      <entry key="D1" value="381.76323581355115" />
+      <entry key="W1" value="396.3064446452957" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="0.0" />
-      <entry key="MS500" value="7.648937989526095E-205" />
-      <entry key="S2" value="9.351909275766644E-52" />
-      <entry key="S5" value="3.875788894753385E-21" />
-      <entry key="S10" value="6.225584717373768E-11" />
-      <entry key="S30" value="3.986811875971105E-4" />
-      <entry key="S60" value="0.02144055290759914" />
-      <entry key="M2" value="0.18024328441949963" />
-      <entry key="M5" value="0.7349161083772723" />
-      <entry key="M10" value="1.3257783192873847" />
-      <entry key="M15" value="1.8542296283484658" />
-      <entry key="M30" value="3.2610810996791564" />
-      <entry key="H1" value="4.899740841652829" />
-      <entry key="H2" value="6.372220755922755" />
-      <entry key="H4" value="8.134899016283509" />
-      <entry key="D1" value="12.976566157761201" />
-      <entry key="W1" value="14.674669332856352" />
+      <entry key="MS100" value="1.3855159093833991E-161" />
+      <entry key="MS500" value="6.73476278494177E-33" />
+      <entry key="S2" value="9.059006595485628E-9" />
+      <entry key="S5" value="6.065019902329681E-4" />
+      <entry key="S10" value="0.024627261119344192" />
+      <entry key="S30" value="0.2909947603875018" />
+      <entry key="S60" value="0.5472411653647552" />
+      <entry key="M2" value="0.8435040624536301" />
+      <entry key="M5" value="1.4850003529699565" />
+      <entry key="M10" value="2.1391984661174104" />
+      <entry key="M15" value="2.693794964212833" />
+      <entry key="M30" value="4.13332065574959" />
+      <entry key="H1" value="5.808150779480565" />
+      <entry key="H2" value="7.313966765049676" />
+      <entry key="H4" value="9.098350349171971" />
+      <entry key="D1" value="13.967087849479201" />
+      <entry key="W1" value="15.67314566361479" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.9470629681911373" />
-      <entry key="MS500" value="1.469114762360897" />
-      <entry key="S2" value="2.255242929949429" />
-      <entry key="S5" value="3.5791751684989928" />
-      <entry key="S10" value="5.985079193501947" />
-      <entry key="S30" value="11.51438974800583" />
-      <entry key="S60" value="19.39983712581686" />
-      <entry key="M2" value="36.996697963404756" />
-      <entry key="M5" value="77.71732251467694" />
-      <entry key="M10" value="115.35093866663493" />
-      <entry key="M15" value="141.46650698885284" />
-      <entry key="M30" value="194.13473934620518" />
-      <entry key="H1" value="245.31083254702534" />
-      <entry key="H2" value="285.1019891409262" />
-      <entry key="H4" value="317.07348190619064" />
-      <entry key="D1" value="371.9956676701602" />
-      <entry key="W1" value="388.0191000893698" />
+      <entry key="MS100" value="0.9634591657637083" />
+      <entry key="MS500" value="1.39981797800469" />
+      <entry key="S2" value="2.8995000273995983" />
+      <entry key="S5" value="6.233634058648207" />
+      <entry key="S10" value="9.170077615262821" />
+      <entry key="S30" value="15.515463866170931" />
+      <entry key="S60" value="24.43389191251761" />
+      <entry key="M2" value="42.44828542364096" />
+      <entry key="M5" value="85.81477622807719" />
+      <entry key="M10" value="127.41411248737666" />
+      <entry key="M15" value="155.68675916607745" />
+      <entry key="M30" value="211.42973380110155" />
+      <entry key="H1" value="265.08084956706654" />
+      <entry key="H2" value="306.6464959444788" />
+      <entry key="H4" value="339.70963841740564" />
+      <entry key="D1" value="395.72966432955894" />
+      <entry key="W1" value="411.9794914714791" />
     </decayedShown>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="/usr/bin/php" />
@@ -273,14 +275,7 @@
       <workItem from="1780284756905" duration="4509000" />
       <workItem from="1780301207827" duration="266000" />
       <workItem from="1780302559088" duration="45000" />
-    </task>
-    <task id="LOCAL-00047" summary="The Pitch Science Fiction 2024">
-      <option name="closed" value="true" />
-      <created>1774582066665</created>
-      <option name="number" value="00047" />
-      <option name="presentableId" value="LOCAL-00047" />
-      <option name="project" value="LOCAL" />
-      <updated>1774582066665</updated>
+      <workItem from="1780356817176" duration="728000" />
     </task>
     <task id="LOCAL-00048" summary="The Pitch Science Fiction 2024">
       <option name="closed" value="true" />
@@ -666,7 +661,15 @@
       <option name="project" value="LOCAL" />
       <updated>1780302595746</updated>
     </task>
-    <option name="localTasksCounter" value="96" />
+    <task id="LOCAL-00096" summary="free loot page points to mnemonics signup (phplist) now.">
+      <option name="closed" value="true" />
+      <created>1780356933454</created>
+      <option name="number" value="00096" />
+      <option name="presentableId" value="LOCAL-00096" />
+      <option name="project" value="LOCAL" />
+      <updated>1780356933455</updated>
+    </task>
+    <option name="localTasksCounter" value="97" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -692,7 +695,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/.." />
     </ignored-roots>
-    <MESSAGE value="tpsf-23, covers update" />
     <MESSAGE value="general fixes" />
     <MESSAGE value="fixed filename" />
     <MESSAGE value="fixed title Sam Merwin bio" />
@@ -717,6 +719,7 @@
     <MESSAGE value="Free Loot" />
     <MESSAGE value="phpList link on newsletter page" />
     <MESSAGE value="target fix" />
-    <option name="LAST_COMMIT_MESSAGE" value="target fix" />
+    <MESSAGE value="free loot page points to mnemonics signup (phplist) now." />
+    <option name="LAST_COMMIT_MESSAGE" value="free loot page points to mnemonics signup (phplist) now." />
   </component>
 </project>
