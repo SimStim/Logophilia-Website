@@ -4,22 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5472684e-ca05-4289-9d23-bfd482c66916" name="Changes" comment="Federation: introduction, bio">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/cookie-policy-eu/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/cookie-policy-eu/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/publications/the-pitch-science-fiction-1q2025--logophilia-essentials-.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/publications/the-pitch-science-fiction-1q2025--logophilia-essentials-.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/publications/the-pitch-science-fiction-1q2025.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/publications/the-pitch-science-fiction-1q2025.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/publications/the-pitch-science-fiction-1q2026--logophilia-essentials-.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/publications/the-pitch-science-fiction-1q2026--logophilia-essentials-.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/publications/the-pitch-science-fiction-1q2026.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/publications/the-pitch-science-fiction-1q2026.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/publications/the-pitch-science-fiction-2q2025--logophilia-essentials-.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/publications/the-pitch-science-fiction-2q2025--logophilia-essentials-.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/publications/the-pitch-science-fiction-2q2025.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/publications/the-pitch-science-fiction-2q2025.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/publications/the-pitch-science-fiction-3q2025--logophilia-essentials-.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/publications/the-pitch-science-fiction-3q2025--logophilia-essentials-.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/publications/the-pitch-science-fiction-3q2025.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/publications/the-pitch-science-fiction-3q2025.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/publications/the-pitch-science-fiction-4q2024--logophilia-essentials-.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/publications/the-pitch-science-fiction-4q2024--logophilia-essentials-.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/publications/the-pitch-science-fiction-4q2024.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/publications/the-pitch-science-fiction-4q2024.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/publications/the-pitch-science-fiction-4q2025--logophilia-essentials-.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/publications/the-pitch-science-fiction-4q2025--logophilia-essentials-.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/publications/the-pitch-science-fiction-4q2025.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/publications/the-pitch-science-fiction-4q2025.html" afterDir="false" />
-    </list>
+    <list default="true" id="5472684e-ca05-4289-9d23-bfd482c66916" name="Changes" comment="youtube playlists for some publications" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -68,61 +53,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0000000000066775" />
-      <entry key="MS500" value="1.0152395726566634" />
-      <entry key="S2" value="1.9974803894109137" />
-      <entry key="S5" value="3.565653816738779" />
-      <entry key="S10" value="4.77594256708834" />
-      <entry key="S30" value="6.088387431224814" />
-      <entry key="S60" value="6.517601620406984" />
-      <entry key="M2" value="6.751664603225306" />
-      <entry key="M5" value="6.900364913933818" />
-      <entry key="M10" value="7.475896202210677" />
-      <entry key="M15" value="10.961379443831152" />
-      <entry key="M30" value="40.58634992552894" />
-      <entry key="H1" value="111.68130567267373" />
-      <entry key="H2" value="197.7398854553827" />
-      <entry key="H4" value="271.6281897910255" />
-      <entry key="D1" value="376.41341340834026" />
-      <entry key="W1" value="403.1438798119002" />
+      <entry key="MS100" value="1.018903088542221" />
+      <entry key="MS500" value="1.784945572913959" />
+      <entry key="S2" value="3.9372767402237465" />
+      <entry key="S5" value="5.729740435700152" />
+      <entry key="S10" value="6.708719454368541" />
+      <entry key="S30" value="7.528428424179445" />
+      <entry key="S60" value="7.7587503228609975" />
+      <entry key="M2" value="7.909926260223193" />
+      <entry key="M5" value="8.76272863501217" />
+      <entry key="M10" value="10.539750237509695" />
+      <entry key="M15" value="13.354872616378463" />
+      <entry key="M30" value="36.40287536373698" />
+      <entry key="H1" value="101.4362578812497" />
+      <entry key="H2" value="188.86993437363634" />
+      <entry key="H4" value="267.7835467044032" />
+      <entry key="D1" value="381.6267643007209" />
+      <entry key="W1" value="410.7161600098335" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
       <entry key="MS500" value="0.0" />
       <entry key="S2" value="0.0" />
-      <entry key="S5" value="6.219279770293587E-290" />
-      <entry key="S10" value="2.4938483856019406E-145" />
-      <entry key="S30" value="6.295590621965861E-49" />
-      <entry key="S60" value="8.049231430427175E-25" />
-      <entry key="M2" value="1.0229985218774765E-12" />
-      <entry key="M5" value="2.542387168293033E-5" />
-      <entry key="M10" value="0.008851332270291279" />
-      <entry key="M15" value="0.06942825454675239" />
-      <entry key="M30" value="0.6635672653605996" />
-      <entry key="H1" value="2.3271844680243867" />
-      <entry key="H2" value="4.6296637154806" />
-      <entry key="H4" value="7.2387051653409324" />
-      <entry key="D1" value="13.444837888536593" />
-      <entry key="W1" value="15.588051862888276" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="3.283559084804583E-173" />
+      <entry key="S30" value="3.202787139484185E-58" />
+      <entry key="S60" value="1.8155165508795076E-29" />
+      <entry key="M2" value="4.858451875386707E-15" />
+      <entry key="M5" value="2.991512676891478E-6" />
+      <entry key="M10" value="0.0030362199101860994" />
+      <entry key="M15" value="0.03402143544697925" />
+      <entry key="M30" value="0.46450794523372174" />
+      <entry key="H1" value="1.947084978825998" />
+      <entry key="H2" value="4.2347374991611115" />
+      <entry key="H4" value="6.923080989123641" />
+      <entry key="D1" value="13.345309720635608" />
+      <entry key="W1" value="15.571514501174926" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="7.619205390611397E-5" />
-      <entry key="MS500" value="0.16277387702327087" />
-      <entry key="S2" value="1.572630296670394" />
-      <entry key="S5" value="3.3477556799638712" />
-      <entry key="S10" value="4.655191820239066" />
-      <entry key="S30" value="6.0449643706628065" />
-      <entry key="S60" value="6.495451302970055" />
-      <entry key="M2" value="6.740476214915598" />
-      <entry key="M5" value="6.895886612408467" />
-      <entry key="M10" value="7.482362459268837" />
-      <entry key="M15" value="11.02865701670797" />
-      <entry key="M30" value="41.24647810120086" />
-      <entry key="H1" value="114.00393890848333" />
-      <entry key="H2" value="202.3655593616181" />
-      <entry key="H4" value="278.864150501329" />
-      <entry key="D1" value="389.8576008165814" />
-      <entry key="W1" value="418.731831116287" />
+      <entry key="MS100" value="0.9840694423889487" />
+      <entry key="MS500" value="1.7716780473161473" />
+      <entry key="S2" value="3.929750800676755" />
+      <entry key="S5" value="5.725316832327022" />
+      <entry key="S10" value="6.706117847422257" />
+      <entry key="S30" value="7.527451842307921" />
+      <entry key="S60" value="7.758246132468354" />
+      <entry key="M2" value="7.909617285675886" />
+      <entry key="M5" value="8.762098380838765" />
+      <entry key="M10" value="10.541916498486275" />
+      <entry key="M15" value="13.387805584690993" />
+      <entry key="M30" value="36.864958579622055" />
+      <entry key="H1" value="103.37952632175949" />
+      <entry key="H2" value="193.1010180769651" />
+      <entry key="H4" value="274.7040007372371" />
+      <entry key="D1" value="394.9714279953686" />
+      <entry key="W1" value="426.28757400761623" />
     </decayedShown>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="/usr/bin/php" />
@@ -291,15 +276,7 @@
       <workItem from="1780356817176" duration="728000" />
       <workItem from="1780462080074" duration="728000" />
       <workItem from="1780526935705" duration="41000" />
-      <workItem from="1780535291831" duration="3489000" />
-    </task>
-    <task id="LOCAL-00050" summary="The Pitch Science Fiction 2024">
-      <option name="closed" value="true" />
-      <created>1774584660766</created>
-      <option name="number" value="00050" />
-      <option name="presentableId" value="LOCAL-00050" />
-      <option name="project" value="LOCAL" />
-      <updated>1774584660766</updated>
+      <workItem from="1780535291831" duration="3522000" />
     </task>
     <task id="LOCAL-00051" summary="The Pitch Science Fiction 1Q2025">
       <option name="closed" value="true" />
@@ -685,7 +662,15 @@
       <option name="project" value="LOCAL" />
       <updated>1780466879234</updated>
     </task>
-    <option name="localTasksCounter" value="99" />
+    <task id="LOCAL-00099" summary="youtube playlists for some publications">
+      <option name="closed" value="true" />
+      <created>1780541647789</created>
+      <option name="number" value="00099" />
+      <option name="presentableId" value="LOCAL-00099" />
+      <option name="project" value="LOCAL" />
+      <updated>1780541647790</updated>
+    </task>
+    <option name="localTasksCounter" value="100" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -711,7 +696,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/.." />
     </ignored-roots>
-    <MESSAGE value="fixed title Sam Merwin bio" />
     <MESSAGE value="updates bio illustrations" />
     <MESSAGE value="tom godwin illustration" />
     <MESSAGE value="illustration updates" />
@@ -736,6 +720,7 @@
     <MESSAGE value="free loot page points to mnemonics signup (phplist) now." />
     <MESSAGE value="Federation" />
     <MESSAGE value="Federation: introduction, bio" />
-    <option name="LAST_COMMIT_MESSAGE" value="Federation: introduction, bio" />
+    <MESSAGE value="youtube playlists for some publications" />
+    <option name="LAST_COMMIT_MESSAGE" value="youtube playlists for some publications" />
   </component>
 </project>
