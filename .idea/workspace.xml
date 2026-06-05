@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="5472684e-ca05-4289-9d23-bfd482c66916" name="Changes" comment="new cookie monster to match house style">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/cookie-policy-eu/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/cookie-policy-eu/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,61 +56,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0380139049754966" />
-      <entry key="MS500" value="2.1964435989985907" />
-      <entry key="S2" value="5.419246939433571" />
-      <entry key="S5" value="8.281127960069838" />
-      <entry key="S10" value="10.500593589462827" />
-      <entry key="S30" value="15.50290831913237" />
-      <entry key="S60" value="18.465641648421997" />
-      <entry key="M2" value="20.5134244940051" />
-      <entry key="M5" value="22.670422316174545" />
-      <entry key="M10" value="24.903548565963955" />
-      <entry key="M15" value="27.844088886165544" />
-      <entry key="M30" value="50.80057898496573" />
-      <entry key="H1" value="115.645312460116" />
-      <entry key="H2" value="203.14459662017575" />
-      <entry key="H4" value="282.2718705590391" />
-      <entry key="D1" value="396.5056448002756" />
-      <entry key="W1" value="425.69754888559675" />
+      <entry key="MS100" value="1.0005247164972073" />
+      <entry key="MS500" value="1.481353756357537" />
+      <entry key="S2" value="4.707874433206269" />
+      <entry key="S5" value="8.114820149987843" />
+      <entry key="S10" value="10.733097312769575" />
+      <entry key="S30" value="16.115606720640407" />
+      <entry key="S60" value="19.233523696460846" />
+      <entry key="M2" value="21.38408719835616" />
+      <entry key="M5" value="23.613138931361558" />
+      <entry key="M10" value="25.87206565333794" />
+      <entry key="M15" value="28.820617055218833" />
+      <entry key="M30" value="51.77916269802006" />
+      <entry key="H1" value="116.62093326672412" />
+      <entry key="H2" value="204.12318303090464" />
+      <entry key="H4" value="283.2569929465029" />
+      <entry key="D1" value="397.5021616412357" />
+      <entry key="W1" value="426.69701465510184" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
       <entry key="MS500" value="0.0" />
       <entry key="S2" value="0.0" />
       <entry key="S5" value="0.0" />
-      <entry key="S10" value="2.1730005059215916E-174" />
-      <entry key="S30" value="1.2954870418381542E-58" />
-      <entry key="S60" value="1.1546562511451485E-29" />
-      <entry key="M2" value="3.874575737393973E-15" />
-      <entry key="M5" value="2.732633242898039E-6" />
-      <entry key="M10" value="0.002901873481272748" />
-      <entry key="M15" value="0.03301029966542834" />
-      <entry key="M30" value="0.45755316462869805" />
-      <entry key="H1" value="1.9324537768540981" />
-      <entry key="H2" value="4.218796711607549" />
-      <entry key="H4" value="6.910038455149555" />
-      <entry key="D1" value="13.341116177281263" />
-      <entry key="W1" value="15.570815393952387" />
+      <entry key="S10" value="2.0141742659249353E-174" />
+      <entry key="S30" value="1.2631225208204858E-58" />
+      <entry key="S60" value="1.1401419196457147E-29" />
+      <entry key="M2" value="3.850146508241717E-15" />
+      <entry key="M5" value="2.7257284539434018E-6" />
+      <entry key="M10" value="0.002898204950700863" />
+      <entry key="M15" value="0.03298247285534973" />
+      <entry key="M30" value="0.45736027135735385" />
+      <entry key="H1" value="1.9320463961886427" />
+      <entry key="H2" value="4.2183520058092965" />
+      <entry key="H4" value="6.909674249979049" />
+      <entry key="D1" value="13.3409989803888" />
+      <entry key="W1" value="15.570795853308011" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.9827267962663547" />
-      <entry key="MS500" value="2.174324099340755" />
-      <entry key="S2" value="5.390198589371315" />
-      <entry key="S5" value="8.255525760615406" />
-      <entry key="S10" value="10.473421076773336" />
-      <entry key="S30" value="15.474580907855751" />
-      <entry key="S60" value="18.44528696088324" />
-      <entry key="M2" value="20.501082645009088" />
-      <entry key="M5" value="22.664416897559406" />
-      <entry key="M10" value="24.902796747246594" />
-      <entry key="M15" value="27.87413703010287" />
-      <entry key="M30" value="51.254778250712974" />
-      <entry key="H1" value="117.57349249374707" />
-      <entry key="H2" value="207.35950955687653" />
-      <entry key="H4" value="289.17916494206617" />
-      <entry key="D1" value="409.8460947828506" />
-      <entry key="W1" value="441.26826086974717" />
+      <entry key="MS100" value="0.001002269289909641" />
+      <entry key="MS500" value="0.6956576666983689" />
+      <entry key="S2" value="4.372204152615567" />
+      <entry key="S5" value="7.951984499923449" />
+      <entry key="S10" value="10.634820107948688" />
+      <entry key="S30" value="16.063004486919088" />
+      <entry key="S60" value="19.200854610760018" />
+      <entry key="M2" value="21.365518157293124" />
+      <entry key="M5" value="23.60462189768635" />
+      <entry key="M10" value="25.870050591227788" />
+      <entry key="M15" value="28.849796895797397" />
+      <entry key="M30" value="52.2327489087712" />
+      <entry key="H1" value="118.54849601059387" />
+      <entry key="H2" value="208.3375462606205" />
+      <entry key="H4" value="290.1638705623126" />
+      <entry key="D1" value="410.84248564813134" />
+      <entry key="W1" value="442.2677058437844" />
     </decayedShown>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="/usr/bin/php" />
@@ -282,14 +283,8 @@
       <workItem from="1780547284729" duration="75000" />
       <workItem from="1780630634445" duration="203000" />
       <workItem from="1780631930535" duration="7000" />
-    </task>
-    <task id="LOCAL-00054" summary="The Pitch Science Fiction 4Q2025, 2025">
-      <option name="closed" value="true" />
-      <created>1775011872033</created>
-      <option name="number" value="00054" />
-      <option name="presentableId" value="LOCAL-00054" />
-      <option name="project" value="LOCAL" />
-      <updated>1775011872033</updated>
+      <workItem from="1780631969381" duration="23000" />
+      <workItem from="1780632131817" duration="10000" />
     </task>
     <task id="LOCAL-00055" summary="publication covers, initial">
       <option name="closed" value="true" />
@@ -675,7 +670,15 @@
       <option name="project" value="LOCAL" />
       <updated>1780631602006</updated>
     </task>
-    <option name="localTasksCounter" value="103" />
+    <task id="LOCAL-00103" summary="new cookie monster to match house style">
+      <option name="closed" value="true" />
+      <created>1780631979836</created>
+      <option name="number" value="00103" />
+      <option name="presentableId" value="LOCAL-00103" />
+      <option name="project" value="LOCAL" />
+      <updated>1780631979836</updated>
+    </task>
+    <option name="localTasksCounter" value="104" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
