@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5472684e-ca05-4289-9d23-bfd482c66916" name="Changes" comment="youtube playlists for some publications" />
+    <list default="true" id="5472684e-ca05-4289-9d23-bfd482c66916" name="Changes" comment="youtube playlists for some publications; yourls now" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +14,7 @@
     <execution />
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="4022" />
+    <option name="cachedIndexableFilesCount" value="4084" />
     <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
@@ -277,14 +277,7 @@
       <workItem from="1780462080074" duration="728000" />
       <workItem from="1780526935705" duration="41000" />
       <workItem from="1780535291831" duration="3522000" />
-    </task>
-    <task id="LOCAL-00051" summary="The Pitch Science Fiction 1Q2025">
-      <option name="closed" value="true" />
-      <created>1774762647891</created>
-      <option name="number" value="00051" />
-      <option name="presentableId" value="LOCAL-00051" />
-      <option name="project" value="LOCAL" />
-      <updated>1774762647892</updated>
+      <workItem from="1780547284729" duration="75000" />
     </task>
     <task id="LOCAL-00052" summary="The Pitch Science Fiction 2Q2025">
       <option name="closed" value="true" />
@@ -670,7 +663,15 @@
       <option name="project" value="LOCAL" />
       <updated>1780541647790</updated>
     </task>
-    <option name="localTasksCounter" value="100" />
+    <task id="LOCAL-00100" summary="youtube playlists for some publications; yourls now">
+      <option name="closed" value="true" />
+      <created>1780547304536</created>
+      <option name="number" value="00100" />
+      <option name="presentableId" value="LOCAL-00100" />
+      <option name="project" value="LOCAL" />
+      <updated>1780547304537</updated>
+    </task>
+    <option name="localTasksCounter" value="101" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -696,7 +697,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/.." />
     </ignored-roots>
-    <MESSAGE value="updates bio illustrations" />
     <MESSAGE value="tom godwin illustration" />
     <MESSAGE value="illustration updates" />
     <MESSAGE value="Ishtar's Bride" />
@@ -721,6 +721,7 @@
     <MESSAGE value="Federation" />
     <MESSAGE value="Federation: introduction, bio" />
     <MESSAGE value="youtube playlists for some publications" />
-    <option name="LAST_COMMIT_MESSAGE" value="youtube playlists for some publications" />
+    <MESSAGE value="youtube playlists for some publications; yourls now" />
+    <option name="LAST_COMMIT_MESSAGE" value="youtube playlists for some publications; yourls now" />
   </component>
 </project>
