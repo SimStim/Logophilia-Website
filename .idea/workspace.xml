@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5472684e-ca05-4289-9d23-bfd482c66916" name="Changes" comment="Federation: blurbs; Auf zwei Planeten initial" />
+    <list default="true" id="5472684e-ca05-4289-9d23-bfd482c66916" name="Changes" comment="Auf zwei Planeten new cover">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/layouts/partials/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/layouts/partials/footer.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +17,7 @@
     <execution />
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="4087" />
+    <option name="cachedIndexableFilesCount" value="4107" />
     <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
@@ -283,14 +286,9 @@
       <workItem from="1780631969381" duration="23000" />
       <workItem from="1780632131817" duration="10000" />
       <workItem from="1780636928147" duration="276000" />
-    </task>
-    <task id="LOCAL-00056" summary="der tunnel, fixes">
-      <option name="closed" value="true" />
-      <created>1775270374558</created>
-      <option name="number" value="00056" />
-      <option name="presentableId" value="LOCAL-00056" />
-      <option name="project" value="LOCAL" />
-      <updated>1775270374558</updated>
+      <workItem from="1780785168544" duration="648000" />
+      <workItem from="1780798681795" duration="13000" />
+      <workItem from="1781137237774" duration="436000" />
     </task>
     <task id="LOCAL-00057" summary="der tunnel, illustrations, fixes">
       <option name="closed" value="true" />
@@ -676,7 +674,15 @@
       <option name="project" value="LOCAL" />
       <updated>1780637195245</updated>
     </task>
-    <option name="localTasksCounter" value="105" />
+    <task id="LOCAL-00105" summary="Auf zwei Planeten new cover">
+      <option name="closed" value="true" />
+      <created>1780785192736</created>
+      <option name="number" value="00105" />
+      <option name="presentableId" value="LOCAL-00105" />
+      <option name="project" value="LOCAL" />
+      <updated>1780785192737</updated>
+    </task>
+    <option name="localTasksCounter" value="106" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -702,7 +708,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/.." />
     </ignored-roots>
-    <MESSAGE value="Ishtar's Bride" />
     <MESSAGE value="Ishtar's Bride, blurb" />
     <MESSAGE value="Transcendence publication" />
     <MESSAGE value="Transcendence updates" />
@@ -727,6 +732,7 @@
     <MESSAGE value="youtube playlists for some publications; yourls now" />
     <MESSAGE value="new cookie monster to match house style" />
     <MESSAGE value="Federation: blurbs; Auf zwei Planeten initial" />
-    <option name="LAST_COMMIT_MESSAGE" value="Federation: blurbs; Auf zwei Planeten initial" />
+    <MESSAGE value="Auf zwei Planeten new cover" />
+    <option name="LAST_COMMIT_MESSAGE" value="Auf zwei Planeten new cover" />
   </component>
 </project>
