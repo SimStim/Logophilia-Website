@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5472684e-ca05-4289-9d23-bfd482c66916" name="Changes" comment="OST downloads added" />
+    <list default="true" id="5472684e-ca05-4289-9d23-bfd482c66916" name="Changes" comment="issn fix">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/free-loot/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/free-loot/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,61 +56,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.017457926129417" />
-      <entry key="MS500" value="1.5024147942116637" />
-      <entry key="S2" value="2.919007575083801" />
-      <entry key="S5" value="4.260576967923704" />
-      <entry key="S10" value="5.039308579749349" />
-      <entry key="S30" value="7.663074751496529" />
-      <entry key="S60" value="13.530300364608262" />
-      <entry key="M2" value="24.48847425849968" />
-      <entry key="M5" value="44.697092733323935" />
-      <entry key="M10" value="59.4442710988116" />
-      <entry key="M15" value="67.61517578062535" />
-      <entry key="M30" value="94.21443607187732" />
-      <entry key="H1" value="159.38978023361693" />
-      <entry key="H2" value="248.94466384087053" />
-      <entry key="H4" value="331.31337114425077" />
-      <entry key="D1" value="450.89727936835317" />
-      <entry key="W1" value="481.4514040399093" />
+      <entry key="MS100" value="1.0111429993272276" />
+      <entry key="MS500" value="1.5629755837198853" />
+      <entry key="S2" value="2.5431372314299585" />
+      <entry key="S5" value="3.317755292381187" />
+      <entry key="S10" value="4.248032455461386" />
+      <entry key="S30" value="7.8472656197297805" />
+      <entry key="S60" value="13.674559120735271" />
+      <entry key="M2" value="24.8431773582616" />
+      <entry key="M5" value="46.60740757018832" />
+      <entry key="M10" value="62.998999184309156" />
+      <entry key="M15" value="71.98774531969204" />
+      <entry key="M30" value="99.38077067592707" />
+      <entry key="H1" value="164.84391564825523" />
+      <entry key="H2" value="254.7396935821235" />
+      <entry key="H4" value="337.5120919261137" />
+      <entry key="D1" value="457.71562408552063" />
+      <entry key="W1" value="488.4236974149347" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
       <entry key="MS500" value="0.0" />
       <entry key="S2" value="0.0" />
       <entry key="S5" value="0.0" />
-      <entry key="S10" value="8.502634565728743E-189" />
-      <entry key="S30" value="2.0414134357984125E-63" />
-      <entry key="S60" value="4.5835466820184806E-32" />
-      <entry key="M2" value="2.4411733966164523E-16" />
-      <entry key="M5" value="9.043387427566097E-7" />
-      <entry key="M10" value="0.0016693729363289078" />
-      <entry key="M15" value="0.02283316228371158" />
-      <entry key="M30" value="0.3805396038362216" />
-      <entry key="H1" value="1.7623341777566688" />
-      <entry key="H2" value="4.028822866641641" />
-      <entry key="H4" value="6.75266572572491" />
-      <entry key="D1" value="13.289989280907353" />
-      <entry key="W1" value="15.562276827232544" />
+      <entry key="S10" value="2.6539441828762105E-190" />
+      <entry key="S30" value="6.427524277517096E-64" />
+      <entry key="S60" value="2.57192344458711E-32" />
+      <entry key="M2" value="1.828634114917923E-16" />
+      <entry key="M5" value="8.05642581761602E-7" />
+      <entry key="M10" value="0.0015756472881778697" />
+      <entry key="M15" value="0.021970325366538288" />
+      <entry key="M30" value="0.3732803033061012" />
+      <entry key="H1" value="1.7454438006981055" />
+      <entry key="H2" value="4.009470075997463" />
+      <entry key="H4" value="6.73642770222628" />
+      <entry key="D1" value="13.284657566747137" />
+      <entry key="W1" value="15.561384771462272" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.9692690818418184" />
-      <entry key="MS500" value="1.4878838241738441" />
-      <entry key="S2" value="2.911601111208227" />
-      <entry key="S5" value="4.25613209785201" />
-      <entry key="S10" value="5.036574556471617" />
-      <entry key="S30" value="7.658369442387777" />
-      <entry key="S60" value="13.517524674798565" />
-      <entry key="M2" value="24.469200905102422" />
-      <entry key="M5" value="44.67979858837717" />
-      <entry key="M10" value="59.43386925879947" />
-      <entry key="M15" value="67.62867853618799" />
-      <entry key="M30" value="94.58819058424766" />
-      <entry key="H1" value="161.14612247791501" />
-      <entry key="H2" value="252.9687054098609" />
-      <entry key="H4" value="338.06281264974626" />
-      <entry key="D1" value="464.18651366101267" />
-      <entry key="W1" value="497.01356444218686" />
+      <entry key="MS100" value="0.021515818504864923" />
+      <entry key="MS500" value="0.9614791239476237" />
+      <entry key="S2" value="2.3357931885626977" />
+      <entry key="S5" value="3.224951179498301" />
+      <entry key="S10" value="4.1934954553090185" />
+      <entry key="S30" value="7.817496349002862" />
+      <entry key="S60" value="13.649623195680265" />
+      <entry key="M2" value="24.81853730232711" />
+      <entry key="M5" value="46.58753031117862" />
+      <entry key="M10" value="62.98687403547646" />
+      <entry key="M15" value="71.99918303208575" />
+      <entry key="M30" value="99.74660948808595" />
+      <entry key="H1" value="166.5830298877262" />
+      <entry key="H2" value="258.7442072623109" />
+      <entry key="H4" value="344.2452039936272" />
+      <entry key="D1" value="470.99951042017517" />
+      <entry key="W1" value="503.9849634038362" />
     </decayedShown>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="/usr/bin/php" />
@@ -288,14 +291,8 @@
       <workItem from="1781137237774" duration="467000" />
       <workItem from="1781142173304" duration="119000" />
       <workItem from="1781413950246" duration="253000" />
-    </task>
-    <task id="LOCAL-00060" summary="tpsf-21">
-      <option name="closed" value="true" />
-      <created>1777242619327</created>
-      <option name="number" value="00060" />
-      <option name="presentableId" value="LOCAL-00060" />
-      <option name="project" value="LOCAL" />
-      <updated>1777242619328</updated>
+      <workItem from="1781414376347" duration="95000" />
+      <workItem from="1781471245858" duration="43000" />
     </task>
     <task id="LOCAL-00061" summary="tpsf-21, cover fix">
       <option name="closed" value="true" />
@@ -681,7 +678,15 @@
       <option name="project" value="LOCAL" />
       <updated>1781414195359</updated>
     </task>
-    <option name="localTasksCounter" value="109" />
+    <task id="LOCAL-00109" summary="issn fix">
+      <option name="closed" value="true" />
+      <created>1781414463022</created>
+      <option name="number" value="00109" />
+      <option name="presentableId" value="LOCAL-00109" />
+      <option name="project" value="LOCAL" />
+      <updated>1781414463023</updated>
+    </task>
+    <option name="localTasksCounter" value="110" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -707,7 +712,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/.." />
     </ignored-roots>
-    <MESSAGE value="Transcendence ost link added" />
     <MESSAGE value="Hubris; fixes" />
     <MESSAGE value="fixes" />
     <MESSAGE value="Snow on a Summer Night" />
@@ -732,6 +736,7 @@
     <MESSAGE value="New bank account in footer" />
     <MESSAGE value="Daria Skrinitsa new portrait" />
     <MESSAGE value="OST downloads added" />
-    <option name="LAST_COMMIT_MESSAGE" value="OST downloads added" />
+    <MESSAGE value="issn fix" />
+    <option name="LAST_COMMIT_MESSAGE" value="issn fix" />
   </component>
 </project>
