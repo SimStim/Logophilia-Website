@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5472684e-ca05-4289-9d23-bfd482c66916" name="Changes" comment="New bank account in footer" />
+    <list default="true" id="5472684e-ca05-4289-9d23-bfd482c66916" name="Changes" comment="Daria Skrinitsa new portrait" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,61 +53,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0" />
-      <entry key="MS500" value="1.0003304023947348" />
-      <entry key="S2" value="1.4978733767807482" />
-      <entry key="S5" value="3.3871978160371508" />
-      <entry key="S10" value="5.074358892486425" />
-      <entry key="S30" value="6.891954412744458" />
-      <entry key="S60" value="8.648906064873454" />
-      <entry key="M2" value="14.068711096588196" />
-      <entry key="M5" value="25.32148790839028" />
-      <entry key="M10" value="33.43385513123284" />
-      <entry key="M15" value="38.64605552531419" />
-      <entry key="M30" value="62.70198743637676" />
-      <entry key="H1" value="127.16402731488871" />
-      <entry key="H2" value="215.5696781078206" />
-      <entry key="H4" value="296.42297828174065" />
-      <entry key="D1" value="413.608272292961" />
-      <entry key="W1" value="443.5600104619354" />
+      <entry key="MS100" value="1.0330327026232464" />
+      <entry key="MS500" value="1.962020057454163" />
+      <entry key="S2" value="3.5321549795460676" />
+      <entry key="S5" value="5.644055870863501" />
+      <entry key="S10" value="7.541178409724717" />
+      <entry key="S30" value="9.655004115884434" />
+      <entry key="S60" value="11.503177280695237" />
+      <entry key="M2" value="16.954696814373555" />
+      <entry key="M5" value="28.241748045837973" />
+      <entry key="M10" value="36.38167844039059" />
+      <entry key="M15" value="41.60600238127999" />
+      <entry key="M30" value="65.66981448353184" />
+      <entry key="H1" value="130.1316692974572" />
+      <entry key="H2" value="218.5423410601494" />
+      <entry key="H4" value="299.40420721882606" />
+      <entry key="D1" value="416.6039112051308" />
+      <entry key="W1" value="446.55934244393455" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
       <entry key="MS500" value="0.0" />
       <entry key="S2" value="0.0" />
       <entry key="S5" value="0.0" />
-      <entry key="S10" value="1.0937729356084808E-182" />
-      <entry key="S30" value="2.2201834202787625E-61" />
-      <entry key="S60" value="4.780029776905505E-31" />
-      <entry key="M2" value="7.883391596017027E-16" />
-      <entry key="M5" value="1.4453629750383348E-6" />
-      <entry key="M10" value="0.002110455808758387" />
-      <entry key="M15" value="0.026696110600458633" />
-      <entry key="M30" value="0.41147251064594775" />
-      <entry key="H1" value="1.8325622927187857" />
-      <entry key="H2" value="4.108311967045883" />
-      <entry key="H4" value="6.818955749300272" />
-      <entry key="D1" value="13.311645212188328" />
-      <entry key="W1" value="15.565896957837923" />
+      <entry key="S10" value="9.987622993816096E-183" />
+      <entry key="S30" value="2.1539412045587334E-61" />
+      <entry key="S60" value="4.7081804171657095E-31" />
+      <entry key="M2" value="7.823919031232946E-16" />
+      <entry key="M5" value="1.4409915177546114E-6" />
+      <entry key="M10" value="0.002107261886570563" />
+      <entry key="M15" value="0.026669169557495216" />
+      <entry key="M30" value="0.411264834386151" />
+      <entry key="H1" value="1.832099773709473" />
+      <entry key="H2" value="4.107793487456022" />
+      <entry key="H4" value="6.818525450802673" />
+      <entry key="D1" value="13.311505207086917" />
+      <entry key="W1" value="15.565873569993556" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="1.7256189562047356E-18" />
-      <entry key="MS500" value="6.063792711801645E-4" />
-      <entry key="S2" value="0.6260215902218164" />
-      <entry key="S5" value="2.826204282086576" />
-      <entry key="S10" value="4.736714418458936" />
-      <entry key="S30" value="6.763414049451114" />
-      <entry key="S60" value="8.5804825040253" />
-      <entry key="M2" value="14.029669848059093" />
-      <entry key="M5" value="25.30186698212863" />
-      <entry key="M10" value="33.42455334115188" />
-      <entry key="M15" value="38.664375360481934" />
-      <entry key="M30" value="63.107373835521805" />
-      <entry key="H1" value="128.990980325346" />
-      <entry key="H2" value="219.6734242113799" />
-      <entry key="H4" value="303.23883280978674" />
-      <entry key="D1" value="426.91918702940893" />
-      <entry key="W1" value="459.12579464448123" />
+      <entry key="MS100" value="0.7713178437717247" />
+      <entry key="MS500" value="1.5579131568032463" />
+      <entry key="S2" value="2.8375001992937707" />
+      <entry key="S5" value="5.108062850134423" />
+      <entry key="S10" value="7.196484426741719" />
+      <entry key="S30" value="9.517637636179922" />
+      <entry key="S60" value="11.429382618852786" />
+      <entry key="M2" value="16.912732907765964" />
+      <entry key="M5" value="28.22089539293784" />
+      <entry key="M10" value="36.3717444918138" />
+      <entry key="M15" value="41.62387274889446" />
+      <entry key="M30" value="66.07478071037951" />
+      <entry key="H1" value="131.95805340123525" />
+      <entry key="H2" value="222.6455153537711" />
+      <entry key="H4" value="306.21960468956706" />
+      <entry key="D1" value="429.9146814515734" />
+      <entry key="W1" value="462.12510259700315" />
     </decayedShown>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="/usr/bin/php" />
@@ -286,14 +286,7 @@
       <workItem from="1780785168544" duration="648000" />
       <workItem from="1780798681795" duration="13000" />
       <workItem from="1781137237774" duration="467000" />
-    </task>
-    <task id="LOCAL-00058" summary="der tunnel, fixes">
-      <option name="closed" value="true" />
-      <created>1776761307368</created>
-      <option name="number" value="00058" />
-      <option name="presentableId" value="LOCAL-00058" />
-      <option name="project" value="LOCAL" />
-      <updated>1776761307368</updated>
+      <workItem from="1781142173304" duration="119000" />
     </task>
     <task id="LOCAL-00059" summary="der tunnel, launch version">
       <option name="closed" value="true" />
@@ -679,7 +672,15 @@
       <option name="project" value="LOCAL" />
       <updated>1781137690496</updated>
     </task>
-    <option name="localTasksCounter" value="107" />
+    <task id="LOCAL-00107" summary="Daria Skrinitsa new portrait">
+      <option name="closed" value="true" />
+      <created>1781142212893</created>
+      <option name="number" value="00107" />
+      <option name="presentableId" value="LOCAL-00107" />
+      <option name="project" value="LOCAL" />
+      <updated>1781142212894</updated>
+    </task>
+    <option name="localTasksCounter" value="108" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -705,7 +706,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/.." />
     </ignored-roots>
-    <MESSAGE value="Transcendence publication" />
     <MESSAGE value="Transcendence updates" />
     <MESSAGE value="Transcendence ost link added" />
     <MESSAGE value="Hubris; fixes" />
@@ -730,6 +730,7 @@
     <MESSAGE value="Federation: blurbs; Auf zwei Planeten initial" />
     <MESSAGE value="Auf zwei Planeten new cover" />
     <MESSAGE value="New bank account in footer" />
-    <option name="LAST_COMMIT_MESSAGE" value="New bank account in footer" />
+    <MESSAGE value="Daria Skrinitsa new portrait" />
+    <option name="LAST_COMMIT_MESSAGE" value="Daria Skrinitsa new portrait" />
   </component>
 </project>
