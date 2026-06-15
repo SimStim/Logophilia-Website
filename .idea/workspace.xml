@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5472684e-ca05-4289-9d23-bfd482c66916" name="Changes" comment="OST 2024, 2025 added to free loot">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="5472684e-ca05-4289-9d23-bfd482c66916" name="Changes" comment="Kurd Laßwitz biography">
+      <change beforePath="$PROJECT_DIR$/content/authors/kurd-lasswitz.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/authors/kurd-lasswitz.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,7 +16,7 @@
     <execution />
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="4107" />
+    <option name="cachedIndexableFilesCount" value="4108" />
     <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
@@ -293,14 +293,7 @@
       <workItem from="1781414376347" duration="95000" />
       <workItem from="1781471245858" duration="86000" />
       <workItem from="1781493249565" duration="17000" />
-    </task>
-    <task id="LOCAL-00062" summary="tpsf-23, panopticon">
-      <option name="closed" value="true" />
-      <created>1778561592405</created>
-      <option name="number" value="00062" />
-      <option name="presentableId" value="LOCAL-00062" />
-      <option name="project" value="LOCAL" />
-      <updated>1778561592407</updated>
+      <workItem from="1781499812398" duration="308000" />
     </task>
     <task id="LOCAL-00063" summary="tpsf-23, cover">
       <option name="closed" value="true" />
@@ -686,7 +679,15 @@
       <option name="project" value="LOCAL" />
       <updated>1781471323230</updated>
     </task>
-    <option name="localTasksCounter" value="111" />
+    <task id="LOCAL-00111" summary="Kurd Laßwitz biography">
+      <option name="closed" value="true" />
+      <created>1781499903961</created>
+      <option name="number" value="00111" />
+      <option name="presentableId" value="LOCAL-00111" />
+      <option name="project" value="LOCAL" />
+      <updated>1781499903962</updated>
+    </task>
+    <option name="localTasksCounter" value="112" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -712,7 +713,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/.." />
     </ignored-roots>
-    <MESSAGE value="fixes" />
     <MESSAGE value="Snow on a Summer Night" />
     <MESSAGE value="−1" />
     <MESSAGE value="Dichotomies of Longing" />
@@ -737,6 +737,7 @@
     <MESSAGE value="OST downloads added" />
     <MESSAGE value="issn fix" />
     <MESSAGE value="OST 2024, 2025 added to free loot" />
-    <option name="LAST_COMMIT_MESSAGE" value="OST 2024, 2025 added to free loot" />
+    <MESSAGE value="Kurd Laßwitz biography" />
+    <option name="LAST_COMMIT_MESSAGE" value="Kurd Laßwitz biography" />
   </component>
 </project>
