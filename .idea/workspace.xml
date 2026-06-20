@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5472684e-ca05-4289-9d23-bfd482c66916" name="Changes" comment="Carmilla and author bio">
-      <change afterPath="$PROJECT_DIR$/content/idoru.toei/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="5472684e-ca05-4289-9d23-bfd482c66916" name="Changes" comment="Idoru Toei Link Fungus">
+      <change beforePath="$PROJECT_DIR$/content/idoru.toei/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/idoru.toei/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,61 +55,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0000000000004479" />
-      <entry key="MS500" value="1.0086661607782965" />
-      <entry key="S2" value="2.307936776622464" />
-      <entry key="S5" value="4.840834821799987" />
-      <entry key="S10" value="6.555929401743714" />
-      <entry key="S30" value="9.03550695951591" />
-      <entry key="S60" value="12.213057309524029" />
-      <entry key="M2" value="17.469322850347652" />
-      <entry key="M5" value="35.90554554958121" />
-      <entry key="M10" value="62.79379380700287" />
-      <entry key="M15" value="80.61544103007652" />
-      <entry key="M30" value="119.30210851356061" />
-      <entry key="H1" value="190.27122102283573" />
-      <entry key="H2" value="285.8222651255711" />
-      <entry key="H4" value="374.716481617187" />
-      <entry key="D1" value="504.0624919865132" />
-      <entry key="W1" value="537.0196347806028" />
+      <entry key="MS100" value="1.0002293756711949" />
+      <entry key="MS500" value="1.1872295884116457" />
+      <entry key="S2" value="1.8858181687821869" />
+      <entry key="S5" value="3.333753786941178" />
+      <entry key="S10" value="6.072453770961303" />
+      <entry key="S30" value="13.63315268020758" />
+      <entry key="S60" value="18.05032670568187" />
+      <entry key="M2" value="21.359495194274285" />
+      <entry key="M5" value="29.17936332050602" />
+      <entry key="M10" value="49.08971185939421" />
+      <entry key="M15" value="68.27664080902547" />
+      <entry key="M30" value="113.76473178873846" />
+      <entry key="H1" value="190.29979246058045" />
+      <entry key="H2" value="292.9990756331386" />
+      <entry key="H4" value="390.162548339417" />
+      <entry key="D1" value="532.2967938611946" />
+      <entry key="W1" value="568.4450793237518" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
       <entry key="MS500" value="0.0" />
       <entry key="S2" value="0.0" />
       <entry key="S5" value="0.0" />
-      <entry key="S10" value="5.676210220977599E-211" />
-      <entry key="S30" value="8.281314686063701E-71" />
-      <entry key="S60" value="9.231787908673017E-36" />
-      <entry key="M2" value="3.4645011373840897E-18" />
-      <entry key="M5" value="1.6487240336743326E-7" />
-      <entry key="M10" value="7.127903057003366E-4" />
-      <entry key="M15" value="0.012947075304227187" />
-      <entry key="M30" value="0.28655148736624336" />
-      <entry key="H1" value="1.529289358216836" />
-      <entry key="H2" value="3.7530026815223905" />
-      <entry key="H4" value="6.51741839770131" />
-      <entry key="D1" value="13.211679280086535" />
-      <entry key="W1" value="15.549143733311716" />
+      <entry key="S10" value="8.485000107749465E-239" />
+      <entry key="S30" value="4.395049271829715E-80" />
+      <entry key="S60" value="2.126757869969048E-40" />
+      <entry key="M2" value="1.6628643526870147E-20" />
+      <entry key="M5" value="1.94820392862178E-8" />
+      <entry key="M10" value="2.450219588019137E-4" />
+      <entry key="M15" value="0.006353316477142031" />
+      <entry key="M30" value="0.200732213990357" />
+      <entry key="H1" value="1.2799613926777287" />
+      <entry key="H2" value="3.4334638298234554" />
+      <entry key="H4" value="6.233793376560329" />
+      <entry key="D1" value="13.114069751198622" />
+      <entry key="W1" value="15.532680244000394" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.8293195458148105" />
-      <entry key="MS500" value="0.9714643928274876" />
-      <entry key="S2" value="2.273539697752211" />
-      <entry key="S5" value="4.805855614546204" />
-      <entry key="S10" value="6.5310425410124795" />
-      <entry key="S30" value="9.022420155305847" />
-      <entry key="S60" value="12.202020073013841" />
-      <entry key="M2" value="17.45991792103749" />
-      <entry key="M5" value="35.895916701574386" />
-      <entry key="M10" value="62.78488729121715" />
-      <entry key="M15" value="80.61971021457978" />
-      <entry key="M30" value="119.58160017003628" />
-      <entry key="H1" value="191.79425931579595" />
-      <entry key="H2" value="289.5702673180099" />
-      <entry key="H4" value="381.2305094252792" />
-      <entry key="D1" value="517.2733735032228" />
-      <entry key="W1" value="552.5686554216983" />
+      <entry key="MS100" value="3.097474958768447E-4" />
+      <entry key="MS500" value="0.32139355900769295" />
+      <entry key="S2" value="1.4190082686159504" />
+      <entry key="S5" value="2.9453355736108096" />
+      <entry key="S10" value="5.748591385865648" />
+      <entry key="S30" value="13.454147919171582" />
+      <entry key="S60" value="17.945001938338905" />
+      <entry key="M2" value="21.301791515778323" />
+      <entry key="M5" value="29.153759657262277" />
+      <entry key="M10" value="49.074156562226996" />
+      <entry key="M15" value="68.27034567567668" />
+      <entry key="M30" value="113.95629204938334" />
+      <entry key="H1" value="191.572400637658" />
+      <entry key="H2" value="296.4269020371779" />
+      <entry key="H4" value="396.3925668192053" />
+      <entry key="D1" value="545.4099830281162" />
+      <entry key="W1" value="583.977623930552" />
     </decayedShown>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="/usr/bin/php" />
@@ -299,15 +298,7 @@
       <workItem from="1781499812398" duration="936000" />
       <workItem from="1781590865495" duration="31000" />
       <workItem from="1781671318115" duration="46000" />
-      <workItem from="1781979883157" duration="1014000" />
-    </task>
-    <task id="LOCAL-00065" summary="tpsf-23, illustrations, biographies">
-      <option name="closed" value="true" />
-      <created>1778911665788</created>
-      <option name="number" value="00065" />
-      <option name="presentableId" value="LOCAL-00065" />
-      <option name="project" value="LOCAL" />
-      <updated>1778911665789</updated>
+      <workItem from="1781979883157" duration="1825000" />
     </task>
     <task id="LOCAL-00066" summary="tpsf-23, poul anderson illustration update">
       <option name="closed" value="true" />
@@ -693,7 +684,15 @@
       <option name="project" value="LOCAL" />
       <updated>1781671354971</updated>
     </task>
-    <option name="localTasksCounter" value="114" />
+    <task id="LOCAL-00114" summary="Idoru Toei Link Fungus">
+      <option name="closed" value="true" />
+      <created>1781980912839</created>
+      <option name="number" value="00114" />
+      <option name="presentableId" value="LOCAL-00114" />
+      <option name="project" value="LOCAL" />
+      <updated>1781980912840</updated>
+    </task>
+    <option name="localTasksCounter" value="115" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -719,7 +718,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/.." />
     </ignored-roots>
-    <MESSAGE value="−1" />
     <MESSAGE value="Dichotomies of Longing" />
     <MESSAGE value="Professional EPUB Production" />
     <MESSAGE value="Book of Facts for Adults" />
@@ -744,6 +742,7 @@
     <MESSAGE value="OST 2024, 2025 added to free loot" />
     <MESSAGE value="Kurd Laßwitz biography" />
     <MESSAGE value="Carmilla and author bio" />
-    <option name="LAST_COMMIT_MESSAGE" value="Carmilla and author bio" />
+    <MESSAGE value="Idoru Toei Link Fungus" />
+    <option name="LAST_COMMIT_MESSAGE" value="Idoru Toei Link Fungus" />
   </component>
 </project>
