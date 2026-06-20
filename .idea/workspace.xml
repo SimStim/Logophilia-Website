@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5472684e-ca05-4289-9d23-bfd482c66916" name="Changes" comment="Kurd Laßwitz biography">
+    <list default="true" id="5472684e-ca05-4289-9d23-bfd482c66916" name="Changes" comment="Carmilla and author bio">
+      <change afterPath="$PROJECT_DIR$/content/idoru.toei/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -16,7 +17,7 @@
     <execution />
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="4108" />
+    <option name="cachedIndexableFilesCount" value="4133" />
     <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
@@ -55,61 +56,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0000000000000002" />
-      <entry key="MS500" value="1.001047860833752" />
-      <entry key="S2" value="1.5479153199055964" />
-      <entry key="S5" value="4.0693380244603015" />
-      <entry key="S10" value="7.590431144142119" />
-      <entry key="S30" value="15.09828823789153" />
-      <entry key="S60" value="22.344481300122208" />
-      <entry key="M2" value="34.446977098573555" />
-      <entry key="M5" value="57.90027573368324" />
-      <entry key="M10" value="75.82763284832515" />
-      <entry key="M15" value="85.5755858595785" />
-      <entry key="M30" value="113.73253876287954" />
-      <entry key="H1" value="179.4972553800776" />
-      <entry key="H2" value="269.70773847907304" />
-      <entry key="H4" value="352.83094543696376" />
-      <entry key="D1" value="473.5621192377453" />
-      <entry key="W1" value="504.4003091539323" />
+      <entry key="MS100" value="1.0000000000004479" />
+      <entry key="MS500" value="1.0086661607782965" />
+      <entry key="S2" value="2.307936776622464" />
+      <entry key="S5" value="4.840834821799987" />
+      <entry key="S10" value="6.555929401743714" />
+      <entry key="S30" value="9.03550695951591" />
+      <entry key="S60" value="12.213057309524029" />
+      <entry key="M2" value="17.469322850347652" />
+      <entry key="M5" value="35.90554554958121" />
+      <entry key="M10" value="62.79379380700287" />
+      <entry key="M15" value="80.61544103007652" />
+      <entry key="M30" value="119.30210851356061" />
+      <entry key="H1" value="190.27122102283573" />
+      <entry key="H2" value="285.8222651255711" />
+      <entry key="H4" value="374.716481617187" />
+      <entry key="D1" value="504.0624919865132" />
+      <entry key="W1" value="537.0196347806028" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
       <entry key="MS500" value="0.0" />
       <entry key="S2" value="0.0" />
       <entry key="S5" value="0.0" />
-      <entry key="S10" value="1.508553773684495E-191" />
-      <entry key="S30" value="2.471345107130417E-64" />
-      <entry key="S60" value="1.5947876816995027E-32" />
-      <entry key="M2" value="1.4399560446981598E-16" />
-      <entry key="M5" value="7.322027902835477E-7" />
-      <entry key="M10" value="0.0015021160614321083" />
-      <entry key="M15" value="0.021281364861257063" />
-      <entry key="M30" value="0.3673808958498393" />
-      <entry key="H1" value="1.7315961731191118" />
-      <entry key="H2" value="3.993533668070123" />
-      <entry key="H4" value="6.723026760761325" />
-      <entry key="D1" value="13.280249328685755" />
-      <entry key="W1" value="15.560646991854128" />
+      <entry key="S10" value="5.676210220977599E-211" />
+      <entry key="S30" value="8.281314686063701E-71" />
+      <entry key="S60" value="9.231787908673017E-36" />
+      <entry key="M2" value="3.4645011373840897E-18" />
+      <entry key="M5" value="1.6487240336743326E-7" />
+      <entry key="M10" value="7.127903057003366E-4" />
+      <entry key="M15" value="0.012947075304227187" />
+      <entry key="M30" value="0.28655148736624336" />
+      <entry key="H1" value="1.529289358216836" />
+      <entry key="H2" value="3.7530026815223905" />
+      <entry key="H4" value="6.51741839770131" />
+      <entry key="D1" value="13.211679280086535" />
+      <entry key="W1" value="15.549143733311716" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.9659363289248458" />
-      <entry key="MS500" value="0.9941320164449331" />
-      <entry key="S2" value="1.5450603850080082" />
-      <entry key="S5" value="4.06564800985582" />
-      <entry key="S10" value="7.584050134195483" />
-      <entry key="S30" value="15.084953397121387" />
-      <entry key="S60" value="22.32792166401234" />
-      <entry key="M2" value="34.4269815604853" />
-      <entry key="M5" value="57.88196192577015" />
-      <entry key="M10" value="75.81594732659968" />
-      <entry key="M15" value="85.58658030893001" />
-      <entry key="M30" value="114.09255325543641" />
-      <entry key="H1" value="181.2225508923612" />
-      <entry key="H2" value="273.69632477954985" />
-      <entry key="H4" value="359.5506578194005" />
-      <entry key="D1" value="486.8415966998521" />
-      <entry key="W1" value="519.9608372416445" />
+      <entry key="MS100" value="0.8293195458148105" />
+      <entry key="MS500" value="0.9714643928274876" />
+      <entry key="S2" value="2.273539697752211" />
+      <entry key="S5" value="4.805855614546204" />
+      <entry key="S10" value="6.5310425410124795" />
+      <entry key="S30" value="9.022420155305847" />
+      <entry key="S60" value="12.202020073013841" />
+      <entry key="M2" value="17.45991792103749" />
+      <entry key="M5" value="35.895916701574386" />
+      <entry key="M10" value="62.78488729121715" />
+      <entry key="M15" value="80.61971021457978" />
+      <entry key="M30" value="119.58160017003628" />
+      <entry key="H1" value="191.79425931579595" />
+      <entry key="H2" value="289.5702673180099" />
+      <entry key="H4" value="381.2305094252792" />
+      <entry key="D1" value="517.2733735032228" />
+      <entry key="W1" value="552.5686554216983" />
     </decayedShown>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="/usr/bin/php" />
@@ -125,33 +126,35 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
-    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;git.auto.fetch.suggestion.counter&quot;: &quot;3&quot;,
-    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
-    &quot;kronk.content.tree.expanded.paths&quot;: &quot;&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/Ed/Nextcloud-Logophilia/Logophilia.eu/website/content&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;File.Encoding&quot;,
-    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "DefaultHtmlFileTemplate": "HTML File",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "git.auto.fetch.suggestion.counter": "3",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kronk.content.tree.expanded.paths": "",
+    "last_opened_file_path": "/home/Ed/Nextcloud-Logophilia/Logophilia.eu/website/content/idoru.toei",
+    "multi.workspaceId": "5abf89174a1ad575",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "File.Encoding",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/content/idoru.toei" />
       <recent name="$PROJECT_DIR$/content" />
       <recent name="$PROJECT_DIR$/layouts/_shortcodes" />
     </key>
@@ -295,14 +298,8 @@
       <workItem from="1781493249565" duration="17000" />
       <workItem from="1781499812398" duration="936000" />
       <workItem from="1781590865495" duration="31000" />
-    </task>
-    <task id="LOCAL-00064" summary="tpsf-23, cover updated">
-      <option name="closed" value="true" />
-      <created>1778739244070</created>
-      <option name="number" value="00064" />
-      <option name="presentableId" value="LOCAL-00064" />
-      <option name="project" value="LOCAL" />
-      <updated>1778739244071</updated>
+      <workItem from="1781671318115" duration="46000" />
+      <workItem from="1781979883157" duration="1014000" />
     </task>
     <task id="LOCAL-00065" summary="tpsf-23, illustrations, biographies">
       <option name="closed" value="true" />
@@ -688,7 +685,15 @@
       <option name="project" value="LOCAL" />
       <updated>1781500134181</updated>
     </task>
-    <option name="localTasksCounter" value="113" />
+    <task id="LOCAL-00113" summary="Carmilla and author bio">
+      <option name="closed" value="true" />
+      <created>1781671354970</created>
+      <option name="number" value="00113" />
+      <option name="presentableId" value="LOCAL-00113" />
+      <option name="project" value="LOCAL" />
+      <updated>1781671354971</updated>
+    </task>
+    <option name="localTasksCounter" value="114" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -714,7 +719,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/.." />
     </ignored-roots>
-    <MESSAGE value="Snow on a Summer Night" />
     <MESSAGE value="−1" />
     <MESSAGE value="Dichotomies of Longing" />
     <MESSAGE value="Professional EPUB Production" />
@@ -739,6 +743,7 @@
     <MESSAGE value="issn fix" />
     <MESSAGE value="OST 2024, 2025 added to free loot" />
     <MESSAGE value="Kurd Laßwitz biography" />
-    <option name="LAST_COMMIT_MESSAGE" value="Kurd Laßwitz biography" />
+    <MESSAGE value="Carmilla and author bio" />
+    <option name="LAST_COMMIT_MESSAGE" value="Carmilla and author bio" />
   </component>
 </project>
