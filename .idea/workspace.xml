@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5472684e-ca05-4289-9d23-bfd482c66916" name="Changes" comment="4Q2026 initial">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/idoru-toei/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/idoru-toei/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="5472684e-ca05-4289-9d23-bfd482c66916" name="Changes" comment="Nothing" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -57,22 +54,22 @@
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
       <entry key="MS100" value="1.0" />
-      <entry key="MS500" value="1.0" />
-      <entry key="S2" value="1.0000012586376497" />
-      <entry key="S5" value="1.0192563157883072" />
-      <entry key="S10" value="1.5188953079657848" />
-      <entry key="S30" value="5.842980217286581" />
-      <entry key="S60" value="9.512723422182624" />
-      <entry key="M2" value="12.296498918299793" />
-      <entry key="M5" value="14.390577888152945" />
-      <entry key="M10" value="15.172298584327395" />
-      <entry key="M15" value="15.445501811534951" />
-      <entry key="M30" value="16.316328695877242" />
-      <entry key="H1" value="31.03628928739275" />
-      <entry key="H2" value="112.74901681800242" />
-      <entry key="H4" value="283.2183117634336" />
-      <entry key="D1" value="688.7350915799374" />
-      <entry key="W1" value="813.6377621731948" />
+      <entry key="MS500" value="1.0002559234559367" />
+      <entry key="S2" value="1.126481650128366" />
+      <entry key="S5" value="1.4373317511963073" />
+      <entry key="S10" value="1.661310631395192" />
+      <entry key="S30" value="1.871234707605784" />
+      <entry key="S60" value="1.9334002453444272" />
+      <entry key="M2" value="1.969466327761232" />
+      <entry key="M5" value="2.525421819708857" />
+      <entry key="M10" value="4.929777634954832" />
+      <entry key="M15" value="7.163570543512985" />
+      <entry key="M30" value="11.435905565232646" />
+      <entry key="H1" value="25.603806258068467" />
+      <entry key="H2" value="100.3279339106043" />
+      <entry key="H4" value="266.4869213139829" />
+      <entry key="D1" value="682.9251960334377" />
+      <entry key="W1" value="814.3132804664905" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
@@ -80,37 +77,37 @@
       <entry key="S2" value="0.0" />
       <entry key="S5" value="0.0" />
       <entry key="S10" value="0.0" />
-      <entry key="S30" value="6.0459736768178475E-183" />
-      <entry key="S60" value="7.775585943720156E-92" />
-      <entry key="M2" value="2.788473766008953E-46" />
-      <entry key="M5" value="5.999936141032447E-19" />
-      <entry key="M10" value="7.747035237407899E-10" />
-      <entry key="M15" value="8.471767381919135E-7" />
-      <entry key="M30" value="0.0010725410276368598" />
-      <entry key="H1" value="0.06577554370013845" />
-      <entry key="H2" value="0.7456521384698951" />
-      <entry key="H4" value="2.9606671098327446" />
-      <entry key="D1" value="12.158457522045287" />
-      <entry key="W1" value="16.18405882291026" />
+      <entry key="S30" value="3.2920844833028515E-197" />
+      <entry key="S60" value="5.737668937210347E-99" />
+      <entry key="M2" value="7.574740218126522E-50" />
+      <entry key="M5" value="2.2477453095054212E-20" />
+      <entry key="M10" value="1.499463046804631E-10" />
+      <entry key="M15" value="2.8347026718255153E-7" />
+      <entry key="M30" value="6.204126715900438E-4" />
+      <entry key="H1" value="0.050026235048794415" />
+      <entry key="H2" value="0.6502838286568393" />
+      <entry key="H4" value="2.7648585790455655" />
+      <entry key="D1" value="12.020587820769856" />
+      <entry key="W1" value="16.15771370940926" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.7120250977985358" />
-      <entry key="MS500" value="0.9343273468831804" />
-      <entry key="S2" value="0.9831624932558533" />
-      <entry key="S5" value="1.0121270317007292" />
-      <entry key="S10" value="1.510200589492011" />
-      <entry key="S30" value="5.824635562153407" />
-      <entry key="S60" value="9.49691812588271" />
-      <entry key="M2" value="12.286073039428976" />
-      <entry key="M5" value="14.385647361292577" />
-      <entry key="M10" value="15.169691363038815" />
-      <entry key="M15" value="15.44373161008977" />
-      <entry key="M30" value="16.31647342366566" />
-      <entry key="H1" value="31.10117558619465" />
-      <entry key="H2" value="113.49289034814414" />
-      <entry key="H4" value="286.17661120026946" />
-      <entry key="D1" value="700.8925298878656" />
-      <entry key="W1" value="829.8216464745078" />
+      <entry key="MS100" value="1.3611630428957878E-17" />
+      <entry key="MS500" value="6.689536045570632E-4" />
+      <entry key="S2" value="0.26889267281616525" />
+      <entry key="S5" value="0.8958670974431" />
+      <entry key="S10" value="1.3384508538823447" />
+      <entry key="S30" value="1.7493625957614407" />
+      <entry key="S60" value="1.8704845445224807" />
+      <entry key="M2" value="1.9374945173083629" />
+      <entry key="M5" value="2.5123247089708243" />
+      <entry key="M10" value="4.922795817383989" />
+      <entry key="M15" value="7.158655426526564" />
+      <entry key="M30" value="11.433825543101875" />
+      <entry key="H1" value="25.652073713138588" />
+      <entry key="H2" value="100.97612523890729" />
+      <entry key="H4" value="269.249298085977" />
+      <entry key="D1" value="694.9447310716233" />
+      <entry key="W1" value="830.4708134917357" />
     </decayedShown>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="/usr/bin/php" />
@@ -307,15 +304,7 @@
       <workItem from="1782273274746" duration="911000" />
       <workItem from="1782286076708" duration="12000" />
       <workItem from="1782431539160" duration="2202000" />
-      <workItem from="1782787957147" duration="131000" />
-    </task>
-    <task id="LOCAL-00074" summary="updates bio illustrations">
-      <option name="closed" value="true" />
-      <created>1779003666068</created>
-      <option name="number" value="00074" />
-      <option name="presentableId" value="LOCAL-00074" />
-      <option name="project" value="LOCAL" />
-      <updated>1779003666068</updated>
+      <workItem from="1782787957147" duration="1598000" />
     </task>
     <task id="LOCAL-00075" summary="tom godwin illustration">
       <option name="closed" value="true" />
@@ -701,7 +690,15 @@
       <option name="project" value="LOCAL" />
       <updated>1782443656708</updated>
     </task>
-    <option name="localTasksCounter" value="123" />
+    <task id="LOCAL-00123" summary="Nothing">
+      <option name="closed" value="true" />
+      <created>1782789451628</created>
+      <option name="number" value="00123" />
+      <option name="presentableId" value="LOCAL-00123" />
+      <option name="project" value="LOCAL" />
+      <updated>1782789451629</updated>
+    </task>
+    <option name="localTasksCounter" value="124" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -727,7 +724,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/.." />
     </ignored-roots>
-    <MESSAGE value="target fix" />
     <MESSAGE value="free loot page points to mnemonics signup (phplist) now." />
     <MESSAGE value="Federation" />
     <MESSAGE value="Federation: introduction, bio" />
@@ -752,6 +748,7 @@
     <MESSAGE value="fix typography" />
     <MESSAGE value="Nozomi" />
     <MESSAGE value="4Q2026 initial" />
-    <option name="LAST_COMMIT_MESSAGE" value="4Q2026 initial" />
+    <MESSAGE value="Nothing" />
+    <option name="LAST_COMMIT_MESSAGE" value="Nothing" />
   </component>
 </project>
