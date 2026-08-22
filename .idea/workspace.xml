@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5472684e-ca05-4289-9d23-bfd482c66916" name="Changes" comment="hugo upgrade, wrangler version addition">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="5472684e-ca05-4289-9d23-bfd482c66916" name="Changes" comment="wrangler version addition">
+      <change beforePath="$PROJECT_DIR$/wrangler.jsonc" beforeDir="false" afterPath="$PROJECT_DIR$/wrangler.jsonc" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -321,15 +321,7 @@
       <workItem from="1785468278710" duration="98000" />
       <workItem from="1787365209641" duration="30000" />
       <workItem from="1787375264733" duration="682000" />
-      <workItem from="1787375957753" duration="4907000" />
-    </task>
-    <task id="LOCAL-00078" summary="Ishtar's Bride, blurb">
-      <option name="closed" value="true" />
-      <created>1779256977924</created>
-      <option name="number" value="00078" />
-      <option name="presentableId" value="LOCAL-00078" />
-      <option name="project" value="LOCAL" />
-      <updated>1779256977924</updated>
+      <workItem from="1787375957753" duration="5577000" />
     </task>
     <task id="LOCAL-00079" summary="Transcendence publication">
       <option name="closed" value="true" />
@@ -715,7 +707,15 @@
       <option name="project" value="LOCAL" />
       <updated>1787382252538</updated>
     </task>
-    <option name="localTasksCounter" value="127" />
+    <task id="LOCAL-00127" summary="wrangler version addition">
+      <option name="closed" value="true" />
+      <created>1787383367426</created>
+      <option name="number" value="00127" />
+      <option name="presentableId" value="LOCAL-00127" />
+      <option name="project" value="LOCAL" />
+      <updated>1787383367426</updated>
+    </task>
+    <option name="localTasksCounter" value="128" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -753,7 +753,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/.." />
     </ignored-roots>
-    <MESSAGE value="youtube playlists for some publications" />
     <MESSAGE value="youtube playlists for some publications; yourls now" />
     <MESSAGE value="new cookie monster to match house style" />
     <MESSAGE value="Federation: blurbs; Auf zwei Planeten initial" />
@@ -778,6 +777,7 @@
     <MESSAGE value="tpsf-25" />
     <MESSAGE value="tpsf-25, updated Amazon link to pre-order" />
     <MESSAGE value="hugo upgrade, wrangler version addition" />
-    <option name="LAST_COMMIT_MESSAGE" value="hugo upgrade, wrangler version addition" />
+    <MESSAGE value="wrangler version addition" />
+    <option name="LAST_COMMIT_MESSAGE" value="wrangler version addition" />
   </component>
 </project>
