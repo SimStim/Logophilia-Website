@@ -4,9 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5472684e-ca05-4289-9d23-bfd482c66916" name="Changes" comment="tpsf-25">
+    <list default="true" id="5472684e-ca05-4289-9d23-bfd482c66916" name="Changes" comment="tpsf-25, updated Amazon link to pre-order">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/blowfish" beforeDir="false" afterPath="$PROJECT_DIR$/themes/blowfish" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/_default/hugo.toml" beforeDir="false" afterPath="$PROJECT_DIR$/config/_default/hugo.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/_default/languages.en.toml" beforeDir="false" afterPath="$PROJECT_DIR$/config/_default/languages.en.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/layouts/_default/single.html" beforeDir="false" afterPath="$PROJECT_DIR$/layouts/_default/single.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/layouts/partials/head.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wrangler.jsonc" beforeDir="false" afterPath="$PROJECT_DIR$/wrangler.jsonc" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,13 +21,15 @@
     <execution>
       <execution>
         <execution>
-          <execution />
+          <execution>
+            <execution />
+          </execution>
         </execution>
       </execution>
     </execution>
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="3668" />
+    <option name="cachedIndexableFilesCount" value="2957" />
     <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
@@ -62,23 +68,23 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0006369040611451" />
-      <entry key="MS500" value="1.346112790792793" />
-      <entry key="S2" value="2.3514651466458627" />
-      <entry key="S5" value="3.0235223880372257" />
-      <entry key="S10" value="3.421821398894332" />
-      <entry key="S30" value="3.7814723439144213" />
-      <entry key="S60" value="3.8870569093621077" />
-      <entry key="M2" value="3.9458805684779863" />
-      <entry key="M5" value="4.5139896865420255" />
-      <entry key="M10" value="6.919783086885298" />
-      <entry key="M15" value="9.154257787111593" />
-      <entry key="M30" value="13.428714989446593" />
-      <entry key="H1" value="27.596010103083113" />
-      <entry key="H2" value="102.31295803151123" />
-      <entry key="H4" value="268.46711648067713" />
-      <entry key="D1" value="684.9167501850592" />
-      <entry key="W1" value="816.3118420160765" />
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0" />
+      <entry key="S5" value="1.0" />
+      <entry key="S10" value="1.0" />
+      <entry key="S30" value="1.0" />
+      <entry key="S60" value="1.0" />
+      <entry key="M2" value="1.0000000003183187" />
+      <entry key="M5" value="1.0003271332386219" />
+      <entry key="M10" value="1.0551564880231514" />
+      <entry key="M15" value="1.38492608816484" />
+      <entry key="M30" value="4.2191030636483795" />
+      <entry key="H1" value="14.736005087451113" />
+      <entry key="H2" value="68.01836427761498" />
+      <entry key="H4" value="215.66054146364127" />
+      <entry key="D1" value="666.9257426241837" />
+      <entry key="W1" value="823.1208245778682" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
@@ -86,37 +92,37 @@
       <entry key="S2" value="0.0" />
       <entry key="S5" value="0.0" />
       <entry key="S10" value="0.0" />
-      <entry key="S30" value="3.1770064656594604E-197" />
-      <entry key="S60" value="5.636494003952687E-99" />
-      <entry key="M2" value="7.507658758862634E-50" />
-      <entry key="M5" value="2.2397616940052328E-20" />
-      <entry key="M10" value="1.4967977570228534E-10" />
-      <entry key="M15" value="2.831342560526241E-7" />
-      <entry key="M30" value="6.200448598657061E-4" />
-      <entry key="H1" value="0.05001140382066813" />
-      <entry key="H2" value="0.6501874270114764" />
-      <entry key="H4" value="2.764653632541112" />
-      <entry key="D1" value="12.020439310850485" />
-      <entry key="W1" value="16.15768519174676" />
+      <entry key="S30" value="2.181589877935594E-252" />
+      <entry key="S60" value="1.4770206085006375E-126" />
+      <entry key="M2" value="1.2153273668031326E-63" />
+      <entry key="M5" value="6.821459639454466E-26" />
+      <entry key="M10" value="2.612166612815543E-13" />
+      <entry key="M15" value="4.1040966936379456E-9" />
+      <entry key="M30" value="7.465101122969059E-5" />
+      <entry key="H1" value="0.017353030780635745" />
+      <entry key="H2" value="0.38299377301633974" />
+      <entry key="H4" value="2.121862813806087" />
+      <entry key="D1" value="11.501816527010863" />
+      <entry key="W1" value="16.056203735368126" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.3635162573294446" />
-      <entry key="MS500" value="0.9351053055348342" />
-      <entry key="S2" value="1.694759937981343" />
-      <entry key="S5" value="2.5113706350050964" />
-      <entry key="S10" value="3.0916257788005486" />
-      <entry key="S30" value="3.6498883169453182" />
-      <entry key="S60" value="3.8181827448215286" />
-      <entry key="M2" value="3.9106372629698334" />
-      <entry key="M5" value="4.499512244152545" />
-      <entry key="M10" value="6.912099419074085" />
-      <entry key="M15" value="9.148872136872587" />
-      <entry key="M30" value="13.426397927828416" />
-      <entry key="H1" value="27.64414408879113" />
-      <entry key="H2" value="102.96099368278182" />
-      <entry key="H4" value="271.2292586958834" />
-      <entry key="D1" value="696.9361317604222" />
-      <entry key="W1" value="832.4693458145574" />
+      <entry key="MS100" value="0.4829681644624228" />
+      <entry key="MS500" value="0.8645372313078652" />
+      <entry key="S2" value="0.9642639382519508" />
+      <entry key="S5" value="0.9855493369393707" />
+      <entry key="S10" value="0.992748375440308" />
+      <entry key="S30" value="0.9975769252644544" />
+      <entry key="S60" value="0.9987877278303205" />
+      <entry key="M2" value="0.9993936804215483" />
+      <entry key="M5" value="1.0000845057649919" />
+      <entry key="M10" value="1.05502104873608" />
+      <entry key="M15" value="1.3847645161030526" />
+      <entry key="M30" value="4.21877620873327" />
+      <entry key="H1" value="14.752677419552288" />
+      <entry key="H2" value="68.4000733407658" />
+      <entry key="H4" value="217.7804672701213" />
+      <entry key="D1" value="678.426545313468" />
+      <entry key="W1" value="839.1768478066817" />
     </decayedShown>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="/usr/bin/php" />
@@ -132,32 +138,35 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
-    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;git.auto.fetch.suggestion.counter&quot;: &quot;3&quot;,
-    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
-    &quot;kronk.content.tree.expanded.paths&quot;: &quot;&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/Ed/Nextcloud-Logophilia/Logophilia.eu/website/content/idoru.toei&quot;,
-    &quot;multi.workspaceId&quot;: &quot;5abf89174a1ad575&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;File.Encoding&quot;,
-    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "DefaultHtmlFileTemplate": "HTML File",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "git.auto.fetch.suggestion.counter": "3",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kronk.content.tree.expanded.paths": "",
+    "last_opened_file_path": "/home/Ed/Nextcloud-Logophilia/Logophilia.eu/website/themes/blowfish/layouts/partials/head.html",
+    "multi.workspaceId": "5abf89174a1ad575",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.jshint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.jshint": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "File.Encoding",
+    "to.speed.mode.migration.done": "true",
+    "two.files.diff.last.used.file": "/home/Ed/Nextcloud-Logophilia/Logophilia.eu/website/themes/blowfish/layouts/partials/head.html",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/content/idoru.toei" />
@@ -165,11 +174,11 @@
       <recent name="$PROJECT_DIR$/layouts/_shortcodes" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/static" />
       <recent name="$PROJECT_DIR$/content/authors" />
       <recent name="$PROJECT_DIR$/content/stories/out-of-the-iron-womb" />
       <recent name="$PROJECT_DIR$/content/stories" />
-      <recent name="$PROJECT_DIR$/content/contact" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -317,14 +326,7 @@
       <workItem from="1785468278710" duration="98000" />
       <workItem from="1787365209641" duration="30000" />
       <workItem from="1787375264733" duration="682000" />
-    </task>
-    <task id="LOCAL-00076" summary="illustration updates">
-      <option name="closed" value="true" />
-      <created>1779057299336</created>
-      <option name="number" value="00076" />
-      <option name="presentableId" value="LOCAL-00076" />
-      <option name="project" value="LOCAL" />
-      <updated>1779057299337</updated>
+      <workItem from="1787375957753" duration="3912000" />
     </task>
     <task id="LOCAL-00077" summary="Ishtar's Bride">
       <option name="closed" value="true" />
@@ -710,7 +712,15 @@
       <option name="project" value="LOCAL" />
       <updated>1785468357654</updated>
     </task>
-    <option name="localTasksCounter" value="125" />
+    <task id="LOCAL-00125" summary="tpsf-25, updated Amazon link to pre-order">
+      <option name="closed" value="true" />
+      <created>1787376279050</created>
+      <option name="number" value="00125" />
+      <option name="presentableId" value="LOCAL-00125" />
+      <option name="project" value="LOCAL" />
+      <updated>1787376279050</updated>
+    </task>
+    <option name="localTasksCounter" value="126" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -748,7 +758,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/.." />
     </ignored-roots>
-    <MESSAGE value="Federation" />
     <MESSAGE value="Federation: introduction, bio" />
     <MESSAGE value="youtube playlists for some publications" />
     <MESSAGE value="youtube playlists for some publications; yourls now" />
@@ -773,6 +782,7 @@
     <MESSAGE value="4Q2026 initial" />
     <MESSAGE value="Nothing" />
     <MESSAGE value="tpsf-25" />
-    <option name="LAST_COMMIT_MESSAGE" value="tpsf-25" />
+    <MESSAGE value="tpsf-25, updated Amazon link to pre-order" />
+    <option name="LAST_COMMIT_MESSAGE" value="tpsf-25, updated Amazon link to pre-order" />
   </component>
 </project>

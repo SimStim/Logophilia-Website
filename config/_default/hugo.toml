@@ -19,6 +19,9 @@ enableEmoji = true
 
 # googleAnalytics = "G-XXXXXXXXX"
 
+[security]
+  allowContent = ['^text/html$']
+
 [pagination]
   pagerSize = 100
 
