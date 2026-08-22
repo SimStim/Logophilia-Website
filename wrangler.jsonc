@@ -13,6 +13,9 @@
     "nodejs_compat"
   ],
   "build": {
-    "command": "npx hugo-extended@^0.165.0 --gc --minify"
+    "command": "hugo --gc --minify",
+    "environment": {
+      "HUGO_VERSION": "0.165.0"
+    }
   }
 }
