@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5472684e-ca05-4289-9d23-bfd482c66916" name="Changes" comment="wrangler version addition">
-      <change afterPath="$PROJECT_DIR$/content/lea/2026/xhtml/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_22_08_2026,_01_15_[Changes]/shelved.patch" beforeDir="false" />
+    <list default="true" id="5472684e-ca05-4289-9d23-bfd482c66916" name="Changes" comment="added lea schema url">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -20,7 +18,13 @@
         <execution>
           <execution>
             <execution>
-              <execution />
+              <execution>
+                <execution>
+                  <execution>
+                    <execution />
+                  </execution>
+                </execution>
+              </execution>
             </execution>
           </execution>
         </execution>
@@ -28,7 +32,7 @@
     </execution>
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="4303" />
+    <option name="cachedIndexableFilesCount" value="4373" />
     <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
@@ -67,23 +71,23 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0128686096448059" />
-      <entry key="MS500" value="1.4187032437542133" />
-      <entry key="S2" value="1.8044393790232138" />
-      <entry key="S5" value="1.9325562029421273" />
-      <entry key="S10" value="2.1117555640484174" />
-      <entry key="S30" value="3.6395642193363416" />
-      <entry key="S60" value="9.074912429176196" />
-      <entry key="M2" value="26.066407605702697" />
-      <entry key="M5" value="63.05779110761202" />
-      <entry key="M10" value="88.4281052500586" />
-      <entry key="M15" value="99.65336604951193" />
-      <entry key="M30" value="114.43391823114995" />
-      <entry key="H1" value="130.70078449616796" />
-      <entry key="H2" value="184.03921107738614" />
-      <entry key="H4" value="329.72413727810556" />
-      <entry key="D1" value="787.3383914519075" />
-      <entry key="W1" value="948.1432723812401" />
+      <entry key="MS100" value="1.0000000001533098" />
+      <entry key="MS500" value="1.0172266142921311" />
+      <entry key="S2" value="1.974576038191501" />
+      <entry key="S5" value="3.5298181201182537" />
+      <entry key="S10" value="4.539307043231661" />
+      <entry key="S30" value="5.451157977377373" />
+      <entry key="S60" value="5.716946693554323" />
+      <entry key="M2" value="5.858917486072911" />
+      <entry key="M5" value="7.542536591562307" />
+      <entry key="M10" value="20.0592404304415" />
+      <entry key="M15" value="35.267372821841334" />
+      <entry key="M30" value="68.02641484861219" />
+      <entry key="H1" value="102.22795088199751" />
+      <entry key="H2" value="163.9160133826302" />
+      <entry key="H4" value="311.4289933270058" />
+      <entry key="D1" value="783.358807864912" />
+      <entry key="W1" value="952.4170501928717" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
@@ -91,37 +95,37 @@
       <entry key="S2" value="0.0" />
       <entry key="S5" value="0.0" />
       <entry key="S10" value="0.0" />
-      <entry key="S30" value="2.6668330787094867E-262" />
-      <entry key="S60" value="1.633044114134546E-131" />
-      <entry key="M2" value="4.041094052524076E-66" />
-      <entry key="M5" value="6.959845296706717E-27" />
-      <entry key="M10" value="8.343763974659545E-14" />
-      <entry key="M15" value="1.9177486032196643E-9" />
-      <entry key="M30" value="5.102966772655954E-5" />
-      <entry key="H1" value="0.014347256405527852" />
-      <entry key="H2" value="0.3482478744042583" />
-      <entry key="H4" value="2.0233251619427484" />
-      <entry key="D1" value="11.411020853757199" />
-      <entry key="W1" value="16.038035299084896" />
+      <entry key="S30" value="2.960711079073765E-278" />
+      <entry key="S60" value="1.7206716941571874E-139" />
+      <entry key="M2" value="4.148097990835301E-70" />
+      <entry key="M5" value="1.7666056121817167E-28" />
+      <entry key="M10" value="1.3293275950178964E-14" />
+      <entry key="M15" value="5.636009047582664E-10" />
+      <entry key="M30" value="2.7663857812995176E-5" />
+      <entry key="H1" value="0.010563646544517004" />
+      <entry key="H2" value="0.29882090390955035" />
+      <entry key="H4" value="1.8742474680652341" />
+      <entry key="D1" value="11.266388097156662" />
+      <entry key="W1" value="16.008836391623568" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.21581890581616772" />
-      <entry key="MS500" value="0.9946284858302847" />
-      <entry key="S2" value="1.6397255528338583" />
-      <entry key="S5" value="1.8581316624387985" />
-      <entry key="S10" value="2.068467379059899" />
-      <entry key="S30" value="3.617620556686556" />
-      <entry key="S60" value="9.053846170257401" />
-      <entry key="M2" value="26.039978579051674" />
-      <entry key="M5" value="63.0338314270579" />
-      <entry key="M10" value="88.41168952963463" />
-      <entry key="M15" value="99.64112116662328" />
-      <entry key="M30" value="114.42689638326891" />
-      <entry key="H1" value="130.7109730685585" />
-      <entry key="H2" value="184.384441198215" />
-      <entry key="H4" value="331.74467735295497" />
-      <entry key="D1" value="798.7482482660789" />
-      <entry key="W1" value="964.1811047312142" />
+      <entry key="MS100" value="0.9794202977370816" />
+      <entry key="MS500" value="1.0130037871506694" />
+      <entry key="S2" value="1.972439742884015" />
+      <entry key="S5" value="3.5282329398941785" />
+      <entry key="S10" value="4.538273232780845" />
+      <entry key="S30" value="5.4507401593510405" />
+      <entry key="S60" value="5.716727071559521" />
+      <entry key="M2" value="5.858802151690917" />
+      <entry key="M5" value="7.5418826862855255" />
+      <entry key="M10" value="20.05660209232252" />
+      <entry key="M15" value="35.26375886206841" />
+      <entry key="M30" value="68.02260052346519" />
+      <entry key="H1" value="102.23544871104754" />
+      <entry key="H2" value="164.21224291943682" />
+      <entry key="H4" value="313.30065994945073" />
+      <entry key="D1" value="794.6240465160425" />
+      <entry key="W1" value="968.4256839819531" />
     </decayedShown>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="/usr/bin/php" />
@@ -137,35 +141,35 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "DefaultHtmlFileTemplate": "HTML File",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.MCP Project settings loaded": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "main",
-    "git.auto.fetch.suggestion.counter": "3",
-    "junie.onboarding.icon.badge.shown": "true",
-    "kronk.content.tree.expanded.paths": "",
-    "last_opened_file_path": "/home/Ed/Nextcloud-Logophilia/Logophilia.eu/website/content/lea/2026/xhtml",
-    "multi.workspaceId": "5abf89174a1ad575",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.jshint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.jshint": "",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "File.Encoding",
-    "to.speed.mode.migration.done": "true",
-    "two.files.diff.last.used.file": "/home/Ed/Nextcloud-Logophilia/Logophilia.eu/website/themes/blowfish/layouts/partials/head.html",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;git.auto.fetch.suggestion.counter&quot;: &quot;3&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;kronk.content.tree.expanded.paths&quot;: &quot;&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/Ed/Nextcloud-Logophilia/Logophilia.eu/website&quot;,
+    &quot;multi.workspaceId&quot;: &quot;5abf89174a1ad575&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.jshint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.jshint&quot;: &quot;&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;File.Encoding&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
+    &quot;two.files.diff.last.used.file&quot;: &quot;/home/Ed/Nextcloud-Logophilia/Logophilia.eu/website/themes/blowfish/layouts/partials/head.html&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/content/lea/2026/xhtml" />
@@ -184,8 +188,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-PS-262.10315.130" />
-        <option value="bundled-php-predefined-a98d8de5180a-9522f28f0b20-com.jetbrains.php.sharedIndexes-PS-262.10315.130" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-PS-262.10968.76" />
+        <option value="bundled-php-predefined-a98d8de5180a-9522f28f0b20-com.jetbrains.php.sharedIndexes-PS-262.10968.76" />
       </set>
     </attachedChunks>
   </component>
@@ -327,15 +331,10 @@
       <workItem from="1787365209641" duration="30000" />
       <workItem from="1787375264733" duration="682000" />
       <workItem from="1787375957753" duration="5596000" />
-      <workItem from="1789178163537" duration="1976000" />
-    </task>
-    <task id="LOCAL-00080" summary="Transcendence updates">
-      <option name="closed" value="true" />
-      <created>1779683726900</created>
-      <option name="number" value="00080" />
-      <option name="presentableId" value="LOCAL-00080" />
-      <option name="project" value="LOCAL" />
-      <updated>1779683726901</updated>
+      <workItem from="1789178163537" duration="2252000" />
+      <workItem from="1789697437957" duration="230000" />
+      <workItem from="1789703708690" duration="15000" />
+      <workItem from="1789705742437" duration="112000" />
     </task>
     <task id="LOCAL-00081" summary="Transcendence ost link added">
       <option name="closed" value="true" />
@@ -721,7 +720,15 @@
       <option name="project" value="LOCAL" />
       <updated>1787383874688</updated>
     </task>
-    <option name="localTasksCounter" value="129" />
+    <task id="LOCAL-00129" summary="added lea schema url">
+      <option name="closed" value="true" />
+      <created>1789180530041</created>
+      <option name="number" value="00129" />
+      <option name="presentableId" value="LOCAL-00129" />
+      <option name="project" value="LOCAL" />
+      <updated>1789180530041</updated>
+    </task>
+    <option name="localTasksCounter" value="130" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -759,7 +766,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/.." />
     </ignored-roots>
-    <MESSAGE value="youtube playlists for some publications; yourls now" />
     <MESSAGE value="new cookie monster to match house style" />
     <MESSAGE value="Federation: blurbs; Auf zwei Planeten initial" />
     <MESSAGE value="Auf zwei Planeten new cover" />
@@ -784,6 +790,7 @@
     <MESSAGE value="tpsf-25, updated Amazon link to pre-order" />
     <MESSAGE value="hugo upgrade, wrangler version addition" />
     <MESSAGE value="wrangler version addition" />
-    <option name="LAST_COMMIT_MESSAGE" value="wrangler version addition" />
+    <MESSAGE value="added lea schema url" />
+    <option name="LAST_COMMIT_MESSAGE" value="added lea schema url" />
   </component>
 </project>
