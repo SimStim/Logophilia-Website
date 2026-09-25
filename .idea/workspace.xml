@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5472684e-ca05-4289-9d23-bfd482c66916" name="Changes" comment="added lea schema url">
+    <list default="true" id="5472684e-ca05-4289-9d23-bfd482c66916" name="Changes" comment="added 4Q2026 OST download link">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -71,23 +71,23 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0000000001533098" />
-      <entry key="MS500" value="1.0172266142921311" />
-      <entry key="S2" value="1.974576038191501" />
-      <entry key="S5" value="3.5298181201182537" />
-      <entry key="S10" value="4.539307043231661" />
-      <entry key="S30" value="5.451157977377373" />
-      <entry key="S60" value="5.716946693554323" />
-      <entry key="M2" value="5.858917486072911" />
-      <entry key="M5" value="7.542536591562307" />
-      <entry key="M10" value="20.0592404304415" />
-      <entry key="M15" value="35.267372821841334" />
-      <entry key="M30" value="68.02641484861219" />
-      <entry key="H1" value="102.22795088199751" />
-      <entry key="H2" value="163.9160133826302" />
-      <entry key="H4" value="311.4289933270058" />
-      <entry key="D1" value="783.358807864912" />
-      <entry key="W1" value="952.4170501928717" />
+      <entry key="MS100" value="1.6322524430954022" />
+      <entry key="MS500" value="4.878604220594061" />
+      <entry key="S2" value="12.80055748093953" />
+      <entry key="S5" value="27.098645480955597" />
+      <entry key="S10" value="43.33646774105575" />
+      <entry key="S30" value="84.03427208695066" />
+      <entry key="S60" value="151.83605615228998" />
+      <entry key="M2" value="258.60799224037083" />
+      <entry key="M5" value="394.6124819495253" />
+      <entry key="M10" value="469.3098442909478" />
+      <entry key="M15" value="506.8463948676324" />
+      <entry key="M30" value="566.3329784375909" />
+      <entry key="H1" value="618.874992824569" />
+      <entry key="H2" value="690.6328914613104" />
+      <entry key="H4" value="842.4559099445859" />
+      <entry key="D1" value="1324.0137282585788" />
+      <entry key="W1" value="1497.5070383895425" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
@@ -95,37 +95,37 @@
       <entry key="S2" value="0.0" />
       <entry key="S5" value="0.0" />
       <entry key="S10" value="0.0" />
-      <entry key="S30" value="2.960711079073765E-278" />
-      <entry key="S60" value="1.7206716941571874E-139" />
-      <entry key="M2" value="4.148097990835301E-70" />
-      <entry key="M5" value="1.7666056121817167E-28" />
-      <entry key="M10" value="1.3293275950178964E-14" />
-      <entry key="M15" value="5.636009047582664E-10" />
-      <entry key="M30" value="2.7663857812995176E-5" />
-      <entry key="H1" value="0.010563646544517004" />
-      <entry key="H2" value="0.29882090390955035" />
-      <entry key="H4" value="1.8742474680652341" />
-      <entry key="D1" value="11.266388097156662" />
-      <entry key="W1" value="16.008836391623568" />
+      <entry key="S30" value="9.492809540049214E-286" />
+      <entry key="S60" value="3.081040334050964E-143" />
+      <entry key="M2" value="5.550711966992158E-72" />
+      <entry key="M5" value="3.1458606396055065E-29" />
+      <entry key="M10" value="5.609600810121713E-15" />
+      <entry key="M15" value="3.1708203703277094E-10" />
+      <entry key="M30" value="2.0749743032422774E-5" />
+      <entry key="H1" value="0.009148794043936388" />
+      <entry key="H2" value="0.27809038276683745" />
+      <entry key="H4" value="1.808066627309941" />
+      <entry key="D1" value="11.199087134244023" />
+      <entry key="W1" value="15.99513978952795" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.9794202977370816" />
-      <entry key="MS500" value="1.0130037871506694" />
-      <entry key="S2" value="1.972439742884015" />
-      <entry key="S5" value="3.5282329398941785" />
-      <entry key="S10" value="4.538273232780845" />
-      <entry key="S30" value="5.4507401593510405" />
-      <entry key="S60" value="5.716727071559521" />
-      <entry key="M2" value="5.858802151690917" />
-      <entry key="M5" value="7.5418826862855255" />
-      <entry key="M10" value="20.05660209232252" />
-      <entry key="M15" value="35.26375886206841" />
-      <entry key="M30" value="68.02260052346519" />
-      <entry key="H1" value="102.23544871104754" />
-      <entry key="H2" value="164.21224291943682" />
-      <entry key="H4" value="313.30065994945073" />
-      <entry key="D1" value="794.6240465160425" />
-      <entry key="W1" value="968.4256839819531" />
+      <entry key="MS100" value="1.597743118969022" />
+      <entry key="MS500" value="4.855982598303119" />
+      <entry key="S2" value="12.785550018977224" />
+      <entry key="S5" value="27.08551584773787" />
+      <entry key="S10" value="43.32573939849339" />
+      <entry key="S30" value="84.02725158257604" />
+      <entry key="S60" value="151.82962457863883" />
+      <entry key="M2" value="258.60240575672276" />
+      <entry key="M5" value="394.6088982587704" />
+      <entry key="M10" value="469.30667929243265" />
+      <entry key="M15" value="506.84291054220097" />
+      <entry key="M30" value="566.3293463582596" />
+      <entry key="H1" value="618.8810886987899" />
+      <entry key="H2" value="690.9083682337136" />
+      <entry key="H4" value="844.2613850457609" />
+      <entry key="D1" value="1335.211655731767" />
+      <entry key="W1" value="1513.5019733068966" />
     </decayedShown>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="/usr/bin/php" />
@@ -334,23 +334,7 @@
       <workItem from="1789178163537" duration="2252000" />
       <workItem from="1789697437957" duration="230000" />
       <workItem from="1789703708690" duration="15000" />
-      <workItem from="1789705742437" duration="112000" />
-    </task>
-    <task id="LOCAL-00081" summary="Transcendence ost link added">
-      <option name="closed" value="true" />
-      <created>1779684151976</created>
-      <option name="number" value="00081" />
-      <option name="presentableId" value="LOCAL-00081" />
-      <option name="project" value="LOCAL" />
-      <updated>1779684151976</updated>
-    </task>
-    <task id="LOCAL-00082" summary="Hubris; fixes">
-      <option name="closed" value="true" />
-      <created>1779751595761</created>
-      <option name="number" value="00082" />
-      <option name="presentableId" value="LOCAL-00082" />
-      <option name="project" value="LOCAL" />
-      <updated>1779751595762</updated>
+      <workItem from="1789705742437" duration="1817000" />
     </task>
     <task id="LOCAL-00083" summary="fixes">
       <option name="closed" value="true" />
@@ -728,7 +712,23 @@
       <option name="project" value="LOCAL" />
       <updated>1789180530041</updated>
     </task>
-    <option name="localTasksCounter" value="130" />
+    <task id="LOCAL-00130" summary="added 4Q2026 OST download link">
+      <option name="closed" value="true" />
+      <created>1789705886443</created>
+      <option name="number" value="00130" />
+      <option name="presentableId" value="LOCAL-00130" />
+      <option name="project" value="LOCAL" />
+      <updated>1789705886443</updated>
+    </task>
+    <task id="LOCAL-00131" summary="added 4Q2026 OST download link">
+      <option name="closed" value="true" />
+      <created>1789706030941</created>
+      <option name="number" value="00131" />
+      <option name="presentableId" value="LOCAL-00131" />
+      <option name="project" value="LOCAL" />
+      <updated>1789706030941</updated>
+    </task>
+    <option name="localTasksCounter" value="132" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -766,7 +766,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/.." />
     </ignored-roots>
-    <MESSAGE value="new cookie monster to match house style" />
     <MESSAGE value="Federation: blurbs; Auf zwei Planeten initial" />
     <MESSAGE value="Auf zwei Planeten new cover" />
     <MESSAGE value="New bank account in footer" />
@@ -791,6 +790,7 @@
     <MESSAGE value="hugo upgrade, wrangler version addition" />
     <MESSAGE value="wrangler version addition" />
     <MESSAGE value="added lea schema url" />
-    <option name="LAST_COMMIT_MESSAGE" value="added lea schema url" />
+    <MESSAGE value="added 4Q2026 OST download link" />
+    <option name="LAST_COMMIT_MESSAGE" value="added 4Q2026 OST download link" />
   </component>
 </project>
