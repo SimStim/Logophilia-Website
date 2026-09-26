@@ -14,11 +14,203 @@ const decrypt = (salt, encoded) => {
         .join("");
 };
 
-async function downloadFile(filename) {
-    const apiKey = decrypt(
-        "Prince",
-        "1117144616401615471115121a46461a47111a401740161547151a404240451a121441171a42161411151a1546421513414214171147101516411a1b10121211"
+const getApiKey = () => decrypt(
+    "Prince",
+    "1117144616401615471115121a46461a47111a401740161547151a404240451a121441171a42161411151a1546421513414214171147101516411a1b10121211"
+);
+
+function showApiErrorToast(message) {
+    Toastify({
+        text: message,
+        duration: 6000,
+        gravity: "top",
+        position: "left",
+        stopOnFocus: false,
+        style: { background: "#ff0000" },
+        onClick: function() {}
+    }).showToast();
+}
+
+async function getFileList() {
+    Toastify({
+        text: `Requesting current list of goodies from server.`,
+        duration: 4000,
+        gravity: "top",
+        position: "left",
+        style: { background: "#416392" },
+    }).showToast();
+    try {
+        const resp = await fetch('https://api.logophilia.eu/freeloot', {
+            method: 'GET',
+            headers: { 'X-API-KEY': getApiKey() }
+        });
+
+        const result = await resp.json().catch(() => ({}));
+
+        if (!resp.ok) {
+            showApiErrorToast(result.message || `HTTP ${resp.status}: ${resp.statusText}`);
+            return [];
+        }
+
+        if (result.status !== 'success') {
+            showApiErrorToast(result.message || 'Something went wrong. Please try again.');
+            return [];
+        }
+
+        if (!Array.isArray(result.freeloot)) {
+            showApiErrorToast('File list response is invalid.');
+            return [];
+        }
+
+        return result.freeloot.filter((file) =>
+            file
+            && typeof file.name === 'string'
+            && typeof file.sha256 === 'string'
+            && Number.isFinite(Number(file.size))
+        );
+    } catch (e) {
+        showApiErrorToast(`File list request failed: ${e.message}`);
+        return [];
+    }
+}
+
+function createDownloadButton(file) {
+    const button = document.createElement('button');
+    button.type = 'button';
+
+    const name = document.createElement('span');
+    name.textContent = file.name;
+
+    const size = document.createElement('span');
+    size.textContent = ` (${file.size} bytes) `;
+
+    const hashWrapper = document.createElement('span');
+    hashWrapper.textContent = '[';
+
+    const hashLabel = document.createElement('span');
+    hashLabel.textContent = 'SHA-256';
+    hashLabel.title = file.sha256;
+
+    const copyGlyph = document.createElement('span');
+    copyGlyph.textContent = ' 📋';
+    copyGlyph.title = 'Copy SHA-256 hash for "' + file.name + '" to clipboard';
+    copyGlyph.style.cursor = 'copy';
+    copyGlyph.setAttribute('role', 'button');
+    copyGlyph.setAttribute('aria-label', 'Copy SHA-256 hash for "' + file.name + '" to clipboard');
+    copyGlyph.addEventListener('click', async (event) => {
+        event.stopPropagation();
+
+        try {
+            await navigator.clipboard.writeText(file.sha256);
+            Toastify({
+                text: 'SHA-256 hash for "' + file.name + '" copied to clipboard.',
+                duration: 3000,
+                gravity: "top",
+                position: "left",
+                style: { background: "#36482e" },
+            }).showToast();
+        } catch (e) {
+            showApiErrorToast(`Could not copy SHA-256 hash: ${e.message}`);
+        }
+    });
+
+    const hashClosingBracket = document.createElement('span');
+    hashClosingBracket.textContent = ']';
+
+    hashWrapper.appendChild(hashLabel);
+    hashWrapper.appendChild(copyGlyph);
+    hashWrapper.appendChild(hashClosingBracket);
+
+    button.appendChild(name);
+    button.appendChild(size);
+    button.appendChild(hashWrapper);
+
+    button.addEventListener('click', () => {
+        downloadFile(file.name);
+    });
+
+    return button;
+}
+
+function createDownloadSection(title, files) {
+    if (!files.length) {
+        return null;
+    }
+
+    const fragment = document.createDocumentFragment();
+
+    const heading = document.createElement('h4');
+    heading.textContent = title;
+    fragment.appendChild(heading);
+
+    const wrapper = document.createElement('div');
+    wrapper.style.display = 'flex';
+    wrapper.style.flexDirection = 'column';
+    wrapper.style.alignItems = 'flex-start';
+    files.forEach((file) => {
+        wrapper.appendChild(createDownloadButton(file));
+    });
+    fragment.appendChild(wrapper);
+
+    return fragment;
+}
+
+async function renderDownloadList() {
+    const downloadList = document.getElementById('download-list');
+
+    if (!downloadList) {
+        return;
+    }
+
+    downloadList.textContent = '';
+
+    const files = await getFileList();
+
+    const essentialsFiles = files.filter((file) =>
+        file.name.includes('The Pitch Science Fiction')
+        && file.name.includes('Logophilia Essentials')
+        && file.name.endsWith('.epub')
     );
+
+    const ostFiles = files.filter((file) =>
+        file.name.includes('The Pitch Science Fiction')
+        && file.name.includes('OST')
+        && file.name.endsWith('.zip')
+    );
+
+    const otherFiles = files.filter((file) =>
+        !essentialsFiles.includes(file)
+        && !ostFiles.includes(file)
+    );
+
+    const essentialsSection = createDownloadSection(
+        'The Pitch Science Fiction (ISSN 2806-4240)',
+        essentialsFiles
+    );
+    const ostSection = createDownloadSection(
+        'The Pitch Science Fiction OST',
+        ostFiles
+    );
+    const othersSection = createDownloadSection(
+        'Others',
+        otherFiles
+    );
+
+    if (essentialsSection) {
+        downloadList.appendChild(essentialsSection);
+    }
+
+    if (ostSection) {
+        downloadList.appendChild(ostSection);
+    }
+
+    if (othersSection) {
+        downloadList.appendChild(othersSection);
+    }
+}
+
+async function downloadFile(filename) {
+    const apiKey = getApiKey();
     // Immediate feedback
     const toast = Toastify({
         text: `Requesting file from server.`,
@@ -313,17 +505,17 @@ async function downloadFile(filename) {
             const emailInput = nlForm.querySelector('input[type="email"]');
             const email = emailInput?.value.trim();
             if (!email || !/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email)) {
-                    Toastify({
-                        text: "Please enter a valid email addrees",
-                        duration: 3000,
-                        gravity: "top",
-                        position: "left",
-                        stopOnFocus: false,
-                        style: {
-                            background: "linear-gradient(to right, #000000, #9063cd)",
-                        },
-                        onClick: function(){} // Callback after click
-                    }).showToast();
+                Toastify({
+                    text: "Please enter a valid email addrees",
+                    duration: 3000,
+                    gravity: "top",
+                    position: "left",
+                    stopOnFocus: false,
+                    style: {
+                        background: "linear-gradient(to right, #000000, #9063cd)",
+                    },
+                    onClick: function(){} // Callback after click
+                }).showToast();
                 valid = false;
             }
             // Consent
@@ -419,6 +611,13 @@ async function downloadFile(filename) {
 document.addEventListener('DOMContentLoaded', () => {
     const form = document.querySelector('form');
     const fileInput = document.querySelector('input[type="file"]');
+    const toggleAllButton = document.getElementById('toggleAll');
+    const accordionItems = document.querySelectorAll('.accordion-item');
+
+    if (!form || !fileInput || !toggleAllButton) {
+        return;
+    }
+
     // Create UI elements
     const progressContainer = createProgressBar();
     const messageContainer = createMessageContainer();
@@ -426,9 +625,6 @@ document.addEventListener('DOMContentLoaded', () => {
     form.appendChild(messageContainer);
 
     // Accordion functionality
-    const toggleAllButton = document.getElementById('toggleAll');
-    const accordionItems = document.querySelectorAll('.accordion-item');
-
     toggleAllButton.addEventListener('click', () => {
         const allOpen = Array.from(accordionItems).every(item => item.open);
 
@@ -497,7 +693,7 @@ document.addEventListener('DOMContentLoaded', () => {
         container.className = 'progress-container';
         container.style.display = 'none';
         container.innerHTML = `
-      <div class="progress-bar" style="width:0;background:#008040;height:20px;border-radius:4px;transition:width 0.3s"></div>
+      <div class="progress-bar" style="width:0;background:#36482e;height:20px;border-radius:4px;transition:width 0.3s"></div>
       <div class="progress-text" style="margin-top:5px;font-size:14px">0%</div>
     `;
         return container;

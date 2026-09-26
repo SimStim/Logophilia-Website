@@ -2,46 +2,32 @@
 type = "page"
 draft = false
 title = 'Free Loot'
+layout = "simple"
 +++
 <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/toastify-js/src/toastify.min.css">
 
 <p>Logophilia Essentials editions are always free. Come back regularly for updates,
     or <a href="https://mnemonics.logophilia.eu/">subscribe to our newsletter <i>Mnemonics</i></a>.</p>
 
-<h4>The Pitch Science Fiction (ISSN 2806-4240)</h4>
-
-<div>
-    <button onclick="downloadFile(this.textContent.trim())">The Pitch Science Fiction 2Q2024 - Logophilia Essentials.epub</button>
-    <button onclick="downloadFile(this.textContent.trim())">The Pitch Science Fiction 3Q2024 - Logophilia Essentials.epub</button>
-    <button onclick="downloadFile(this.textContent.trim())">The Pitch Science Fiction 4Q2024 - Logophilia Essentials.epub</button>
-    <button onclick="downloadFile(this.textContent.trim())">The Pitch Science Fiction 2024 - Logophilia Essentials.epub</button>
-    <button onclick="downloadFile(this.textContent.trim())">The Pitch Science Fiction 1Q2025 - Logophilia Essentials.epub</button>
-    <button onclick="downloadFile(this.textContent.trim())">The Pitch Science Fiction 2Q2025 - Logophilia Essentials.epub</button>
-    <button onclick="downloadFile(this.textContent.trim())">The Pitch Science Fiction 3Q2025 - Logophilia Essentials.epub</button>
-    <button onclick="downloadFile(this.textContent.trim())">The Pitch Science Fiction 4Q2025 - Logophilia Essentials.epub</button>
-    <button onclick="downloadFile(this.textContent.trim())">The Pitch Science Fiction 2025 - Logophilia Essentials.epub</button>
-    <button onclick="downloadFile(this.textContent.trim())">The Pitch Science Fiction 1Q2026 - Logophilia Essentials.epub</button>
-    <button onclick="downloadFile(this.textContent.trim())">The Pitch Science Fiction 2Q2026 - Logophilia Essentials.epub</button>
-    <button onclick="downloadFile(this.textContent.trim())">The Pitch Science Fiction 3Q2026 - Logophilia Essentials.epub</button>
-</div>
-
-<h4>The Pitch Science Fiction OST</h4>
-
-<div>
-    <button onclick="downloadFile(this.textContent.trim())">The Pitch Science Fiction 2Q2024 OST E55.zip</button>
-    <button onclick="downloadFile(this.textContent.trim())">The Pitch Science Fiction 3Q2024 OST E55.zip</button>
-    <button onclick="downloadFile(this.textContent.trim())">The Pitch Science Fiction 4Q2024 OST E55.zip</button>
-    <button onclick="downloadFile(this.textContent.trim())">The Pitch Science Fiction 2024 OST E55.zip</button>
-    <button onclick="downloadFile(this.textContent.trim())">The Pitch Science Fiction 1Q2025 OST E55.zip</button>
-    <button onclick="downloadFile(this.textContent.trim())">The Pitch Science Fiction 2Q2025 OST E55.zip</button>
-    <button onclick="downloadFile(this.textContent.trim())">The Pitch Science Fiction 3Q2025 OST E55.zip</button>
-    <button onclick="downloadFile(this.textContent.trim())">The Pitch Science Fiction 4Q2025 OST E55.zip</button>
-    <button onclick="downloadFile(this.textContent.trim())">The Pitch Science Fiction 2025 OST E55.zip</button>
-    <button onclick="downloadFile(this.textContent.trim())">The Pitch Science Fiction 1Q2026 OST E55.zip</button>
-    <button onclick="downloadFile(this.textContent.trim())">The Pitch Science Fiction 2Q2026 OST.zip</button>
-    <button onclick="downloadFile(this.textContent.trim())">The Pitch Science Fiction 3Q2026 OST.zip</button>
-    <button onclick="downloadFile(this.textContent.trim())">The Pitch Science Fiction 4Q2026 OST.zip</button>
-</div>
+<div id="download-list"></div>
 
 <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/toastify-js"></script>
 <script src="/main.js"></script>
+
+<script>
+    (function () {
+        'use strict';
+        renderDownloadList();
+        // --- Mobile Menu ---
+        const menuToggle = document.querySelector('.mobile-menu-toggle');
+        const mainNav = document.getElementById('main-nav');
+        if (menuToggle && mainNav) {
+            menuToggle.addEventListener('click', () => {
+                const expanded = menuToggle.getAttribute('aria-expanded') === 'true';
+                menuToggle.setAttribute('aria-expanded', !expanded);
+                mainNav.classList.toggle('open');
+                document.body.style.overflow = expanded ? '' : 'hidden';
+            });
+        }
+    })();
+</script>
