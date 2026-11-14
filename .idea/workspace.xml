@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5472684e-ca05-4289-9d23-bfd482c66916" name="Changes" comment="tpsf-27: new cover" />
+    <list default="true" id="5472684e-ca05-4289-9d23-bfd482c66916" name="Changes" comment="tpsf-27: small fix to cover" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,7 +22,9 @@
                     <execution>
                       <execution>
                         <execution>
-                          <execution />
+                          <execution>
+                            <execution />
+                          </execution>
                         </execution>
                       </execution>
                     </execution>
@@ -342,14 +344,7 @@
       <workItem from="1790373738617" duration="1221000" />
       <workItem from="1790453031926" duration="8958000" />
       <workItem from="1791089587560" duration="234000" />
-    </task>
-    <task id="LOCAL-00086" summary="Dichotomies of Longing">
-      <option name="closed" value="true" />
-      <created>1779919654857</created>
-      <option name="number" value="00086" />
-      <option name="presentableId" value="LOCAL-00086" />
-      <option name="project" value="LOCAL" />
-      <updated>1779919654857</updated>
+      <workItem from="1791144721571" duration="651000" />
     </task>
     <task id="LOCAL-00087" summary="Professional EPUB Production">
       <option name="closed" value="true" />
@@ -735,7 +730,15 @@
       <option name="project" value="LOCAL" />
       <updated>1791089616026</updated>
     </task>
-    <option name="localTasksCounter" value="135" />
+    <task id="LOCAL-00135" summary="tpsf-27: small fix to cover">
+      <option name="closed" value="true" />
+      <created>1791144739621</created>
+      <option name="number" value="00135" />
+      <option name="presentableId" value="LOCAL-00135" />
+      <option name="project" value="LOCAL" />
+      <updated>1791144739621</updated>
+    </task>
+    <option name="localTasksCounter" value="136" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -773,7 +776,6 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$/.." />
     </ignored-roots>
-    <MESSAGE value="Daria Skrinitsa new portrait" />
     <MESSAGE value="OST downloads added" />
     <MESSAGE value="issn fix" />
     <MESSAGE value="OST 2024, 2025 added to free loot" />
@@ -798,6 +800,7 @@
     <MESSAGE value="TPSF 2026: initial&#10;TPSF 4Q2026: refresh" />
     <MESSAGE value="Free Loot page: generate download list dynamically from JSON returned by API call." />
     <MESSAGE value="tpsf-27: new cover" />
-    <option name="LAST_COMMIT_MESSAGE" value="tpsf-27: new cover" />
+    <MESSAGE value="tpsf-27: small fix to cover" />
+    <option name="LAST_COMMIT_MESSAGE" value="tpsf-27: small fix to cover" />
   </component>
 </project>
